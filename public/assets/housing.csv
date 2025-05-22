@@ -1,0 +1,1461 @@
+id,Lot Area,Lot Config,Home Type,Roof Style,Foundation Type,Basement Area,Heating Type,Central Air,Rooms,Fireplaces,Garage Type,Fence Type,Year,Price,Satisfaction
+p01,11241,CulDSac,Single Family,Gable,CBlock,1004,GasA,Y,5,1,Attchd,NA,2010,149000,8
+p02,8246,Inside,Single Family,Gable,CBlock,1060,GasA,Y,6,1,Attchd,MnPrv,2010,154000,8
+p03,7200,Corner,Single Family,Gable,CBlock,900,GasA,Y,5,0,Detchd,NA,2010,134800,3
+p04,11478,Inside,Single Family,Gable,PConc,1704,GasA,Y,7,1,Attchd,NA,2010,306000,5
+p05,10552,Inside,Single Family,Hip,CBlock,1398,GasA,Y,6,1,Attchd,NA,2010,165500,3
+p06,7922,Inside,Single Family,Gable,CBlock,1057,GasA,Y,5,0,Detchd,NA,2010,109000,5
+p07,7658,Inside,Townhouse,Hip,PConc,1752,GasA,Y,6,1,Attchd,NA,2010,319900,5
+p08,8472,Corner,Duplex,Gable,CBlock,816,GasA,N,5,0,CarPort,NA,2010,110000,8
+p09,10300,Inside,Single Family,Gable,BrkTil,576,GasA,Y,9,0,Detchd,GdPrv,2010,140000,8
+p10,19900,Inside,Single Family,Gable,CBlock,1947,GasA,Y,7,1,Attchd,NA,2010,180000,2
+p11,4608,Corner,Single Family,Gable,CBlock,747,GasA,Y,4,0,Attchd,NA,2010,80000,10
+p12,10200,Inside,Single Family,Gable,CBlock,1086,GasA,Y,6,0,Attchd,GdWo,2010,144900,8
+p13,5790,Corner,Single Family,Gambrel,CBlock,840,GasA,N,8,0,Detchd,NA,2010,107400,10
+p14,10778,Inside,Duplex,Hip,CBlock,1768,GasA,N,8,0,NA,NA,2010,136500,8
+p15,10625,Corner,Single Family,Gable,BrkTil,458,GasA,N,5,0,Basment,NA,2010,83000,3
+p16,9320,Inside,Single Family,Gable,CBlock,950,GasA,Y,6,0,NA,NA,2010,128950,1
+p17,10603,Inside,Single Family,Gable,PConc,1610,GasA,Y,6,2,Attchd,NA,2010,205000,4
+p18,9206,Inside,Single Family,Gable,CBlock,741,GasA,Y,7,1,Attchd,NA,2010,178000,10
+p19,10402,Corner,Single Family,Gable,PConc,1226,GasA,Y,6,0,Attchd,NA,2010,198900,6
+p20,11751,Inside,Single Family,Hip,CBlock,1844,GasA,Y,7,1,Attchd,MnPrv,2010,190000,2
+p21,7750,Inside,Single Family,Gable,PConc,384,GasA,Y,7,1,BuiltIn,NA,2010,180000,2
+p22,12376,Corner,Single Family,Hip,PConc,1673,GasA,Y,11,2,Attchd,NA,2010,320000,1
+p23,10500,FR2,Single Family,Gable,CBlock,864,GasA,Y,5,1,NA,NA,2010,115000,3
+p24,8520,Corner,Single Family,Gable,CBlock,910,GasA,Y,6,0,Detchd,MnPrv,2010,166000,4
+p25,9505,CulDSac,Single Family,Gable,PConc,884,GasA,Y,8,1,BuiltIn,NA,2010,222500,4
+p26,12003,Corner,Single Family,Gable,PConc,774,GasA,Y,8,1,BuiltIn,NA,2010,269500,2
+p27,12552,Corner,Single Family,Gable,PConc,991,GasA,Y,8,1,Attchd,GdWo,2010,254900,1
+p28,12182,Corner,Single Family,Gable,PConc,1541,GasA,Y,7,1,Attchd,NA,2010,220000,10
+p29,31770,Corner,Single Family,Hip,CBlock,1080,GasA,Y,7,2,Attchd,NA,2010,215000,2
+p30,8546,Corner,Single Family,Gable,PConc,1121,GasA,Y,5,0,Attchd,NA,2010,140000,2
+p31,10420,Corner,Single Family,Gable,PConc,1212,GasA,Y,6,0,Attchd,NA,2010,186000,1
+p32,10900,FR2,Single Family,Gable,CBlock,689,GasA,Y,6,0,Attchd,MnPrv,2010,161750,4
+p33,8521,FR2,Single Family,Gable,CBlock,912,GasA,Y,5,1,Detchd,MnPrv,2010,125000,5
+p34,8760,Inside,Single Family,Hip,CBlock,1194,GasA,Y,6,0,Attchd,NA,2010,148000,6
+p35,10650,Corner,Single Family,Gable,CBlock,894,GasA,Y,5,0,Attchd,MnPrv,2010,128200,3
+p36,7851,Inside,Single Family,Gable,PConc,860,GasA,Y,8,2,BuiltIn,NA,2010,216500,9
+p37,8773,FR2,Single Family,Gable,PConc,1414,GasA,Y,6,0,Attchd,NA,2010,185500,3
+p38,9453,CulDSac,Single Family,Gable,PConc,996,GasA,Y,7,0,Attchd,NA,2010,194500,9
+p39,8741,Inside,Single Family,Gable,CBlock,735,GasA,Y,7,1,Detchd,MnPrv,2010,113000,4
+p40,9000,Inside,Single Family,Gable,PConc,1566,GasA,Y,7,0,Attchd,NA,2010,262500,1
+p41,8880,Inside,Single Family,Gable,PConc,948,GasA,Y,8,2,Attchd,NA,2010,205000,9
+p42,5350,Inside,Single Family,Gable,CBlock,728,GasA,Y,6,0,NA,GdWo,2010,76500,3
+p43,8400,Inside,Single Family,Gable,CBlock,1314,GasA,Y,5,0,Attchd,NA,2010,145000,1
+p44,5500,Corner,Single Family,Gable,BrkTil,926,GasA,Y,6,0,Detchd,NA,2010,130000,2
+p45,11764,CulDSac,Single Family,Gable,PConc,1152,GasA,Y,9,1,Attchd,NA,2010,290000,4
+p46,9196,Inside,Single Family,Gable,PConc,1560,GasA,Y,7,0,Attchd,NA,2010,201000,7
+p47,19138,Corner,Single Family,Gable,CBlock,864,GasA,Y,4,0,Detchd,NA,2010,141000,3
+p48,9819,Inside,Single Family,Gable,CBlock,882,GasA,Y,5,0,Detchd,MnPrv,2010,122000,5
+p49,11275,Corner,Single Family,Mansard,CBlock,710,GasA,Y,11,1,BuiltIn,NA,2010,242000,6
+p50,14191,Inside,Single Family,Gable,PConc,967,GasA,Y,9,0,Attchd,NA,2010,202900,2
+p51,2592,Inside,Townhouse,Gable,CBlock,536,GasA,Y,4,0,Attchd,NA,2010,85000,9
+p52,8520,Inside,Single Family,Gable,BrkTil,624,GasA,Y,5,0,Detchd,NA,2010,105900,6
+p53,7800,Inside,Single Family,Gable,PConc,1268,GasA,Y,7,1,Attchd,NA,2010,132000,10
+p54,9830,Corner,Single Family,Gable,CBlock,1063,GasA,Y,7,1,Detchd,NA,2010,162000,2
+p55,7175,Inside,Townhouse,Gable,CBlock,744,GasA,Y,4,0,Attchd,MnPrv,2010,125000,7
+p56,11394,Corner,Single Family,Hip,PConc,1856,GasA,Y,8,1,Attchd,NA,2010,394432,1
+p57,5000,Inside,Single Family,Gable,BrkTil,1026,GasA,Y,6,1,Detchd,NA,2010,127000,6
+p58,3182,Inside,Townhouse,Gable,PConc,1256,GasA,Y,6,1,Attchd,NA,2010,192000,2
+p59,9571,Inside,Single Family,Gable,CBlock,1144,GasA,Y,6,0,Attchd,NA,2010,129000,9
+p60,4403,Inside,Single Family,Gable,PConc,1470,GasA,Y,7,1,Attchd,NA,2010,222000,9
+p61,8960,Inside,Single Family,Gable,CBlock,1008,GasA,Y,5,1,Detchd,NA,2010,115000,2
+p62,8450,Inside,Single Family,Gable,CBlock,1056,GasA,Y,6,1,Attchd,NA,2010,142000,10
+p63,16492,Corner,Single Family,Gable,CBlock,1517,GasA,Y,6,1,Attchd,NA,2010,190000,4
+p64,6820,Corner,Townhouse,Gable,PConc,1488,GasA,Y,4,0,Attchd,NA,2010,212000,3
+p65,15602,Inside,Single Family,Gable,CBlock,1501,GasA,Y,6,2,Attchd,GdWo,2010,289000,7
+p66,7200,Inside,Single Family,Gable,Slab,0,GasA,Y,5,1,Detchd,NA,2010,107500,5
+p67,11423,Inside,Single Family,Gable,PConc,1581,GasA,Y,6,1,Attchd,MnPrv,2010,272000,10
+p68,11341,Inside,Single Family,Hip,CBlock,1392,GasA,Y,5,1,Detchd,NA,2010,121500,8
+p69,6858,Corner,Single Family,Gable,PConc,806,GasA,N,6,0,Detchd,NA,2010,128000,7
+p70,10171,Inside,Single Family,Gable,PConc,1517,GasA,Y,7,0,Attchd,NA,2010,214000,7
+p71,3182,Inside,Townhouse,Gable,PConc,600,GasA,Y,4,0,Detchd,NA,2010,151000,2
+p72,1491,Inside,Townhouse,Gable,CBlock,630,GasA,Y,3,0,NA,NA,2010,75500,1
+p73,8800,Inside,Single Family,Gable,PConc,936,GasA,Y,6,0,Attchd,MnPrv,2010,137500,2
+p74,10000,Corner,Single Family,Hip,CBlock,1116,GasA,Y,5,0,Attchd,NA,2010,160000,2
+p75,9600,Inside,Single Family,Gable,CBlock,1156,GasA,Y,7,2,Basment,NA,2010,153000,6
+p76,6979,Inside,Duplex,Gable,CBlock,1056,GasA,Y,4,0,Detchd,GdPrv,2010,144000,7
+p77,7700,Inside,Single Family,Gable,CBlock,756,GasA,Y,7,1,Attchd,NA,2010,155000,4
+p78,1680,Inside,Townhouse,Gable,CBlock,525,GasA,Y,6,0,Detchd,NA,2010,88000,4
+p79,17503,Inside,Single Family,Gable,CBlock,912,GasA,Y,6,1,Attchd,NA,2010,97500,5
+p80,8012,Inside,Townhouse,Gable,CBlock,923,GasA,Y,5,1,Attchd,NA,2010,143000,9
+p81,16770,CulDSac,Single Family,Gable,PConc,1195,GasA,Y,7,0,Attchd,NA,2010,221000,2
+p82,8450,Inside,Single Family,Gable,CBlock,894,GasA,Y,5,1,Detchd,MnPrv,2010,138500,10
+p83,7630,Inside,Condo,Gable,BrkTil,360,GasA,Y,8,1,Detchd,MnPrv,2010,140000,4
+p84,8400,Inside,Single Family,Gable,PConc,1473,GasA,Y,7,0,Attchd,NA,2010,213000,9
+p85,5600,Inside,Condo,Hip,Slab,0,GasA,N,7,0,NA,NA,2010,55000,9
+p86,8712,Inside,Single Family,Gable,Stone,859,GasA,Y,7,0,Detchd,NA,2010,102776,9
+p87,13517,CulDSac,Single Family,Gable,CBlock,725,GasA,Y,6,0,Attchd,NA,2010,130500,6
+p88,4426,Inside,Townhouse,Gable,PConc,848,GasA,Y,3,0,Attchd,NA,2010,143000,4
+p89,5389,Inside,Townhouse,Gable,PConc,1595,GasA,Y,5,1,Attchd,NA,2010,236500,7
+p90,10593,Inside,Single Family,Hip,PConc,1720,GasA,Y,7,1,Attchd,NA,2010,260400,4
+p91,8800,Corner,Single Family,Gable,BrkTil,576,GasA,Y,7,0,NA,NA,2010,96500,2
+p92,11616,CulDSac,Single Family,Hip,CBlock,672,GasA,Y,6,1,Attchd,GdPrv,2010,158900,6
+p93,8640,Inside,Single Family,Gable,PConc,756,GasA,Y,7,0,Attchd,NA,2010,215200,1
+p94,10421,Inside,Single Family,Gable,CBlock,980,GasA,Y,7,1,Attchd,MnPrv,2010,196500,9
+p95,53504,CulDSac,Single Family,Hip,PConc,1650,GasA,Y,12,1,BuiltIn,NA,2010,538000,8
+p96,7819,Inside,Single Family,Gable,CBlock,1029,GasA,Y,6,1,Detchd,MnPrv,2010,107000,7
+p97,10800,Inside,Single Family,Gable,PConc,686,GasA,Y,7,0,Detchd,NA,2010,139000,10
+p98,10142,Inside,Single Family,Gable,PConc,956,GasA,Y,8,0,BuiltIn,NA,2010,233000,6
+p99,8400,Inside,Single Family,Gable,CBlock,650,GasA,Y,7,1,Attchd,MnPrv,2010,171000,8
+p100,8712,Inside,Single Family,Hip,CBlock,540,GasA,N,4,0,Basment,NA,2010,55993,9
+p101,12137,CulDSac,Single Family,Gable,PConc,1649,GasA,Y,6,0,Attchd,NA,2010,224900,8
+p102,8816,Inside,Single Family,Gable,CBlock,1010,GasA,Y,6,0,Attchd,MnPrv,2010,155000,10
+p103,6371,Inside,Townhouse,Gable,PConc,1358,GasA,Y,6,1,Attchd,NA,2010,224000,9
+p104,9548,CulDSac,Single Family,Gable,PConc,941,GasA,Y,7,1,Attchd,NA,2010,237000,9
+p105,9600,Inside,Single Family,Gable,CBlock,1067,GasA,Y,4,0,Attchd,NA,2010,128000,9
+p106,6897,Corner,Single Family,Gable,CBlock,1040,GasA,Y,6,0,Detchd,NA,2010,127000,1
+p107,11625,Inside,Condo,Hip,PConc,1039,GasA,Y,6,0,Attchd,NA,2010,131500,2
+p108,9672,Corner,Single Family,Hip,PConc,1040,GasA,Y,6,0,Attchd,GdPrv,2010,152000,10
+p109,9938,Inside,Single Family,Gable,PConc,1050,GasA,Y,8,1,Attchd,GdPrv,2010,236000,1
+p110,8750,Inside,Single Family,Gable,PConc,804,GasA,Y,7,0,Attchd,NA,2010,200500,4
+p111,11782,Inside,Single Family,Gable,CBlock,1109,GasA,Y,6,0,Detchd,MnPrv,2010,148000,7
+p112,12919,Inside,Single Family,Hip,PConc,2330,GasA,Y,11,2,Attchd,NA,2010,611657,1
+p113,9920,Inside,Single Family,Gable,CBlock,1056,GasA,Y,6,0,Attchd,MnPrv,2010,128000,8
+p114,11600,Corner,Duplex,Gable,CBlock,1105,GasA,Y,12,0,Detchd,NA,2010,154300,5
+p115,24090,Inside,Single Family,Gable,CBlock,1032,GasA,Y,10,2,Attchd,NA,2010,244400,3
+p116,9360,Inside,Single Family,Hip,CBlock,1161,GasA,Y,5,1,Attchd,NA,2010,197500,2
+p117,2572,FR2,Townhouse,Hip,PConc,696,GasA,Y,6,0,Detchd,NA,2010,155000,3
+p118,7207,Inside,Single Family,Gable,CBlock,858,GasA,Y,4,0,NA,NA,2010,116500,6
+p119,11316,Corner,Single Family,Gable,PConc,817,GasA,Y,8,1,BuiltIn,NA,2010,214900,2
+p120,7892,Inside,Townhouse,Gable,CBlock,918,GasA,Y,5,1,Attchd,NA,2010,99500,7
+p121,10159,Inside,Single Family,Hip,PConc,1930,GasA,Y,8,1,Attchd,NA,2010,395192,1
+p122,6762,Inside,Single Family,Gable,PConc,1187,GasA,Y,6,0,Attchd,NA,2010,206000,2
+p123,9825,Inside,Duplex,Hip,CBlock,0,GasA,N,8,0,NA,NA,2010,100000,7
+p124,9300,Inside,Single Family,Gable,CBlock,1268,GasA,Y,6,2,Attchd,NA,2010,167500,1
+p125,11100,Inside,Single Family,Gable,CBlock,0,GasA,Y,6,0,Detchd,NA,2010,84900,10
+p126,8562,Inside,Single Family,Hip,CBlock,1216,GasA,Y,7,1,Basment,NA,2010,144500,4
+p127,4920,Inside,Townhouse,Gable,PConc,1338,GasA,Y,6,0,Attchd,NA,2010,213500,6
+p128,14000,Inside,Single Family,Gable,PConc,1306,GasA,Y,7,0,Attchd,NA,2010,328000,6
+p129,7500,Corner,Single Family,Gable,CBlock,1040,GasA,Y,5,0,Attchd,MnPrv,2010,133000,7
+p130,9069,Inside,Single Family,Gable,PConc,936,GasA,Y,5,0,Attchd,NA,2010,147000,4
+p131,1974,Inside,Townhouse,Gable,CBlock,546,GasA,Y,6,0,Attchd,NA,2010,83500,9
+p132,5868,Inside,Single Family,Gable,CBlock,936,GasA,Y,4,0,Attchd,NA,2010,129000,6
+p133,12256,Corner,Single Family,Gable,PConc,1463,GasA,Y,9,2,Attchd,NA,2010,325000,4
+p134,6342,Inside,Single Family,Gable,CBlock,780,GasA,N,6,0,NA,NA,2010,94000,10
+p135,12180,Inside,Condo,Gable,BrkTil,672,Grav,N,5,0,Detchd,MnPrv,2010,80000,10
+p136,2280,Inside,Townhouse,Gable,CBlock,855,GasA,Y,7,1,Attchd,NA,2010,146000,9
+p137,10475,Corner,Single Family,Gable,PConc,1694,GasA,Y,7,0,Attchd,NA,2010,245350,6
+p138,7500,Inside,Single Family,Gable,PConc,994,GasA,Y,7,1,Attchd,NA,2010,189000,2
+p139,9364,Corner,Single Family,Gable,CBlock,663,GasA,Y,7,0,Attchd,MnPrv,2010,158000,1
+p140,11218,Inside,Single Family,Gable,PConc,1055,GasA,Y,8,1,Attchd,GdPrv,2010,189000,9
+p141,12134,Inside,Single Family,Gable,Wood,559,GasA,Y,8,0,Basment,NA,2010,164000,7
+p142,8930,Inside,Duplex,Gable,Slab,0,GasA,Y,8,0,Attchd,NA,2010,112000,8
+p143,12160,Inside,Single Family,Hip,CBlock,1188,GasA,Y,6,0,Attchd,MnPrv,2010,142000,7
+p144,2628,Inside,Townhouse,Gable,PConc,764,GasA,Y,6,0,BuiltIn,NA,2010,175500,6
+p145,10625,Inside,Single Family,Gable,CBlock,1053,GasA,Y,6,2,Attchd,MnPrv,2010,170000,7
+p146,12328,Inside,Single Family,Gable,CBlock,1012,GasA,Y,6,0,Attchd,NA,2010,169900,10
+p147,11160,Corner,Single Family,Hip,CBlock,2110,GasA,Y,8,2,Attchd,NA,2010,244000,8
+p148,13214,Inside,Single Family,Hip,PConc,2002,GasA,Y,10,1,Attchd,NA,2010,378500,7
+p149,23595,Inside,Single Family,Shed,PConc,1332,GasA,Y,4,1,Attchd,NA,2010,260000,5
+p150,7500,Inside,Single Family,Gable,CBlock,698,GasA,Y,6,0,Detchd,NA,2010,68400,4
+p151,9400,Corner,Duplex,Mansard,CBlock,912,GasA,Y,8,0,NA,NA,2010,139000,5
+p152,9638,Inside,Single Family,Gable,PConc,804,GasA,Y,10,1,Detchd,NA,2010,169000,7
+p153,9790,Inside,Single Family,Hip,CBlock,1328,GasA,Y,6,2,Attchd,NA,2010,143000,10
+p154,14112,Corner,Single Family,Hip,PConc,1152,GasA,Y,6,1,Attchd,NA,2010,180500,2
+p155,7500,Inside,Single Family,Hip,CBlock,1246,GasA,Y,6,0,Attchd,GdPrv,2010,154000,7
+p156,17500,Inside,Single Family,Gable,PConc,1902,GasA,Y,7,2,Attchd,NA,2010,335000,5
+p157,14774,Corner,Single Family,Gable,PConc,1393,GasA,Y,10,1,BuiltIn,NA,2010,333168,4
+p158,10186,Inside,Single Family,Gable,PConc,750,GasA,Y,8,1,Attchd,NA,2010,190000,7
+p159,14720,CulDSac,Single Family,Hip,PConc,2033,GasA,Y,9,1,Attchd,NA,2010,410000,2
+p160,12537,CulDSac,Single Family,Gable,CBlock,1078,GasA,Y,6,1,Attchd,NA,2010,149900,7
+p161,2117,Inside,Townhouse,Gable,PConc,756,GasA,Y,5,0,Detchd,NA,2010,177500,5
+p162,7500,Inside,Single Family,Gable,PConc,814,GasA,Y,7,0,Attchd,NA,2010,216000,6
+p163,10635,FR2,Single Family,Hip,PConc,1657,GasA,Y,8,1,Attchd,NA,2010,232000,10
+p164,8212,Inside,Single Family,Gable,BrkTil,864,GasA,N,5,0,Detchd,NA,2010,58500,3
+p165,5436,Inside,Single Family,Gable,BrkTil,796,GasA,Y,7,0,Detchd,MnPrv,2010,125500,4
+p166,57200,Inside,Single Family,Gable,CBlock,747,GasA,Y,7,2,Detchd,NA,2010,160000,2
+p167,7740,Inside,Single Family,Gable,CBlock,622,GasA,Y,6,0,Detchd,NA,2010,125500,7
+p168,11340,Inside,Condo,Gable,PConc,777,GasA,Y,11,0,Detchd,NA,2010,122500,10
+p169,4043,Inside,Townhouse,Gable,CBlock,1069,GasA,Y,4,1,Attchd,NA,2010,127500,9
+p170,7200,Corner,Single Family,Gable,CBlock,788,GasA,Y,4,2,Attchd,MnPrv,2010,119000,6
+p171,7407,Inside,Single Family,Gable,CBlock,912,GasA,Y,6,0,Attchd,MnPrv,2010,149700,1
+p172,26142,CulDSac,Single Family,Gable,CBlock,1188,GasA,Y,6,0,Attchd,NA,2010,157900,8
+p173,13175,Inside,Single Family,Gable,CBlock,1542,GasA,Y,7,2,Attchd,MnPrv,2010,210000,9
+p174,9042,Inside,Single Family,Gable,Stone,1152,GasA,Y,9,2,Attchd,GdPrv,2010,266500,7
+p175,9717,Inside,Single Family,Hip,CBlock,1078,GasA,Y,5,0,Attchd,NA,2010,142125,2
+p176,14115,Inside,Single Family,Gable,Wood,796,GasA,Y,5,0,Attchd,MnPrv,2009,143000,2
+p177,10382,Corner,Single Family,Gable,CBlock,1107,GasA,Y,7,2,Attchd,NA,2009,200000,2
+p178,7560,Inside,Single Family,Hip,CBlock,1029,GasA,Y,6,0,Attchd,MnPrv,2009,139000,8
+p179,14230,Corner,Single Family,Gable,PConc,1566,GasA,Y,7,1,Attchd,NA,2009,256300,10
+p180,10859,Corner,Single Family,Gable,PConc,1097,GasA,Y,6,0,Attchd,NA,2009,145000,7
+p181,8532,Inside,Single Family,Hip,CBlock,1297,GasA,Y,5,1,Attchd,NA,2009,153000,10
+p182,12822,CulDSac,Single Family,Gable,PConc,1434,GasA,Y,6,1,Attchd,NA,2009,239686,9
+p183,4456,Inside,Condo,Gable,BrkTil,736,GasA,Y,8,0,NA,NA,2009,113000,6
+p184,2645,Inside,Townhouse,Gable,PConc,970,GasA,Y,7,0,Attchd,NA,2009,172500,10
+p185,9375,Inside,Single Family,Gable,PConc,1057,GasA,Y,8,0,Attchd,GdPrv,2009,219500,6
+p186,10141,Corner,Single Family,Gable,PConc,832,GasA,Y,7,1,Attchd,NA,2009,185000,5
+p187,1596,Inside,Townhouse,Gable,CBlock,462,GasA,Y,5,0,BuiltIn,GdWo,2009,91000,5
+p188,10440,Corner,Single Family,Gable,PConc,440,GasA,Y,5,0,Detchd,MnPrv,2009,110000,6
+p189,13000,Corner,Single Family,Gable,CBlock,896,GasA,Y,8,1,Attchd,NA,2009,193500,9
+p190,8530,Inside,Single Family,Gable,PConc,384,GasA,Y,7,1,BuiltIn,NA,2009,168500,2
+p191,11911,Inside,Single Family,Gable,PConc,684,GasA,Y,6,1,BuiltIn,NA,2009,174000,1
+p192,3951,Corner,Townhouse,Gable,PConc,612,GasA,Y,4,0,Detchd,NA,2009,164500,2
+p193,8470,Corner,Single Family,Hip,CBlock,1013,GasA,N,6,0,NA,MnPrv,2009,85000,1
+p194,13360,Inside,Single Family,Gable,BrkTil,876,GasA,Y,5,0,Detchd,NA,2009,163500,3
+p195,9765,Corner,Single Family,Gable,PConc,680,GasA,Y,6,1,BuiltIn,NA,2009,185000,8
+p196,7018,Inside,Duplex,Gable,Slab,0,GasA,Y,8,0,Attchd,NA,2009,118964,10
+p197,11616,Inside,Single Family,Gable,CBlock,1092,GasA,Y,6,1,Attchd,NA,2009,139000,10
+p198,17043,CulDSac,Single Family,Gable,CBlock,1362,GasA,Y,7,1,Attchd,NA,2009,181000,9
+p199,12224,Corner,Single Family,Gable,PConc,992,GasA,Y,7,1,BuiltIn,NA,2009,244000,5
+p200,6853,Inside,Single Family,Gable,PConc,1267,GasA,Y,6,0,Attchd,NA,2009,220000,10
+p201,15426,Inside,Single Family,Gable,PConc,928,GasA,Y,7,0,Attchd,MnPrv,2009,231500,3
+p202,10335,Inside,Single Family,Gable,PConc,1490,GasA,Y,6,0,Attchd,NA,2009,204000,6
+p203,6120,Corner,Single Family,Gable,BrkTil,715,GasA,Y,5,0,Detchd,NA,2009,105000,8
+p204,10708,Inside,Single Family,Hip,CBlock,1617,GasA,Y,7,3,Attchd,GdWo,2009,190000,10
+p205,17423,CulDSac,Single Family,Hip,PConc,2216,GasA,Y,9,1,Attchd,NA,2009,501837,1
+p206,9947,CulDSac,Single Family,Gable,PConc,1188,GasA,Y,6,0,Attchd,GdPrv,2009,173000,6
+p207,10410,Inside,Single Family,Gable,CBlock,660,GasA,Y,8,0,Detchd,MnPrv,2009,135000,1
+p208,7018,Inside,Duplex,Gable,CBlock,1086,GasA,Y,6,2,Detchd,NA,2009,153337,1
+p209,9017,Inside,Single Family,Gable,PConc,1431,GasA,Y,6,0,Attchd,NA,2009,192000,5
+p210,2280,FR2,Townhouse,Gable,CBlock,855,GasA,Y,7,1,Attchd,NA,2009,148500,10
+p211,5520,Corner,Single Family,Gable,CBlock,755,GasA,Y,8,0,NA,MnPrv,2009,104000,5
+p212,9591,Inside,Single Family,Hip,PConc,1713,GasA,Y,7,1,Attchd,NA,2009,274900,3
+p213,3500,Inside,Single Family,Gable,CBlock,720,GasA,Y,5,0,Detchd,MnWw,2009,110000,9
+p214,11851,Corner,Single Family,Gable,PConc,1424,GasA,Y,5,0,Attchd,NA,2009,180500,3
+p215,8640,Inside,Single Family,Gable,PConc,900,GasA,Y,7,1,Attchd,NA,2009,252678,3
+p216,8068,Inside,Single Family,Gable,PConc,1010,GasA,Y,8,1,BuiltIn,NA,2009,200000,7
+p217,10500,FR2,Single Family,Gable,CBlock,864,GasA,Y,4,0,Detchd,NA,2009,97000,9
+p218,13472,Inside,Single Family,Hip,PConc,2392,GasA,Y,8,1,Attchd,NA,2009,386250,3
+p219,1680,Inside,Townhouse,Gable,CBlock,630,GasA,Y,6,0,Detchd,NA,2009,112000,3
+p220,3182,Inside,Townhouse,Gable,PConc,1373,GasA,Y,7,1,Attchd,NA,2009,192500,4
+p221,15138,Inside,Single Family,Gable,PConc,1462,GasA,Y,9,1,Attchd,NA,2009,403000,1
+p222,10762,Corner,Townhouse,Gable,CBlock,626,GasA,Y,6,1,Attchd,NA,2009,120000,7
+p223,8814,Inside,Single Family,Gable,PConc,1604,GasA,Y,8,1,Attchd,NA,2009,220000,5
+p224,19296,Corner,Single Family,Gable,CBlock,1362,GasA,Y,6,1,Attchd,GdWo,2009,176000,5
+p225,9600,Inside,Single Family,Hip,CBlock,1240,GasA,Y,6,1,Attchd,MnPrv,2009,139000,10
+p226,7264,Inside,Single Family,Gable,BrkTil,952,GasW,N,5,0,Detchd,NA,2009,205000,4
+p227,5063,Inside,Townhouse,Gable,PConc,1314,GasA,Y,6,1,Attchd,NA,2009,207500,7
+p228,9612,Inside,Single Family,Gable,PConc,1468,GasA,Y,6,1,Attchd,NA,2009,244600,9
+p229,11409,Inside,Single Family,Gable,CBlock,768,GasA,Y,8,1,Attchd,NA,2009,131000,3
+p230,9600,Inside,Single Family,Hip,CBlock,1416,GasA,Y,7,2,Attchd,NA,2009,167000,10
+p231,14000,Inside,Single Family,Gable,CBlock,1092,GasA,Y,6,1,Attchd,GdPrv,2009,158500,7
+p232,12342,Inside,Single Family,Gable,CBlock,861,GasA,Y,4,0,Detchd,NA,2009,82500,2
+p233,8000,Inside,Single Family,Gable,CBlock,972,GasA,Y,5,1,Detchd,NA,2009,132000,1
+p234,215245,Inside,Single Family,Hip,CBlock,2136,GasW,Y,8,2,Attchd,NA,2009,375000,4
+p235,7795,Inside,Single Family,Gable,PConc,716,GasA,Y,6,1,Attchd,NA,2009,188500,1
+p236,13005,Corner,Single Family,Gable,CBlock,845,GasA,Y,10,1,Attchd,GdPrv,2009,260000,2
+p237,9900,Inside,Single Family,Gable,PConc,1347,GasA,Y,9,1,Attchd,NA,2009,260000,10
+p238,14115,Inside,Single Family,Gable,CBlock,1372,GasA,Y,6,2,Attchd,NA,2009,187500,2
+p239,11888,Inside,Single Family,Gable,BrkTil,844,GasA,N,10,0,Detchd,NA,2009,214500,10
+p240,6402,Corner,Single Family,Gable,PConc,596,GasA,N,6,0,Detchd,GdWo,2009,78000,5
+p241,10655,Inside,Single Family,Gable,PConc,3206,GasA,Y,7,1,Attchd,NA,2009,284000,9
+p242,12400,Inside,Single Family,Hip,CBlock,1215,GasA,Y,6,0,Attchd,NA,2009,155000,1
+p243,8400,Inside,Single Family,Gable,CBlock,721,GasA,Y,4,0,CarPort,NA,2009,82000,3
+p244,17600,Inside,Single Family,Gable,CBlock,1478,GasA,Y,6,2,Attchd,NA,2009,157500,5
+p245,9248,Inside,Single Family,Gable,PConc,1158,GasA,Y,6,0,Attchd,NA,2009,173000,1
+p246,7301,Corner,Single Family,Gable,Slab,0,GasA,Y,7,1,BuiltIn,NA,2009,198500,3
+p247,1680,Inside,Townhouse,Gable,CBlock,483,GasA,Y,5,0,Detchd,NA,2009,118000,2
+p248,10690,Inside,Single Family,Hip,CBlock,672,GasA,Y,6,0,Detchd,NA,2009,147000,10
+p249,9500,Inside,Single Family,Gable,CBlock,1394,GasA,Y,6,2,Attchd,NA,2009,159000,9
+p250,10634,Inside,Single Family,Gable,PConc,608,GasA,Y,5,0,Attchd,GdWo,2009,123000,6
+p251,10020,Inside,Single Family,Gable,BrkTil,683,GasA,N,4,0,NA,NA,2009,61000,5
+p252,8123,Inside,Single Family,Gable,PConc,982,GasA,Y,7,1,Attchd,NA,2009,179000,3
+p253,9000,Corner,Single Family,Gable,BrkTil,784,GasA,N,5,0,Detchd,NA,2009,76000,4
+p254,7200,Inside,Single Family,Hip,CBlock,1041,GasA,Y,6,1,Detchd,GdWo,2009,125000,7
+p255,12209,CulDSac,Single Family,Gable,PConc,804,GasA,Y,7,1,BuiltIn,NA,2009,215000,2
+p256,7200,Inside,Single Family,Hip,CBlock,894,GasA,Y,6,0,Detchd,NA,2009,123000,1
+p257,8125,Inside,Single Family,Gable,PConc,1092,GasA,Y,7,0,Attchd,NA,2009,241000,5
+p258,9991,Corner,Single Family,Gable,CBlock,1281,GasA,Y,8,1,Attchd,GdWo,2009,150000,6
+p259,9571,Inside,Single Family,Gable,CBlock,1276,GasA,Y,5,0,Attchd,NA,2009,60000,6
+p260,16635,FR2,Single Family,Gable,CBlock,1602,GasA,Y,8,1,Attchd,NA,2009,215000,9
+p261,3378,Inside,Single Family,Gable,CBlock,651,GasA,Y,6,2,Detchd,NA,2009,135000,9
+p262,12800,Inside,Single Family,Gable,PConc,1518,GasA,Y,5,1,Attchd,NA,2009,275000,7
+p263,11457,Corner,Single Family,Gable,CBlock,1392,GasA,Y,6,1,Attchd,NA,2009,175000,9
+p264,10667,CulDSac,Single Family,Gable,PConc,799,GasA,Y,6,1,Attchd,NA,2009,212000,1
+p265,6000,Inside,Single Family,Gable,PConc,884,GasA,Y,4,0,Detchd,NA,2009,119000,1
+p266,12354,Corner,Single Family,Gable,BrkTil,684,GasA,Y,7,0,Detchd,GdPrv,2009,110000,10
+p267,15431,Inside,Single Family,Hip,PConc,3094,GasA,Y,10,2,Attchd,NA,2009,555000,5
+p268,9855,Corner,Single Family,Hip,CBlock,1436,GasA,Y,7,1,Attchd,MnPrv,2009,127500,10
+p269,9000,Inside,Single Family,Gable,PConc,768,GasA,Y,6,0,Attchd,NA,2009,210000,10
+p270,7015,Corner,Single Family,Gable,CBlock,709,GasA,Y,5,1,Detchd,NA,2009,110000,8
+p271,8004,Inside,Single Family,Gable,PConc,832,GasA,Y,8,0,BuiltIn,NA,2009,263435,10
+p272,7200,Inside,Single Family,Gable,PConc,560,GasA,Y,6,0,Detchd,MnPrv,2009,155000,5
+p273,8281,Inside,Single Family,Gable,CBlock,864,GasA,Y,5,1,Detchd,GdWo,2009,62383,4
+p274,8430,Inside,Single Family,Gable,CBlock,1040,GasA,Y,5,0,NA,NA,2009,124000,10
+p275,10637,Inside,Single Family,Hip,PConc,1705,GasA,Y,7,1,Attchd,NA,2009,297000,4
+p276,2500,Corner,Single Family,Gable,PConc,910,GasA,Y,7,1,Attchd,NA,2009,155000,2
+p277,9600,Inside,Single Family,Gable,CBlock,1113,GasA,Y,5,1,Attchd,NA,2009,147000,6
+p278,1526,Inside,Townhouse,Gable,CBlock,630,GasA,Y,3,0,Attchd,NA,2009,86000,3
+p279,5784,Inside,Single Family,Gable,BrkTil,190,GasA,Y,4,0,Attchd,NA,2009,91300,7
+p280,7879,Inside,Single Family,Gable,CBlock,720,GasA,N,4,0,NA,GdWo,2009,34900,1
+p281,7800,Inside,Single Family,Hip,PConc,864,GasA,Y,5,0,Attchd,MnPrv,2009,130000,2
+p282,2308,Inside,Townhouse,Gable,CBlock,855,GasA,Y,6,1,Attchd,NA,2009,147000,10
+p283,7596,Inside,Duplex,Hip,CBlock,960,GasA,Y,10,0,Detchd,NA,2009,124500,10
+p284,7862,Inside,Single Family,Gable,PConc,1218,GasA,Y,4,0,Attchd,NA,2009,208300,3
+p285,9600,Corner,Single Family,Gable,CBlock,1041,GasA,Y,6,0,Attchd,MnPrv,2009,124500,10
+p286,14559,Inside,Single Family,Hip,CBlock,1008,GasA,Y,6,2,CarPort,NA,2009,164900,2
+p287,12220,Inside,Single Family,Hip,CBlock,2006,GasA,Y,9,1,Attchd,NA,2009,402861,1
+p288,10448,Corner,Single Family,Gable,CBlock,689,GasA,Y,7,1,Attchd,GdPrv,2009,158000,3
+p289,10208,Inside,Single Family,Gable,PConc,1264,GasA,Y,7,1,Attchd,NA,2009,265000,4
+p290,10918,Inside,Single Family,Gambrel,BrkTil,1276,GasA,Y,9,2,Detchd,MnPrv,2009,234000,3
+p291,14601,Inside,Single Family,Hip,PConc,1838,GasA,Y,8,1,Attchd,NA,2009,315000,9
+p292,10140,Inside,Single Family,Hip,PConc,1650,GasA,Y,7,1,Attchd,NA,2009,213250,4
+p293,9375,Inside,Single Family,Gable,PConc,912,GasA,Y,8,1,BuiltIn,NA,2009,263000,6
+p294,11146,Inside,Single Family,Gable,PConc,1709,GasA,Y,7,1,Attchd,NA,2009,255500,10
+p295,8777,Inside,Single Family,Gable,CBlock,0,GasA,Y,5,0,Detchd,MnPrv,2009,108000,1
+p296,12327,Inside,Single Family,Gable,CBlock,1496,GasA,Y,5,1,BuiltIn,NA,2009,316600,4
+p297,13159,Corner,Single Family,Gable,PConc,846,GasA,Y,6,0,Attchd,NA,2009,224500,6
+p298,6292,Inside,Single Family,Gable,BrkTil,861,GasA,Y,6,1,Detchd,NA,2009,145000,7
+p299,12704,Inside,Single Family,Hip,PConc,2042,GasA,Y,8,1,Attchd,NA,2009,253293,9
+p300,6120,Inside,Single Family,Gable,BrkTil,884,GasA,Y,6,0,Detchd,NA,2009,133000,3
+p301,8740,Inside,Single Family,Hip,CBlock,840,GasA,Y,4,0,Detchd,NA,2009,137000,7
+p302,25095,Inside,Single Family,Flat,CBlock,1437,GasA,Y,5,2,Attchd,NA,2009,143000,1
+p303,13478,Corner,Single Family,Gable,PConc,1722,GasA,Y,10,1,BuiltIn,NA,2009,451950,4
+p304,4435,Inside,Townhouse,Gable,PConc,848,GasA,Y,4,0,Attchd,NA,2009,140000,2
+p305,13600,Inside,Single Family,Gable,CBlock,768,GasA,Y,7,3,Attchd,NA,2009,205000,7
+p306,12464,Corner,Single Family,Gable,PConc,1040,GasA,Y,6,0,Detchd,GdPrv,2009,152000,7
+p307,11050,Inside,Single Family,Hip,PConc,1440,GasA,Y,8,2,Attchd,NA,2009,313000,6
+p308,11885,Inside,Single Family,Gable,PConc,1299,GasA,Y,7,1,BuiltIn,NA,2009,261500,3
+p309,7064,Inside,Single Family,Gable,CBlock,980,GasA,Y,6,0,Detchd,NA,2009,135000,5
+p310,11900,Inside,Single Family,Hip,CBlock,1386,GasA,Y,6,1,Attchd,NA,2009,82500,2
+p311,6120,Inside,Single Family,Gable,BrkTil,264,Grav,N,4,1,NA,NA,2009,60000,9
+p312,6000,Inside,Condo,Gable,CBlock,811,GasA,Y,7,0,BuiltIn,NA,2009,93000,9
+p313,13860,Inside,Single Family,Gable,CBlock,1952,GasA,Y,9,3,Attchd,MnPrv,2009,345000,5
+p314,9187,Inside,Single Family,Gable,PConc,1766,GasA,Y,7,1,Attchd,NA,2009,370878,9
+p315,9084,Inside,Single Family,Gable,CBlock,755,GasA,Y,7,1,Detchd,MnPrv,2009,108000,5
+p316,8750,Inside,Single Family,Gable,PConc,880,GasA,Y,7,1,Attchd,NA,2009,191000,9
+p317,9937,Corner,Single Family,Hip,PConc,1486,GasA,Y,7,0,Detchd,MnPrv,2009,167000,4
+p318,46589,CulDSac,Single Family,Hip,PConc,1629,GasA,Y,8,1,Attchd,NA,2009,402000,8
+p319,13560,Corner,Single Family,Hip,CBlock,1392,GasA,Y,5,2,Attchd,NA,2009,110000,10
+p320,8633,FR2,Single Family,Gable,PConc,738,GasA,Y,7,0,Attchd,NA,2009,173500,1
+p321,6629,Inside,Single Family,Gambrel,BrkTil,672,GasA,N,6,0,Detchd,NA,2009,103600,5
+p322,2289,Inside,Townhouse,Gable,CBlock,855,GasA,Y,7,1,Attchd,NA,2009,148500,3
+p323,9022,Inside,Single Family,Gable,BrkTil,768,GasA,Y,5,0,Detchd,NA,2009,109500,1
+p324,11844,Inside,Single Family,Hip,PConc,2046,GasA,Y,7,1,Attchd,NA,2009,372500,5
+p325,4500,Inside,Single Family,Gable,BrkTil,793,GasA,Y,6,0,Detchd,NA,2009,159434,6
+p326,6120,Corner,Single Family,Gable,BrkTil,927,GasA,Y,5,0,Detchd,MnPrv,2009,141500,10
+p327,6240,Inside,Townhouse,Hip,PConc,1324,GasA,Y,6,1,Attchd,NA,2009,254000,3
+p328,10140,Inside,Single Family,Hip,CBlock,1064,GasA,Y,7,1,Attchd,MnPrv,2009,165000,4
+p329,8120,Inside,Single Family,Gable,CBlock,864,GasA,Y,5,0,Detchd,NA,2009,124500,10
+p330,13286,Inside,Single Family,Hip,PConc,1698,GasA,Y,8,1,Attchd,NA,2009,320000,5
+p331,6960,Inside,Single Family,Gable,CBlock,864,GasA,Y,5,0,Detchd,NA,2009,120500,4
+p332,21695,Corner,Single Family,Hip,CBlock,880,GasA,Y,5,1,Attchd,NA,2009,222000,10
+p333,7314,Inside,Single Family,Gable,PConc,1232,GasA,Y,6,0,Attchd,NA,2009,194500,10
+p334,11475,Corner,Duplex,Gable,CBlock,1584,GasA,Y,9,0,Detchd,NA,2009,110000,1
+p335,6240,Inside,Single Family,Gable,CBlock,780,GasA,Y,5,0,Detchd,NA,2009,103000,4
+p336,10000,Corner,Single Family,Hip,CBlock,864,GasA,Y,6,1,Attchd,GdWo,2009,131400,6
+p337,10800,Inside,Duplex,Gable,CBlock,1200,GasA,Y,5,0,NA,NA,2009,179000,2
+p338,9313,Inside,Single Family,Gable,PConc,864,GasA,Y,7,0,Attchd,NA,2009,190000,10
+p339,12886,Inside,Single Family,Gable,CBlock,520,GasA,Y,6,1,Attchd,NA,2009,175000,5
+p340,8795,Inside,Single Family,Gable,PConc,952,GasA,Y,8,1,BuiltIn,NA,2009,236000,4
+p341,11700,Corner,Single Family,Mansard,Stone,1240,GasW,N,8,1,Detchd,NA,2009,265979,3
+p342,8405,Inside,Single Family,Gable,Slab,0,Wall,N,9,0,Detchd,NA,2009,98000,9
+p343,7930,Inside,Single Family,Gable,CBlock,1026,GasA,Y,5,0,Detchd,NA,2009,156000,2
+p344,3230,Inside,Townhouse,Gable,PConc,729,GasA,Y,6,0,Detchd,NA,2009,172500,1
+p345,10769,Inside,Single Family,Gable,PConc,866,GasA,Y,7,0,Attchd,NA,2009,212000,10
+p346,9100,Inside,Single Family,Hip,CBlock,864,GasA,Y,5,0,Detchd,NA,2009,127500,4
+p347,6911,FR2,Single Family,Gable,PConc,1145,GasA,Y,5,0,Detchd,NA,2009,100000,5
+p348,9430,Inside,Single Family,Gable,PConc,1252,GasA,Y,8,1,Attchd,NA,2009,337000,3
+p349,7252,CulDSac,Single Family,Hip,CBlock,858,GasA,Y,5,0,Detchd,NA,2009,134900,2
+p350,4500,FR2,Townhouse,Hip,PConc,1204,GasA,Y,5,0,Attchd,NA,2009,162000,2
+p351,16285,Inside,Single Family,Gable,PConc,1413,GasA,Y,6,0,Attchd,NA,2009,187100,1
+p352,9101,Corner,Single Family,Gable,PConc,1097,GasA,Y,4,1,Attchd,NA,2009,165500,4
+p353,9790,Inside,Single Family,Gable,CBlock,1372,GasA,Y,7,1,Attchd,NA,2009,161500,5
+p354,3182,Inside,Townhouse,Gable,PConc,1145,GasA,Y,5,1,Attchd,NA,2009,160200,7
+p355,13518,Inside,Single Family,Hip,PConc,1926,GasA,Y,11,2,BuiltIn,NA,2009,485000,4
+p356,13891,Inside,Single Family,Hip,PConc,1734,GasA,Y,12,1,BuiltIn,NA,2009,582933,1
+p357,21384,Inside,Single Family,Gable,CBlock,1324,GasA,Y,6,1,Attchd,NA,2009,223500,6
+p358,8100,Corner,Single Family,Hip,PConc,849,GasA,N,11,0,Detchd,MnPrv,2009,106000,4
+p359,6000,Inside,Condo,Gable,CBlock,936,GasA,N,4,0,Detchd,NA,2009,93000,7
+p360,9900,Inside,Single Family,Gable,BrkTil,778,GasA,Y,7,1,Detchd,GdWo,2009,139500,8
+p361,8529,Inside,Single Family,Gable,PConc,1454,GasA,Y,6,1,Attchd,NA,2009,189000,1
+p362,28698,CulDSac,Single Family,Flat,PConc,1013,GasA,Y,7,0,Attchd,NA,2009,185000,3
+p363,10004,Inside,Single Family,Gable,CBlock,1516,GasA,Y,6,0,Attchd,NA,2009,167000,2
+p364,9317,Inside,Single Family,Gable,PConc,740,GasA,Y,7,1,Attchd,NA,2009,213000,6
+p365,15523,CulDSac,Single Family,Gable,CBlock,864,GasA,Y,5,1,Attchd,NA,2009,133500,9
+p366,12095,Corner,Single Family,Gable,CBlock,1127,GasA,Y,7,1,Attchd,MnPrv,2009,158000,5
+p367,8125,Inside,Single Family,Gable,PConc,702,GasA,Y,6,1,Attchd,NA,2009,174000,1
+p368,10400,Inside,Single Family,Gable,CBlock,1090,GasA,Y,6,1,Attchd,MnPrv,2009,152000,1
+p369,7931,Inside,Single Family,Hip,CBlock,1148,GasA,Y,6,0,Attchd,GdPrv,2009,132500,2
+p370,8750,Inside,Single Family,Gable,CBlock,1002,GasA,Y,5,0,Detchd,MnPrv,2009,148500,4
+p371,6600,Inside,Single Family,Hip,CBlock,894,GasA,N,5,0,Detchd,NA,2009,109500,3
+p372,12144,Inside,Single Family,Gable,CBlock,832,GasA,Y,6,1,Attchd,NA,2009,133000,9
+p373,5720,Inside,Single Family,Gable,CBlock,676,GasA,Y,5,0,Detchd,NA,2009,66500,7
+p374,8834,Inside,Single Family,Hip,PConc,1462,GasA,Y,10,1,Attchd,NA,2009,350000,3
+p375,7000,CulDSac,Single Family,Gable,CBlock,864,GasA,Y,6,0,Attchd,GdWo,2009,136500,2
+p376,9636,Corner,Single Family,Gable,PConc,808,GasA,Y,7,1,BuiltIn,MnPrv,2009,178000,10
+p377,7150,Inside,Single Family,Gable,CBlock,892,GasA,Y,5,0,Attchd,GdWo,2009,100000,4
+p378,12160,Inside,Single Family,Hip,CBlock,1505,GasA,Y,6,1,Attchd,NA,2009,149500,4
+p379,11184,Inside,Single Family,Hip,CBlock,918,GasA,Y,7,1,Attchd,NA,2009,172500,1
+p380,7018,Inside,Duplex,Gable,Slab,0,GasA,Y,8,0,Attchd,NA,2009,118858,7
+p381,7018,Inside,Duplex,Gable,Slab,0,GasA,Y,12,0,Detchd,NA,2009,142953,6
+p382,8712,Inside,Single Family,Hip,CBlock,992,GasA,Y,5,0,Detchd,NA,2009,153000,10
+p383,12589,Inside,Single Family,Gable,PConc,742,GasA,Y,8,1,Attchd,NA,2009,174000,9
+p384,9286,CulDSac,Single Family,Gable,CBlock,1268,GasA,Y,5,0,Detchd,NA,2009,143500,2
+p385,3000,Inside,Townhouse,Gable,PConc,612,GasA,Y,4,0,Detchd,NA,2009,173733,10
+p386,17140,Inside,Single Family,Gable,CBlock,1134,GasA,Y,6,0,Attchd,NA,2009,135000,8
+p387,11838,Inside,Single Family,Hip,PConc,1753,GasA,Y,7,1,Attchd,NA,2009,236500,10
+p388,8925,Inside,Single Family,Gable,PConc,1466,GasA,Y,7,0,Attchd,NA,2009,201000,2
+p389,9100,Inside,Single Family,Gable,CBlock,925,GasA,Y,5,0,Detchd,GdWo,2009,117500,6
+p390,8487,FR2,Single Family,Gable,PConc,1500,GasA,Y,6,0,Attchd,NA,2009,190000,4
+p391,10083,Inside,Single Family,Gable,PConc,1176,GasA,Y,5,0,Attchd,NA,2009,184900,2
+p392,9675,Inside,Single Family,Gable,PConc,1113,GasA,Y,8,1,Attchd,NA,2009,253000,2
+p393,8755,FR2,Single Family,Gable,PConc,992,GasA,Y,8,1,BuiltIn,GdPrv,2009,214000,6
+p394,14375,CulDSac,Single Family,Gable,CBlock,819,GasA,Y,7,1,Basment,NA,2009,137500,2
+p395,8820,Corner,Single Family,Hip,BrkTil,1088,GasA,Y,7,0,Detchd,MnWw,2009,124900,4
+p396,7200,Inside,Single Family,Gable,CBlock,768,GasA,Y,5,0,Detchd,MnPrv,2009,133900,3
+p397,1300,Inside,Townhouse,Gable,CBlock,561,GasA,Y,5,1,Attchd,GdPrv,2009,124000,8
+p398,11923,Corner,Single Family,Gable,PConc,1800,GasA,Y,7,0,Attchd,NA,2009,239000,8
+p399,9600,Inside,Single Family,Gable,BrkTil,728,GasA,Y,7,2,Detchd,NA,2009,160000,2
+p400,5925,Inside,Single Family,Gable,BrkTil,600,Grav,N,6,0,NA,GdWo,2009,37900,1
+p401,2268,Inside,Townhouse,Gable,PConc,764,GasA,Y,6,0,BuiltIn,NA,2009,173000,7
+p402,11414,Corner,Single Family,Gable,BrkTil,728,GasA,N,8,0,Detchd,GdPrv,2009,167500,4
+p403,8816,Corner,Single Family,Gable,PConc,1121,GasA,Y,5,0,Detchd,MnPrv,2009,139000,4
+p404,12203,Corner,Single Family,Hip,PConc,1225,GasA,Y,8,1,Attchd,NA,2009,336000,5
+p405,10125,Inside,Duplex,Gable,CBlock,0,GasA,Y,8,0,Attchd,NA,2009,126000,8
+p406,17671,Corner,Single Family,Gable,BrkTil,916,GasA,Y,8,1,Attchd,NA,2009,168000,9
+p407,12456,FR2,Single Family,Hip,PConc,1700,GasA,Y,7,1,Attchd,NA,2009,337500,5
+p408,11717,Inside,Single Family,Hip,CBlock,1442,GasA,Y,6,1,Attchd,NA,2009,185000,8
+p409,10206,Corner,Single Family,Flat,Slab,0,GasW,N,4,0,Detchd,NA,2009,82000,1
+p410,3182,Inside,Townhouse,Gable,PConc,1346,GasA,Y,7,1,Attchd,NA,2009,181000,4
+p411,2217,Inside,Townhouse,Gable,CBlock,546,GasA,Y,6,0,Attchd,NA,2009,88000,9
+p412,12118,CulDSac,Single Family,Hip,PConc,1710,GasA,Y,7,1,Attchd,NA,2009,240000,10
+p413,7200,Inside,Single Family,Hip,BrkTil,1022,GasW,N,4,0,Detchd,NA,2009,85000,6
+p414,8400,Inside,Single Family,Gable,PConc,810,GasA,Y,6,0,Attchd,NA,2009,227000,7
+p415,11883,Inside,Single Family,Hip,PConc,1504,GasA,Y,6,1,Attchd,NA,2009,203000,6
+p416,5814,CulDSac,Townhouse,Gable,CBlock,1220,GasA,Y,4,1,Attchd,NA,2009,187500,2
+p417,15863,Corner,Single Family,Gable,BrkTil,824,GasA,Y,12,2,Basment,NA,2009,197000,7
+p418,11500,CulDSac,Single Family,Gable,Slab,0,GasA,N,5,0,Detchd,NA,2009,84000,3
+p419,12898,Inside,Single Family,Hip,PConc,1620,GasA,Y,6,1,Attchd,NA,2009,315500,8
+p420,1533,Inside,Townhouse,Gable,CBlock,546,GasA,Y,6,1,NA,NA,2009,97000,7
+p421,1477,Inside,Townhouse,Gable,CBlock,630,GasA,Y,3,0,Attchd,NA,2009,80000,10
+p422,5381,Inside,Townhouse,Gable,PConc,1306,GasA,Y,5,1,Attchd,NA,2009,196000,1
+p423,9600,Inside,Single Family,Hip,PConc,2524,GasA,Y,9,1,Attchd,MnPrv,2009,278000,3
+p424,13680,CulDSac,Single Family,Hip,Slab,0,GasA,Y,8,1,Attchd,NA,2009,139600,8
+p425,21750,Inside,Single Family,Hip,Slab,0,GasA,Y,9,1,Attchd,GdPrv,2009,115000,3
+p426,29959,FR2,Single Family,Gable,PConc,973,GasA,Y,7,1,BuiltIn,NA,2009,248000,10
+p427,11308,Inside,Single Family,Gable,PConc,1104,GasA,Y,10,1,Attchd,NA,2009,335000,5
+p428,11000,CulDSac,Single Family,Gable,CBlock,1154,GasA,Y,6,1,Attchd,MnPrv,2009,154000,9
+p429,7837,Inside,Single Family,Gable,PConc,799,GasA,Y,7,1,Attchd,NA,2009,178000,10
+p430,11700,Inside,Single Family,Gable,CBlock,727,GasA,Y,8,0,Attchd,NA,2009,154000,7
+p431,7950,Corner,Single Family,Hip,CBlock,690,GasA,Y,6,0,Attchd,MnPrv,2009,159500,1
+p432,10574,Inside,Single Family,Gable,PConc,1082,GasA,Y,9,1,Attchd,NA,2009,252000,9
+p433,8544,Corner,Duplex,Gable,Slab,0,Wall,N,6,0,Detchd,NA,2009,92900,10
+p434,6000,Inside,Single Family,Gable,BrkTil,672,GasA,Y,6,0,Detchd,NA,2009,128000,8
+p435,11880,Inside,Single Family,Gable,CBlock,1271,GasA,Y,7,1,Attchd,NA,2009,157000,8
+p436,8400,Inside,Single Family,Gable,CBlock,290,GasA,N,3,0,Detchd,NA,2009,60000,9
+p437,11362,Inside,Single Family,Gable,PConc,1836,GasA,Y,7,1,Attchd,NA,2009,280000,1
+p438,7750,Inside,Single Family,Hip,PConc,408,GasA,Y,7,1,BuiltIn,NA,2009,184100,4
+p439,8926,Corner,Single Family,Gable,CBlock,672,GasA,Y,5,0,Basment,MnPrv,2009,112000,2
+p440,9405,Inside,Single Family,Hip,CBlock,698,GasA,Y,4,0,NA,NA,2009,118000,2
+p441,10434,Inside,Single Family,Gable,CBlock,1005,GasA,Y,5,1,Detchd,NA,2009,115000,2
+p442,3684,Inside,Townhouse,Hip,PConc,1373,GasA,Y,7,1,Attchd,NA,2009,174000,2
+p443,7804,Inside,Single Family,Gable,BrkTil,1122,GasA,Y,7,2,Detchd,MnPrv,2009,135000,9
+p444,9828,Inside,Single Family,Gable,PConc,1128,GasA,Y,8,1,Attchd,NA,2009,239500,6
+p445,9819,Inside,Single Family,Gable,PConc,1567,GasA,Y,5,2,Attchd,NA,2009,196000,2
+p446,10304,CulDSac,Single Family,Gable,CBlock,780,GasA,Y,9,1,Attchd,NA,2009,197500,9
+p447,12000,Inside,Single Family,Gable,CBlock,704,GasA,Y,7,1,Attchd,NA,2009,174500,2
+p448,9000,Inside,Single Family,Hip,PConc,650,GasA,Y,7,0,Detchd,NA,2009,143000,3
+p449,5001,Inside,Townhouse,Gable,PConc,1314,GasA,Y,6,1,Attchd,NA,2009,230000,8
+p450,9541,Inside,Single Family,Gable,PConc,1502,GasA,Y,7,0,Attchd,NA,2009,233170,6
+p451,3950,Inside,Single Family,Gable,CBlock,818,GasA,Y,5,0,Detchd,NA,2009,115000,9
+p452,7681,FR2,Single Family,Gable,BrkTil,731,GasA,Y,7,1,Detchd,NA,2009,154900,6
+p453,10615,Corner,Condo,Gable,CBlock,978,GasA,Y,7,0,CarPort,NA,2009,95000,6
+p454,8935,Inside,Single Family,Gable,PConc,831,GasA,Y,7,0,Attchd,NA,2009,195000,2
+p455,4500,FR2,Townhouse,Hip,PConc,1224,GasA,Y,5,0,Attchd,NA,2009,165000,6
+p456,9100,Inside,Single Family,Gable,PConc,1212,GasA,Y,6,0,Attchd,NA,2009,178000,10
+p457,10400,Corner,Single Family,Gable,PConc,866,GasA,Y,6,0,Attchd,NA,2009,197900,5
+p458,6000,Corner,Single Family,Gable,BrkTil,884,GasA,Y,5,1,Detchd,NA,2009,117000,10
+p459,9750,Inside,Single Family,Gable,PConc,1630,GasA,Y,6,1,Attchd,NA,2009,213000,10
+p460,14684,CulDSac,Single Family,Hip,CBlock,2158,GasA,Y,7,1,Attchd,NA,2009,271900,2
+p461,9340,Inside,Single Family,Hip,CBlock,672,GasA,Y,4,0,Attchd,NA,2009,113000,8
+p462,8640,Inside,Single Family,Gable,PConc,1300,GasA,Y,6,0,Attchd,NA,2009,229456,3
+p463,9858,Inside,Single Family,Gable,CBlock,864,GasA,Y,5,0,Attchd,GdWo,2009,130000,7
+p464,4060,Corner,Single Family,Gable,PConc,864,GasA,Y,4,0,NA,NA,2009,99900,8
+p465,24682,CulDSac,Single Family,Gable,PConc,841,GasA,Y,7,1,BuiltIn,NA,2009,181000,9
+p466,9600,Inside,Single Family,Hip,CBlock,1050,GasA,Y,5,0,Attchd,NA,2009,128900,7
+p467,11250,Inside,Single Family,Gable,CBlock,1104,GasA,Y,8,2,Attchd,NA,2009,161500,5
+p468,9156,Inside,Single Family,Hip,CBlock,1489,GasA,Y,7,1,Attchd,NA,2009,185750,8
+p469,12936,CulDSac,Single Family,Gable,CBlock,723,GasA,Y,6,1,Attchd,NA,2009,162000,9
+p470,17871,CulDSac,Single Family,Gable,CBlock,1680,GasA,Y,7,1,Attchd,NA,2009,197900,2
+p471,9808,Inside,Single Family,Gable,PConc,1573,GasA,Y,6,0,Attchd,NA,2009,227000,1
+p472,8800,Inside,Single Family,Gable,CBlock,1040,GasA,Y,5,0,Detchd,NA,2009,150500,10
+p473,6000,Inside,Single Family,Gable,CBlock,780,GasA,Y,6,1,Detchd,NA,2009,132500,4
+p474,5664,Inside,Townhouse,Gable,PConc,1501,GasA,Y,5,1,Attchd,NA,2009,278000,3
+p475,1680,Inside,Townhouse,Gable,CBlock,630,GasA,Y,6,0,Detchd,NA,2009,119500,7
+p476,6600,Corner,Single Family,Gable,Stone,994,GasA,N,11,0,Attchd,NA,2009,107500,8
+p477,10762,CulDSac,Single Family,Gable,PConc,978,GasA,Y,9,1,Attchd,NA,2009,225000,10
+p478,7500,Inside,Single Family,Gable,CBlock,771,GasA,Y,7,2,Attchd,NA,2009,177500,6
+p479,13173,Corner,Single Family,Hip,PConc,1652,GasA,Y,6,2,Attchd,NA,2009,325000,5
+p480,8072,Inside,Single Family,Gable,PConc,990,GasA,Y,5,0,Detchd,NA,2009,138000,1
+p481,10226,Inside,Single Family,Gable,PConc,1622,GasA,Y,8,1,Attchd,NA,2009,295493,5
+p482,8400,Inside,Single Family,Hip,CBlock,1478,GasA,Y,6,2,Attchd,NA,2009,156500,9
+p483,5330,Inside,Single Family,Hip,CBlock,420,GasA,Y,5,0,NA,NA,2009,82500,6
+p484,8877,Inside,Single Family,Gable,CBlock,816,GasA,Y,3,1,Detchd,NA,2009,100000,4
+p485,2368,Inside,Townhouse,Gable,CBlock,765,GasA,Y,7,0,Attchd,NA,2009,125000,5
+p486,9650,Inside,Single Family,Gable,CBlock,1350,GasA,Y,6,1,Attchd,NA,2009,167900,8
+p487,7558,Inside,Single Family,Gable,BrkTil,896,GasA,Y,9,1,Detchd,NA,2009,177000,2
+p488,11643,Inside,Duplex,Gable,CBlock,1248,GasA,Y,12,0,Detchd,NA,2009,200000,9
+p489,6000,Inside,Single Family,Gable,BrkTil,698,GasA,Y,4,0,Detchd,NA,2009,134900,8
+p490,16158,Inside,Single Family,Hip,PConc,1530,GasA,Y,7,1,Attchd,NA,2009,260000,7
+p491,12513,FR2,Single Family,Gable,BrkTil,715,GasA,Y,7,1,Attchd,NA,2009,104900,6
+p492,4435,Inside,Townhouse,Gable,PConc,848,GasA,Y,4,0,Attchd,NA,2009,144000,1
+p493,5400,Corner,Single Family,Gable,PConc,840,GasA,Y,6,0,Detchd,NA,2009,105000,4
+p494,10998,Inside,Single Family,Gable,CBlock,984,GasA,Y,6,0,Detchd,NA,2009,117000,8
+p495,9060,Inside,Single Family,Gable,BrkTil,560,GasA,Y,6,0,Detchd,MnPrv,2009,105000,9
+p496,14892,CulDSac,Single Family,Gable,PConc,1746,GasA,Y,7,2,Attchd,NA,2009,377500,5
+p497,8944,Inside,Duplex,Gable,CBlock,1584,GasA,Y,8,0,Detchd,NA,2009,124000,4
+p498,7200,Inside,Single Family,Gable,CBlock,1208,GasA,Y,7,0,Attchd,GdPrv,2009,138000,10
+p499,6171,Inside,Single Family,Gable,BrkTil,976,GasA,Y,7,1,Detchd,MnPrv,2009,137450,2
+p500,8445,Corner,Single Family,Gable,CBlock,768,GasA,Y,5,0,Detchd,MnPrv,2009,133000,10
+p501,8780,Corner,Single Family,Gable,CBlock,833,GasA,Y,5,0,NA,MnPrv,2009,112000,2
+p502,12420,Inside,Single Family,Gable,PConc,944,GasA,Y,6,0,Attchd,NA,2009,230000,4
+p503,9600,Inside,Single Family,Gable,CBlock,856,GasA,Y,6,0,Attchd,MnPrv,2009,140000,6
+p504,7200,Inside,Duplex,Gable,Slab,0,Wall,N,6,0,Detchd,NA,2009,90000,5
+p505,10994,Corner,Single Family,Gable,PConc,1844,GasA,Y,7,1,Attchd,NA,2009,257000,5
+p506,3635,Inside,Townhouse,Hip,PConc,1386,GasA,Y,7,1,Attchd,NA,2009,175900,2
+p507,16545,Inside,Single Family,Gable,PConc,1284,GasA,Y,7,1,Attchd,NA,2009,340000,5
+p508,4928,Inside,Townhouse,Gable,CBlock,958,GasA,Y,5,0,Attchd,NA,2009,143750,9
+p509,11003,Inside,Single Family,Gable,PConc,1017,GasA,Y,10,1,Attchd,NA,2009,310000,1
+p510,8854,Inside,Single Family,Gable,BrkTil,952,Grav,N,4,1,Detchd,NA,2009,121000,3
+p511,9000,FR2,Duplex,Gable,CBlock,896,GasA,Y,8,0,NA,NA,2009,136000,8
+p512,9262,Inside,Single Family,Gable,PConc,1573,GasA,Y,7,1,Attchd,NA,2009,287090,5
+p513,7500,Inside,Single Family,Gable,PConc,1221,GasA,Y,6,0,Attchd,NA,2009,185000,2
+p514,8450,Inside,Single Family,Gable,PConc,856,GasA,Y,8,0,Attchd,NA,2008,208500,10
+p515,11250,Inside,Single Family,Gable,PConc,920,GasA,Y,6,1,Attchd,NA,2008,223500,6
+p516,14260,FR2,Single Family,Gable,PConc,1145,GasA,Y,9,1,Attchd,NA,2008,250000,3
+p517,6120,Inside,Single Family,Gable,BrkTil,952,GasA,Y,8,2,Detchd,NA,2008,129900,7
+p518,7420,Corner,Condo,Gable,BrkTil,991,GasA,Y,5,2,Attchd,NA,2008,118000,7
+p519,11200,Inside,Single Family,Hip,CBlock,1040,GasA,Y,5,0,Detchd,NA,2008,129500,6
+p520,12968,Inside,Single Family,Hip,CBlock,912,GasA,Y,4,0,Detchd,NA,2008,144000,8
+p521,10920,Corner,Single Family,Hip,CBlock,1253,GasA,Y,5,1,Attchd,GdWo,2008,157000,7
+p522,13695,Inside,Single Family,Gable,PConc,1114,GasA,Y,6,0,Detchd,NA,2008,159000,9
+p523,9742,Inside,Single Family,Hip,PConc,1777,GasA,Y,7,1,Attchd,NA,2008,230000,5
+p524,6324,Inside,Single Family,Gable,BrkTil,520,GasA,N,4,0,Detchd,NA,2008,68500,3
+p525,8500,Inside,Single Family,Gambrel,BrkTil,649,GasA,N,6,0,Detchd,MnPrv,2008,40000,9
+p526,8544,CulDSac,Single Family,Gable,CBlock,1228,GasA,Y,6,0,Attchd,MnPrv,2008,149350,10
+p527,11049,Corner,Single Family,Gable,PConc,1234,GasA,Y,7,0,Attchd,NA,2008,179900,4
+p528,6040,Inside,Duplex,Gable,PConc,0,GasA,N,6,0,NA,NA,2008,82000,2
+p529,9200,CulDSac,Single Family,Hip,CBlock,938,GasA,Y,5,0,Detchd,MnPrv,2008,130250,8
+p530,10175,Inside,Single Family,Gable,CBlock,1425,GasA,Y,7,1,Attchd,NA,2008,180500,7
+p531,7200,Inside,Single Family,Gable,CBlock,780,GasA,Y,4,0,Detchd,MnPrv,2008,124900,9
+p532,8475,Inside,Single Family,Gable,CBlock,952,GasA,Y,4,0,Detchd,NA,2008,135750,3
+p533,8635,Inside,Single Family,Gable,CBlock,672,GasA,Y,6,0,Detchd,MnPrv,2008,127000,8
+p534,10206,Inside,Single Family,Gable,PConc,1563,GasA,Y,6,1,Attchd,NA,2008,245000,5
+p535,9375,Inside,Single Family,Hip,PConc,1053,GasA,Y,9,1,Attchd,NA,2008,250000,5
+p536,6000,Inside,Single Family,Gable,CBlock,789,GasA,Y,5,0,Detchd,NA,2008,115000,1
+p537,9464,Corner,Single Family,Hip,CBlock,1080,GasA,Y,5,0,Attchd,NA,2008,136000,1
+p538,7892,Inside,Townhouse,Gable,PConc,1199,GasA,Y,5,0,Attchd,NA,2008,153900,5
+p539,10400,Inside,Single Family,Hip,PConc,1304,GasA,Y,7,1,Attchd,MnPrv,2008,174000,4
+p540,9066,Inside,Single Family,Gable,PConc,1004,GasA,Y,7,2,Attchd,GdPrv,2008,230000,8
+p541,7500,Inside,Single Family,Gable,PConc,1080,GasA,Y,6,0,NA,NA,2008,141000,10
+p542,13891,Inside,Single Family,Hip,PConc,1710,GasA,Y,6,1,Attchd,NA,2008,372402,8
+p543,13500,Inside,Single Family,Flat,CBlock,1602,GasA,Y,4,1,Attchd,NA,2008,235000,1
+p544,9600,Corner,Single Family,Gable,BrkTil,572,Grav,N,5,0,NA,NA,2008,79000,7
+p545,11120,CulDSac,Single Family,Gable,PConc,1232,GasA,Y,6,0,Attchd,NA,2008,162500,6
+p546,13688,Inside,Single Family,Gable,PConc,1572,GasA,Y,10,2,BuiltIn,NA,2008,412500,8
+p547,10106,Inside,Condo,Gable,BrkTil,644,GasA,Y,6,0,NA,NA,2008,127500,3
+p548,10197,Inside,Single Family,Gable,CBlock,1362,GasA,Y,6,1,Attchd,NA,2008,163000,4
+p549,12416,Inside,Single Family,Gable,CBlock,1606,GasA,Y,7,1,Attchd,NA,2008,184000,10
+p550,11426,Inside,Single Family,Gable,PConc,1362,GasA,Y,6,0,Detchd,NA,2008,200000,5
+p551,4923,Inside,Townhouse,Gable,PConc,1593,GasA,Y,5,1,Attchd,NA,2008,286000,5
+p552,7180,Inside,Single Family,Hip,CBlock,864,GasA,Y,5,0,Detchd,NA,2008,127000,7
+p553,10125,Inside,Single Family,Gable,CBlock,1196,GasA,Y,6,2,Detchd,MnPrv,2008,171500,10
+p554,4438,Inside,Townhouse,Gable,PConc,848,GasA,Y,3,1,Attchd,NA,2008,149000,9
+p555,12493,Inside,Single Family,Gable,PConc,1100,GasA,Y,6,1,Attchd,GdWo,2008,141000,8
+p556,8250,Inside,Single Family,Hip,CBlock,1092,GasA,Y,6,0,Attchd,MnPrv,2008,145000,10
+p557,5604,Inside,Single Family,Gable,CBlock,864,GasA,N,5,0,NA,NA,2008,98000,3
+p558,8450,Inside,Single Family,Gable,PConc,1436,GasA,Y,8,0,Attchd,NA,2008,210000,8
+p559,15660,Corner,Single Family,Gable,CBlock,798,GasA,Y,8,2,Attchd,NA,2008,311500,9
+p560,1869,Inside,Townhouse,Gable,CBlock,483,GasA,Y,5,0,Detchd,NA,2008,106000,8
+p561,1680,Inside,Townhouse,Gable,CBlock,483,GasA,Y,5,0,Detchd,NA,2008,89500,7
+p562,8366,Inside,Single Family,Gable,PConc,798,GasA,Y,6,0,Attchd,NA,2008,173000,7
+p563,8791,Inside,Single Family,Gable,PConc,864,GasA,Y,7,0,Attchd,NA,2008,207500,4
+p564,12435,Inside,Single Family,Gable,PConc,963,GasA,Y,7,1,Attchd,NA,2008,231500,9
+p565,12702,Inside,Single Family,Gable,PConc,0,GasA,Y,4,0,Detchd,NA,2008,97000,5
+p566,5232,Inside,Single Family,Gable,BrkTil,680,GasA,N,4,0,Detchd,NA,2008,73000,4
+p567,12090,Inside,Single Family,Gable,CBlock,1422,GasA,Y,7,1,Attchd,GdPrv,2008,175500,9
+p568,8400,Inside,Single Family,Gable,PConc,720,GasA,Y,8,1,Detchd,NA,2008,179500,8
+p569,6900,Inside,Single Family,Gable,CBlock,740,GasA,Y,4,1,Detchd,NA,2008,120500,9
+p570,39104,CulDSac,Single Family,Flat,CBlock,1385,GasA,Y,5,2,Attchd,NA,2008,241500,9
+p571,10005,Inside,Single Family,Hip,CBlock,1160,GasA,Y,8,1,Attchd,NA,2008,192000,2
+p572,5687,Inside,Condo,Gable,PConc,780,GasA,N,9,0,NA,NA,2008,135900,6
+p573,18386,Inside,Single Family,Gable,BrkTil,1470,GasA,Y,10,1,Attchd,NA,2008,295000,8
+p574,7920,Inside,Single Family,Gable,CBlock,319,GasA,Y,6,0,NA,MnPrv,2008,89500,2
+p575,10846,CulDSac,Townhouse,Gable,PConc,1719,GasA,Y,6,2,Attchd,NA,2008,324000,6
+p576,8198,FR3,Townhouse,Gable,PConc,1358,GasA,Y,6,1,Attchd,NA,2008,207000,6
+p577,9042,Inside,Single Family,Gable,PConc,943,GasA,Y,7,2,Attchd,NA,2008,192000,6
+p578,164660,Corner,Condo,Gable,CBlock,1499,GasA,Y,7,2,Attchd,NA,2008,228950,4
+p579,9135,Inside,Single Family,Gable,PConc,1536,GasA,Y,7,0,Attchd,NA,2008,214000,8
+p580,8849,Inside,Townhouse,Hip,PConc,1684,GasA,Y,6,1,Attchd,NA,2008,266000,2
+p581,2448,Inside,Townhouse,Gable,PConc,764,GasA,Y,6,0,BuiltIn,NA,2008,154000,4
+p582,9084,Inside,Single Family,Gable,CBlock,616,GasA,N,5,0,Detchd,NA,2008,95000,3
+p583,9144,Inside,Single Family,Gable,CBlock,883,GasA,Y,8,0,Detchd,NA,2008,145000,3
+p584,9150,Corner,Single Family,Gable,CBlock,1099,GasA,Y,6,1,Basment,NA,2008,165000,7
+p585,17120,Inside,Single Family,Gable,CBlock,0,GasA,Y,7,1,Detchd,NA,2008,134432,4
+p586,9382,CulDSac,Single Family,Gable,PConc,1468,GasA,Y,6,0,Attchd,NA,2008,191000,8
+p587,12474,Inside,Single Family,Gable,PConc,1682,GasA,Y,9,1,BuiltIn,NA,2008,426000,7
+p588,8405,Inside,Single Family,Gable,BrkTil,861,GasA,Y,7,0,Detchd,MnPrv,2008,119000,6
+p589,14963,Inside,Townhouse,Gable,PConc,1260,GasA,Y,4,2,Attchd,NA,2008,245500,1
+p590,10200,Inside,Single Family,Gable,PConc,672,GasA,Y,4,0,Detchd,GdPrv,2008,108000,2
+p591,10480,Inside,Single Family,Gable,BrkTil,1064,GasA,Y,6,0,Detchd,NA,2008,115000,3
+p592,15576,Inside,Single Family,Gable,BrkTil,840,GasA,Y,8,0,Attchd,NA,2008,177000,6
+p593,10800,Inside,Single Family,Gable,PConc,1034,GasA,Y,8,1,Attchd,NA,2008,339750,4
+p594,11228,CulDSac,Single Family,Gable,PConc,1080,GasA,Y,9,1,Attchd,NA,2008,228000,5
+p595,7060,Inside,Duplex,Gable,PConc,1344,GasA,Y,8,0,Attchd,NA,2008,206300,5
+p596,21750,Inside,Single Family,Hip,CBlock,988,GasA,Y,4,0,Attchd,NA,2008,113000,6
+p597,9200,Inside,Single Family,Gable,PConc,1470,GasA,Y,8,1,Attchd,NA,2008,315000,5
+p598,9000,Inside,Single Family,Gable,CBlock,1196,GasA,Y,6,1,Attchd,NA,2008,139000,6
+p599,8593,Inside,Single Family,Hip,CBlock,907,GasA,Y,5,0,Detchd,NA,2008,109008,1
+p600,1680,Inside,Townhouse,Gable,CBlock,483,GasA,Y,4,0,Detchd,NA,2008,85400,6
+p601,5586,Inside,Single Family,Gable,BrkTil,901,GasA,Y,7,0,NA,MnPrv,2008,79900,1
+p602,10839,Corner,Single Family,Gable,PConc,926,GasA,Y,7,1,Attchd,NA,2008,181000,5
+p603,1890,Inside,Townhouse,Gable,CBlock,630,GasA,Y,3,0,NA,NA,2008,81000,3
+p604,12108,Inside,Duplex,Gable,CBlock,1440,GasA,N,8,0,NA,NA,2008,118000,10
+p605,6240,Inside,Single Family,Gable,PConc,1078,GasA,Y,8,1,Detchd,NA,2008,162900,2
+p606,8750,Inside,Single Family,Gable,PConc,915,GasA,Y,8,1,Attchd,NA,2008,210000,3
+p607,4571,Inside,Single Family,Gable,BrkTil,624,GasA,N,7,0,Detchd,NA,2008,98000,5
+p608,53227,CulDSac,Single Family,Flat,CBlock,1364,GasA,Y,6,2,Attchd,NA,2008,256000,9
+p609,5100,Inside,Single Family,Hip,PConc,588,GasA,Y,7,1,Detchd,MnPrv,2008,161000,2
+p610,11988,Inside,Single Family,Hip,CBlock,715,GasA,Y,6,1,Detchd,NA,2008,188700,2
+p611,9291,Corner,Single Family,Gable,PConc,832,GasA,Y,7,0,Attchd,NA,2008,187000,7
+p612,3675,Inside,Townhouse,Gable,PConc,547,GasA,Y,5,0,Basment,NA,2008,148000,10
+p613,13125,Inside,Single Family,Gable,PConc,1478,GasA,Y,7,1,Attchd,NA,2008,208900,9
+p614,2665,Inside,Townhouse,Gable,PConc,264,GasA,Y,4,1,BuiltIn,NA,2008,115000,7
+p615,7931,Inside,Single Family,Gable,CBlock,1269,GasA,Y,6,1,Detchd,NA,2008,155000,10
+p616,9120,Inside,Single Family,Gable,PConc,1026,GasA,Y,8,0,Detchd,GdPrv,2008,184000,4
+p617,9803,Inside,Single Family,Gable,PConc,866,GasA,Y,7,0,Attchd,NA,2008,226700,7
+p618,9600,Inside,Single Family,Gambrel,BrkTil,689,GasA,Y,7,1,Detchd,NA,2008,161000,2
+p619,10800,Inside,Condo,Gable,BrkTil,0,GasA,N,7,0,NA,NA,2008,106250,9
+p620,14948,Inside,Single Family,Hip,PConc,1452,GasA,Y,11,1,Attchd,NA,2008,446261,10
+p621,10200,Inside,Single Family,Gable,CBlock,1461,GasA,Y,5,1,Attchd,NA,2008,175000,4
+p622,6155,FR3,Single Family,Gable,BrkTil,611,GasA,Y,6,0,Detchd,NA,2008,128000,2
+p623,7000,Inside,Condo,Gable,CBlock,1117,GasA,Y,5,0,NA,NA,2008,107500,5
+p624,8924,CulDSac,Single Family,Gable,PConc,880,GasA,Y,8,0,Attchd,NA,2008,188000,6
+p625,12735,FR2,Single Family,Hip,CBlock,864,GasA,Y,5,0,Detchd,MnWw,2008,111250,10
+p626,8235,Inside,Single Family,Gable,CBlock,825,GasA,Y,4,0,Detchd,MnPrv,2008,125000,10
+p627,4043,Inside,Townhouse,Gable,CBlock,1069,GasA,Y,4,0,Attchd,NA,2008,140000,4
+p628,6000,Inside,Single Family,Hip,CBlock,928,GasA,Y,5,0,Attchd,NA,2008,112500,9
+p629,10625,Inside,Single Family,Gable,PConc,998,GasA,Y,8,1,BuiltIn,NA,2008,284000,5
+p630,21872,FR2,Single Family,Gable,PConc,729,GasA,Y,6,1,Attchd,NA,2008,175000,4
+p631,13907,Inside,Single Family,Gable,CBlock,996,GasA,Y,6,1,NA,NA,2008,108000,3
+p632,21780,Inside,Single Family,Gable,BrkTil,1163,GasA,Y,8,1,Detchd,NA,2008,185000,7
+p633,11198,Inside,Single Family,Hip,PConc,1122,GasA,Y,11,1,BuiltIn,NA,2008,325000,7
+p634,13101,Inside,Duplex,Gable,CBlock,1728,GasA,Y,10,0,Detchd,NA,2008,142600,8
+p635,8480,Inside,Single Family,Gable,CBlock,832,GasA,Y,6,0,Detchd,NA,2008,118500,1
+p636,3604,Corner,Townhouse,Gable,PConc,689,GasA,Y,5,0,Detchd,NA,2008,146000,7
+p637,12150,Inside,Single Family,Gable,BrkTil,1050,GasA,N,7,0,Attchd,NA,2008,131500,2
+p638,13500,Inside,Single Family,Gable,BrkTil,1237,GasA,Y,9,1,Detchd,NA,2008,325000,9
+p639,10267,Inside,Single Family,Gable,BrkTil,816,GasA,Y,5,0,Detchd,MnWw,2008,130000,7
+p640,9100,Inside,Single Family,Gable,BrkTil,742,GasA,Y,4,0,Detchd,NA,2008,79500,9
+p641,8320,Inside,Single Family,Gable,PConc,770,GasA,Y,6,0,Attchd,NA,2008,185900,10
+p642,6600,Inside,Single Family,Gable,PConc,816,GasA,Y,4,0,Detchd,NA,2008,138000,5
+p643,7990,Inside,Single Family,Hip,CBlock,924,GasA,Y,5,0,Detchd,MnPrv,2008,110000,2
+p644,1950,Inside,Townhouse,Gable,CBlock,716,GasA,Y,6,1,Attchd,GdPrv,2008,151000,7
+p645,12803,Inside,Single Family,Gable,PConc,1494,GasA,Y,6,1,Attchd,NA,2008,221000,1
+p646,7227,Corner,Single Family,Gable,CBlock,832,GasA,Y,4,0,Detchd,NA,2008,105500,8
+p647,12244,Inside,Single Family,Hip,PConc,1482,GasA,Y,10,2,Attchd,NA,2008,305000,5
+p648,8248,Inside,Single Family,Gable,BrkTil,864,GasA,N,5,0,NA,NA,2008,67000,1
+p649,10800,Inside,Single Family,Gable,CBlock,1522,GasA,Y,9,1,Attchd,NA,2008,240000,7
+p650,9020,Corner,Single Family,Gable,CBlock,1248,GasA,Y,6,0,Attchd,GdPrv,2008,168500,10
+p651,8777,Inside,Single Family,Gable,CBlock,796,GasA,Y,4,0,NA,MnPrv,2008,85000,5
+p652,12677,Inside,Townhouse,Hip,PConc,1518,GasA,Y,6,1,Attchd,NA,2008,274000,3
+p653,7200,Inside,Single Family,Hip,CBlock,0,GasA,Y,7,0,Detchd,NA,2008,98300,4
+p654,10452,Inside,Single Family,Hip,CBlock,1094,GasA,Y,5,2,Attchd,NA,2008,155000,3
+p655,8125,Inside,Single Family,Gable,PConc,813,GasA,Y,7,0,Attchd,NA,2008,205950,2
+p656,10320,Inside,Single Family,Gable,CBlock,756,GasA,Y,7,0,Detchd,MnPrv,2008,135000,6
+p657,10437,Inside,Single Family,Hip,PConc,2109,GasA,Y,7,1,Attchd,NA,2008,350000,3
+p658,10007,Inside,Single Family,Gable,CBlock,1053,GasA,Y,5,0,Attchd,MnPrv,2008,145500,4
+p659,7200,Inside,Single Family,Gable,BrkTil,776,GasA,Y,6,1,Attchd,MnPrv,2008,149000,10
+p660,10012,Inside,Single Family,Gable,CBlock,1138,GasA,Y,6,0,Detchd,MnPrv,2008,137500,5
+p661,8125,Inside,Single Family,Gable,PConc,1408,GasA,Y,7,1,Attchd,NA,2008,193500,8
+p662,9200,Inside,Single Family,Gable,CBlock,1136,GasA,Y,5,1,Attchd,NA,2008,140000,6
+p663,2887,Inside,Single Family,Gable,PConc,1291,GasA,Y,6,1,Attchd,NA,2008,173000,8
+p664,4426,Inside,Townhouse,Gable,PConc,848,GasA,Y,3,1,Attchd,NA,2008,141000,8
+p665,4282,Inside,Townhouse,Gable,PConc,1391,GasA,Y,5,0,Attchd,NA,2008,196000,2
+p666,7162,Inside,Single Family,Gable,PConc,876,GasA,Y,6,0,Attchd,MnPrv,2008,109900,2
+p667,4130,Inside,Single Family,Gable,CBlock,270,GasA,Y,5,0,NA,NA,2008,52000,7
+p668,4671,Inside,Townhouse,Gable,PConc,1228,GasA,Y,5,1,Attchd,NA,2008,189000,6
+p669,10000,Inside,Single Family,Gable,CBlock,1176,GasA,Y,5,1,Attchd,MnPrv,2008,157000,7
+p670,10542,Inside,Single Family,Hip,PConc,1311,GasA,Y,9,1,Attchd,NA,2008,341000,8
+p671,8172,Inside,Single Family,Gable,PConc,941,GasA,Y,7,0,Detchd,NA,2008,135000,7
+p672,11404,Inside,Single Family,Gable,PConc,1153,GasA,Y,8,1,Attchd,NA,2008,222500,7
+p673,6768,Inside,Single Family,Hip,CBlock,912,GasA,Y,5,0,Detchd,GdPrv,2008,142000,9
+p674,5395,Inside,Townhouse,Gable,PConc,1337,GasA,Y,5,1,Attchd,NA,2008,180000,7
+p675,8963,Inside,Single Family,Hip,CBlock,1142,GasA,Y,11,2,BuiltIn,NA,2008,299800,4
+p676,2280,Inside,Townhouse,Gable,PConc,744,GasA,Y,6,0,Detchd,NA,2008,179400,5
+p677,14587,Inside,Single Family,Gable,PConc,1498,GasA,Y,6,1,Attchd,NA,2008,264132,9
+p678,12508,Inside,Single Family,Gable,CBlock,983,GasA,Y,7,0,Attchd,NA,2008,160000,7
+p679,6300,Inside,Single Family,Gable,CBlock,742,GasA,Y,9,1,NA,NA,2008,128000,2
+p680,6000,Corner,Single Family,Gable,CBlock,901,GasA,Y,4,0,Detchd,NA,2008,107900,6
+p681,10832,Corner,Single Family,Gable,PConc,712,GasA,Y,7,1,Attchd,NA,2008,194500,5
+p682,7677,Inside,Single Family,Gable,CBlock,773,GasA,Y,4,0,Attchd,NA,2008,110000,8
+p683,12798,Inside,Single Family,Gable,PConc,616,GasA,Y,8,0,Attchd,NA,2008,200000,3
+p684,8199,Inside,Single Family,Gable,PConc,728,GasA,Y,7,1,Attchd,NA,2008,189000,9
+p685,12274,FR2,Single Family,Gable,PConc,1417,GasA,Y,6,0,Attchd,NA,2008,227680,9
+p686,4438,Inside,Townhouse,Gable,PConc,848,GasA,Y,4,1,Attchd,NA,2008,144500,6
+p687,13265,CulDSac,Single Family,Hip,PConc,1568,GasA,Y,7,2,Attchd,NA,2008,271000,4
+p688,7226,CulDSac,Single Family,Gable,PConc,798,GasA,Y,6,0,Attchd,NA,2008,183000,4
+p689,14803,Inside,Single Family,Hip,PConc,2078,GasA,Y,7,1,Attchd,NA,2008,385000,6
+p690,6130,Inside,Single Family,Gable,BrkTil,784,GasA,Y,5,0,NA,NA,2008,109500,2
+p691,11900,Corner,Single Family,Gable,CBlock,1392,GasA,Y,6,2,Attchd,NA,2008,166000,10
+p692,7875,Inside,Single Family,Gable,CBlock,1144,GasA,Y,6,0,Attchd,GdWo,2008,139950,3
+p693,1680,Inside,Townhouse,Gable,CBlock,483,GasA,Y,5,0,Detchd,NA,2008,100000,3
+p694,9525,Inside,Single Family,Gable,PConc,1099,GasA,Y,6,0,Attchd,NA,2008,144000,1
+p695,11767,Inside,Single Family,Gable,CBlock,768,GasA,Y,6,0,Detchd,NA,2008,130500,7
+p696,12155,Inside,Single Family,Gable,BrkTil,672,GasA,N,7,0,Detchd,NA,2008,140000,6
+p697,10440,Inside,Single Family,Gable,PConc,650,GasA,Y,8,1,Detchd,NA,2008,157500,4
+p698,9020,Inside,Single Family,Gable,CBlock,1127,GasA,Y,6,0,Attchd,GdPrv,2008,174900,5
+p699,12665,Inside,Single Family,Gable,BrkTil,876,GasA,Y,7,1,Detchd,NA,2008,153900,2
+p700,45600,Inside,Single Family,Gable,BrkTil,907,GasA,Y,10,1,Detchd,NA,2008,240000,4
+p701,10970,Inside,Single Family,Gable,CBlock,940,GasA,Y,5,0,Detchd,MnPrv,2008,147000,3
+p702,8640,Inside,Single Family,Gable,PConc,1372,GasA,Y,6,0,Attchd,NA,2008,250580,2
+p703,8892,Corner,Single Family,Gable,Stone,105,GasA,Y,5,0,Attchd,GdWo,2008,116000,10
+p704,5119,CulDSac,Townhouse,Gable,PConc,1698,GasA,Y,5,1,Attchd,NA,2008,328900,8
+p705,16466,Inside,Single Family,Gable,PConc,816,GasA,Y,8,0,Attchd,NA,2008,135500,7
+p706,13284,Inside,Single Family,Gable,PConc,1383,GasA,Y,6,1,Attchd,GdPrv,2008,165000,3
+p707,7056,Inside,Single Family,Hip,CBlock,780,GasA,Y,8,1,Attchd,NA,2008,140000,5
+p708,11029,Corner,Single Family,Hip,CBlock,1184,GasA,Y,6,1,Attchd,NA,2008,176500,9
+p709,8777,Inside,Duplex,Gable,CBlock,1272,GasA,Y,9,0,NA,GdPrv,2008,145900,6
+p710,8012,Inside,Townhouse,Gable,PConc,1604,GasA,Y,5,1,Attchd,NA,2008,193000,9
+p711,15611,Corner,Single Family,Gable,PConc,1126,GasA,Y,6,0,Attchd,NA,2008,175000,7
+p712,9900,Inside,Single Family,Gable,CBlock,832,GasA,Y,9,1,Attchd,GdPrv,2008,176000,5
+p713,27650,Inside,Single Family,Flat,CBlock,585,GasA,Y,9,1,Attchd,NA,2008,242000,6
+p714,11075,Inside,Single Family,Gable,CBlock,784,GasA,Y,7,1,Attchd,MnPrv,2008,172000,2
+p715,12227,Corner,Single Family,Gable,CBlock,1330,GasA,Y,11,1,Attchd,NA,2008,272000,6
+p716,7390,Inside,Single Family,Hip,CBlock,1098,GasA,Y,6,0,Attchd,NA,2008,135000,9
+p717,11639,Corner,Single Family,Gable,PConc,1428,GasA,Y,6,0,Attchd,NA,2008,182000,8
+p718,12122,Corner,Single Family,Gable,CBlock,944,GasA,Y,6,0,Attchd,NA,2008,178400,4
+p719,3182,Inside,Single Family,Gable,PConc,1266,GasA,Y,6,1,Attchd,NA,2008,159895,10
+p720,11250,Corner,Single Family,Gable,PConc,1128,GasA,Y,9,1,Attchd,NA,2008,255900,9
+p721,10880,Inside,Condo,Gable,CBlock,1164,GasW,N,5,0,Detchd,NA,2008,125000,8
+p722,11957,Inside,Single Family,Gable,PConc,1574,GasA,Y,7,1,Attchd,NA,2008,232000,4
+p723,8385,Inside,Single Family,Gable,CBlock,985,GasA,Y,6,0,Attchd,NA,2008,149900,10
+p724,21286,Inside,Single Family,Gable,CBlock,720,GasA,Y,7,1,Attchd,NA,2008,135000,8
+p725,7024,Inside,Single Family,Gable,PConc,1132,GasA,Y,5,0,Attchd,NA,2008,176000,4
+p726,3182,Inside,Townhouse,Gable,PConc,1346,GasA,Y,7,1,Attchd,NA,2008,191000,8
+p727,15498,Corner,Single Family,Hip,CBlock,1565,GasA,Y,10,1,Attchd,NA,2008,287000,4
+p728,9520,Inside,Single Family,Gable,PConc,1638,GasA,Y,7,1,Attchd,NA,2008,293077,4
+p729,9240,Inside,Single Family,Gable,PConc,1055,GasA,Y,7,1,BuiltIn,NA,2008,287000,8
+p730,9130,Inside,Single Family,Hip,CBlock,800,GasA,Y,7,0,Attchd,NA,2008,173000,9
+p731,11839,Inside,Single Family,Hip,PConc,1475,GasA,Y,10,1,Attchd,NA,2008,262280,1
+p732,9245,Inside,Single Family,Gable,PConc,990,GasA,Y,5,0,Detchd,NA,2008,145000,3
+p733,11361,Inside,Single Family,Gable,CBlock,1193,GasA,Y,7,1,Attchd,MnPrv,2008,180000,10
+p734,18000,Inside,Single Family,Gable,CBlock,894,GasA,Y,6,0,Detchd,NA,2008,81000,8
+p735,9760,Inside,Single Family,Gable,CBlock,780,GasA,Y,7,0,Attchd,NA,2008,167900,3
+p736,11040,Inside,Single Family,Gable,CBlock,1258,GasA,Y,5,0,Attchd,NA,2008,145000,1
+p737,2160,Inside,Townhouse,Gable,PConc,600,GasA,Y,4,0,Detchd,NA,2008,160000,5
+p738,8400,Inside,Single Family,Gable,PConc,1181,GasA,Y,7,1,Detchd,NA,2008,136500,6
+p739,8000,Inside,Single Family,Gable,PConc,773,GasA,Y,8,1,Attchd,NA,2008,188000,7
+p740,10480,Inside,Single Family,Hip,CBlock,803,GasA,Y,8,1,Attchd,NA,2008,205000,7
+p741,9764,FR2,Single Family,Gable,CBlock,894,GasA,Y,5,0,Attchd,NA,2008,130000,3
+p742,13825,Inside,Single Family,Gable,CBlock,533,GasA,Y,6,0,BuiltIn,NA,2008,140000,7
+p743,9600,Inside,Single Family,Gable,CBlock,1032,GasA,Y,6,0,Attchd,NA,2008,119000,1
+p744,7350,Corner,Single Family,Gable,CBlock,952,GasA,Y,4,0,Detchd,NA,2008,139000,3
+p745,9000,Inside,Single Family,Gable,CBlock,1006,GasA,Y,5,0,NA,NA,2008,80000,8
+p746,5700,Inside,Single Family,Gable,PConc,572,GasA,Y,5,1,Detchd,NA,2008,116900,7
+p747,5890,Corner,Single Family,Gable,BrkTil,816,GasA,Y,5,0,Detchd,NA,2008,120500,9
+p748,13700,Inside,Single Family,Gable,CBlock,864,GasA,Y,8,2,Attchd,GdPrv,2008,201800,2
+p749,9350,Inside,Single Family,Gable,PConc,1219,GasA,Y,6,1,Attchd,MnPrv,2008,179900,3
+p750,11932,FR2,Single Family,Gable,PConc,1580,GasA,Y,7,0,Attchd,NA,2008,235128,2
+p751,9120,Inside,Single Family,Hip,CBlock,901,GasA,Y,8,1,Attchd,NA,2008,185000,9
+p752,14778,CulDSac,Single Family,Hip,CBlock,1296,GasA,Y,7,1,Detchd,NA,2008,224000,3
+p753,12900,Inside,Duplex,Gable,CBlock,1198,GasA,Y,6,0,CarPort,NA,2008,108959,6
+p754,13728,Corner,Single Family,Hip,CBlock,1127,GasA,Y,7,2,Basment,NA,2008,235000,5
+p755,9880,Inside,Single Family,Gable,CBlock,1096,GasA,Y,6,1,Attchd,GdPrv,2008,171000,9
+p756,9120,Inside,Single Family,Hip,CBlock,1261,GasA,Y,6,1,Attchd,NA,2008,163000,3
+p757,4017,Inside,Townhouse,Gable,PConc,625,GasA,Y,5,0,Detchd,NA,2008,171900,10
+p758,6951,CulDSac,Single Family,Gable,CBlock,876,GasA,Y,5,0,Attchd,MnPrv,2008,119500,5
+p759,5587,Inside,Townhouse,Hip,PConc,1600,GasA,Y,5,1,Attchd,NA,2008,392500,7
+p760,8029,Inside,Single Family,Gable,PConc,728,GasA,Y,8,0,Attchd,NA,2008,176000,6
+p761,7763,Inside,Single Family,Gable,CBlock,931,GasA,Y,6,0,Detchd,NA,2008,140000,7
+p762,8250,Inside,Single Family,Hip,CBlock,952,GasA,Y,5,1,Attchd,NA,2008,134000,3
+p763,15384,Inside,Single Family,Gable,PConc,788,GasA,Y,8,1,Attchd,NA,2008,184000,10
+p764,14598,CulDSac,Single Family,Gable,PConc,894,GasA,Y,9,1,BuiltIn,NA,2008,214000,6
+p765,8872,Corner,Single Family,Gable,CBlock,912,GasA,Y,5,0,Detchd,NA,2008,147000,7
+p766,8769,Corner,Townhouse,Hip,PConc,1702,GasA,Y,7,1,Attchd,NA,2008,367294,4
+p767,7910,Inside,Single Family,Hip,CBlock,1075,GasA,Y,7,0,Basment,GdWo,2008,127000,2
+p768,8525,Inside,Single Family,Gable,PConc,940,GasA,N,7,0,NA,NA,2008,130000,1
+p769,8158,Inside,Single Family,Gable,PConc,884,GasA,Y,8,0,Attchd,NA,2008,224900,9
+p770,9600,Inside,Single Family,Gable,BrkTil,735,OthW,N,8,1,Detchd,NA,2008,129500,2
+p771,6931,Inside,Single Family,Gable,PConc,746,GasA,Y,7,1,BuiltIn,NA,2008,165400,3
+p772,14303,Corner,Single Family,Hip,PConc,1986,GasA,Y,7,1,Attchd,NA,2008,301500,8
+p773,9587,Inside,Single Family,Gable,PConc,856,GasA,Y,5,0,Attchd,NA,2008,190000,3
+p774,9750,FR2,Single Family,Gable,CBlock,1054,GasA,Y,6,0,Attchd,NA,2008,151000,1
+p775,4060,Inside,Townhouse,Gable,PConc,1405,GasA,Y,5,0,Attchd,NA,2008,181000,8
+p776,14100,Inside,Single Family,Gable,CBlock,728,GasA,Y,11,2,BuiltIn,GdWo,2008,381000,9
+p777,11512,Corner,Single Family,Gable,CBlock,1019,GasA,Y,5,1,Basment,GdPrv,2008,177000,1
+p778,9473,Inside,Single Family,Gable,PConc,1128,GasA,Y,7,1,Attchd,NA,2008,237000,4
+p779,8700,Inside,Single Family,Hip,CBlock,1120,GasA,Y,6,0,Attchd,MnPrv,2008,155000,1
+p780,63887,Corner,Single Family,Hip,PConc,6110,GasA,Y,12,3,Attchd,NA,2008,160000,4
+p781,12000,Inside,Single Family,Gable,CBlock,924,GasA,Y,6,0,Attchd,GdWo,2008,147000,7
+p782,7153,Inside,Single Family,Gable,CBlock,1278,GasA,Y,6,0,Attchd,GdWo,2008,179200,3
+p783,11075,Inside,Single Family,Gable,CBlock,952,GasA,Y,9,2,Attchd,NA,2008,206900,1
+p784,6627,Corner,Single Family,Hip,CBlock,0,Floor,N,4,0,Detchd,NA,2008,72500,10
+p785,3636,Inside,Single Family,Gable,BrkTil,796,GasA,N,5,0,NA,MnPrv,2008,55000,6
+p786,6600,Inside,Single Family,Gable,CBlock,816,GasA,Y,5,1,Attchd,MnPrv,2008,130500,10
+p787,10440,Corner,Single Family,Gable,BrkTil,1510,GasW,Y,8,2,Detchd,MnPrv,2008,256000,3
+p788,9246,Inside,Duplex,Gable,CBlock,1656,GasA,Y,8,0,Detchd,NA,2008,135000,7
+p789,13695,Inside,Single Family,Gable,PConc,1114,GasA,Y,6,0,Detchd,NA,2008,155000,9
+p790,5250,Inside,Single Family,Gable,BrkTil,684,OthW,N,8,0,NA,NA,2008,122000,2
+p791,9247,Inside,Single Family,Gable,CBlock,858,GasA,Y,8,1,Attchd,NA,2008,171000,8
+p792,10316,Inside,Single Family,Gable,PConc,992,GasA,Y,7,1,Attchd,NA,2008,235000,9
+p793,9477,Corner,Single Family,Gable,CBlock,864,GasA,Y,5,0,Attchd,GdWo,2008,110000,3
+p794,9842,Inside,Single Family,Gable,BrkTil,612,GasA,Y,8,0,BuiltIn,NA,2008,189000,4
+p795,9179,Inside,Single Family,Gable,PConc,873,GasA,Y,7,0,Attchd,NA,2008,193000,7
+p796,9600,Inside,Single Family,Hip,CBlock,992,GasA,Y,8,1,BuiltIn,MnPrv,2008,165500,1
+p797,10625,Inside,Single Family,Gable,PConc,1026,GasA,Y,9,1,Attchd,NA,2008,250000,7
+p798,6292,Inside,Single Family,Gable,BrkTil,768,GasA,N,4,0,Detchd,NA,2008,91000,1
+p799,9735,Inside,Single Family,Gable,PConc,384,GasA,Y,7,0,BuiltIn,NA,2008,167500,4
+p800,12925,Corner,Single Family,Gable,CBlock,1205,GasA,Y,7,2,Attchd,NA,2008,237500,4
+p801,10800,Inside,Condo,Gable,BrkTil,482,GasA,N,7,1,Detchd,NA,2008,163000,7
+p802,6000,Corner,Single Family,Gable,BrkTil,862,GasA,Y,5,1,BuiltIn,NA,2008,120000,1
+p803,7415,Inside,Single Family,Gable,PConc,839,GasA,Y,8,1,Attchd,NA,2008,193000,2
+p804,3842,Inside,Townhouse,Hip,PConc,1594,GasA,Y,5,1,Attchd,NA,2008,275000,7
+p805,20544,CulDSac,Single Family,Gable,CBlock,791,GasA,Y,7,1,Attchd,MnPrv,2008,215000,10
+p806,13053,Inside,Single Family,Gambrel,BrkTil,833,GasA,Y,8,1,Detchd,NA,2008,207000,9
+p807,9204,Inside,Single Family,Gable,CBlock,1144,GasA,Y,6,0,Detchd,NA,2008,124000,4
+p808,4435,Inside,Townhouse,Gable,PConc,848,GasA,Y,3,0,Attchd,NA,2008,136500,2
+p809,10721,Inside,Single Family,Hip,CBlock,1252,GasA,Y,7,0,Detchd,NA,2008,142000,1
+p810,10944,Inside,Single Family,Gable,PConc,1223,GasA,Y,5,2,Attchd,NA,2008,271000,6
+p811,10930,Inside,Single Family,Gable,CBlock,913,GasA,Y,6,1,Attchd,NA,2008,140000,8
+p812,10261,Inside,Single Family,Gable,PConc,936,GasA,Y,8,1,Attchd,NA,2008,186500,8
+p813,8400,Inside,Single Family,Gable,CBlock,1319,GasA,Y,7,1,Attchd,GdPrv,2008,174000,4
+p814,12444,FR2,Single Family,Hip,PConc,1932,GasA,Y,7,1,Attchd,NA,2008,394617,7
+p815,11526,Inside,Single Family,Gable,BrkTil,588,GasA,Y,11,1,Detchd,NA,2008,191000,8
+p816,4426,Inside,Townhouse,Gable,PConc,848,GasA,Y,3,1,Attchd,NA,2008,149300,7
+p817,9937,Inside,Single Family,Gable,CBlock,1256,GasA,Y,6,0,Attchd,NA,2008,147500,5
+p818,9600,FR2,Single Family,Gable,CBlock,1262,GasA,Y,6,1,Attchd,NA,2007,181500,5
+p819,10084,Inside,Single Family,Gable,PConc,1686,GasA,Y,7,1,Attchd,NA,2007,307000,1
+p820,10652,Inside,Single Family,Gable,PConc,1494,GasA,Y,7,1,Attchd,NA,2007,279500,4
+p821,6120,Corner,Single Family,Gable,BrkTil,832,GasA,Y,5,0,Detchd,GdPrv,2007,132000,1
+p822,7449,Inside,Single Family,Gable,PConc,637,GasA,Y,6,1,Attchd,GdPrv,2007,139400,2
+p823,4224,Inside,Townhouse,Gable,PConc,1040,GasA,Y,6,1,Attchd,NA,2007,129900,3
+p824,7313,Inside,Townhouse,Hip,PConc,1561,GasA,Y,6,1,Attchd,NA,2007,277500,9
+p825,16905,Inside,Single Family,Gable,CBlock,1350,GasA,Y,5,2,Attchd,NA,2007,170000,8
+p826,9180,CulDSac,Single Family,Gable,CBlock,840,GasA,Y,5,0,Attchd,MnPrv,2007,144000,9
+p827,11096,Inside,Single Family,Gable,PConc,1656,GasA,Y,7,0,Attchd,NA,2007,249700,9
+p828,7742,Inside,Single Family,Gable,CBlock,955,GasA,Y,6,0,Attchd,MnPrv,2007,127000,8
+p829,13869,Corner,Single Family,Gable,PConc,794,GasA,Y,6,0,Attchd,NA,2007,177000,10
+p830,7134,Inside,Single Family,Gable,CBlock,384,GasA,Y,6,1,Detchd,MnPrv,2007,130000,6
+p831,7200,Inside,Single Family,Gable,BrkTil,530,GasA,N,6,0,Detchd,NA,2007,101000,10
+p832,6442,Inside,Townhouse,Gable,PConc,1370,GasA,Y,6,1,Attchd,NA,2007,202500,7
+p833,9591,Inside,Single Family,Gable,PConc,1143,GasA,Y,9,1,BuiltIn,NA,2007,317000,6
+p834,10665,Inside,Single Family,Gable,PConc,1453,GasA,Y,7,0,Attchd,NA,2007,226000,4
+p835,13651,Inside,Single Family,Gable,CBlock,2223,GasA,Y,8,2,Attchd,NA,2007,244000,1
+p836,7599,Corner,Single Family,Gable,CBlock,845,GasA,Y,4,0,Detchd,NA,2007,129500,3
+p837,8892,Inside,Single Family,Gable,CBlock,1065,GasA,Y,6,0,Detchd,NA,2007,126500,3
+p838,8070,Inside,Single Family,Gable,PConc,990,GasA,Y,5,0,NA,NA,2007,123600,3
+p839,7200,Corner,Condo,Hip,BrkTil,1214,GasW,N,9,1,Detchd,NA,2007,133900,8
+p840,9337,Inside,Single Family,Gable,PConc,824,GasA,Y,7,0,Attchd,NA,2007,204750,5
+p841,10921,Inside,Single Family,Hip,CBlock,960,GasA,Y,6,0,Attchd,NA,2007,94750,5
+p842,7758,Corner,Single Family,Gable,PConc,1040,GasA,Y,7,2,Detchd,NA,2007,169500,6
+p843,10800,Inside,Single Family,Mansard,BrkTil,641,GasA,Y,6,0,Detchd,NA,2007,100000,4
+p844,8500,Corner,Single Family,Gable,CBlock,793,GasW,N,7,0,NA,NA,2007,115000,1
+p845,9965,Inside,Single Family,Gable,PConc,1264,GasA,Y,10,1,BuiltIn,NA,2007,383970,1
+p846,21000,Corner,Single Family,Hip,CBlock,1809,GasA,Y,7,2,Basment,MnPrv,2007,217000,4
+p847,7259,Inside,Single Family,Gambrel,CBlock,1028,GasA,Y,9,1,Detchd,MnPrv,2007,259500,3
+p848,3230,Corner,Townhouse,Gable,PConc,729,GasA,Y,5,1,Detchd,NA,2007,176000,9
+p849,8536,Corner,Single Family,Gable,PConc,1125,GasA,Y,5,0,Attchd,NA,2007,155000,1
+p850,6060,Inside,Single Family,Gable,PConc,732,GasA,Y,4,0,Detchd,MnPrv,2007,100000,9
+p851,4928,Inside,Townhouse,Gable,CBlock,1078,GasA,Y,5,1,Attchd,NA,2007,128000,5
+p852,4388,Inside,Single Family,Gable,BrkTil,672,GasA,Y,5,1,NA,NA,2007,87000,9
+p853,7388,Corner,Single Family,Gable,CBlock,1063,GasA,Y,7,0,Detchd,NA,2007,150750,5
+p854,10355,Corner,Single Family,Gable,CBlock,1214,GasA,Y,5,1,Attchd,NA,2007,143000,6
+p855,10356,Corner,Single Family,Gable,CBlock,969,GasA,Y,5,0,Attchd,MnPrv,2007,122000,6
+p856,5500,Inside,Single Family,Gable,CBlock,882,GasA,Y,4,0,NA,MnPrv,2007,103200,3
+p857,5400,Corner,Single Family,Gable,BrkTil,1149,GasA,Y,5,0,Detchd,NA,2007,152000,6
+p858,10562,Inside,Single Family,Gable,PConc,1582,GasA,Y,8,1,Attchd,NA,2007,325624,1
+p859,8244,Inside,Single Family,Gable,PConc,840,GasA,Y,7,1,Attchd,NA,2007,183500,6
+p860,12358,Inside,Single Family,Gable,CBlock,720,GasA,Y,7,0,Detchd,NA,2007,128500,5
+p861,12615,Corner,Single Family,Gable,CBlock,1202,GasA,Y,7,1,Attchd,MnPrv,2007,243000,8
+p862,10029,Corner,Single Family,Gable,PConc,1151,GasA,Y,8,1,Attchd,NA,2007,211000,4
+p863,8520,Inside,Single Family,Gable,CBlock,968,GasA,Y,5,0,Detchd,NA,2007,100000,3
+p864,2117,Inside,Townhouse,Gable,PConc,756,GasA,Y,5,1,Detchd,NA,2007,177000,10
+p865,9060,Inside,Single Family,Hip,PConc,0,GasA,Y,7,1,Attchd,MnPrv,2007,120000,8
+p866,10570,Inside,Single Family,Hip,CBlock,853,GasA,Y,10,2,Detchd,NA,2007,315000,7
+p867,7472,CulDSac,Single Family,Gable,CBlock,725,GasA,Y,7,0,Attchd,NA,2007,184000,1
+p868,9416,Inside,Single Family,Hip,PConc,1726,GasA,Y,8,1,Attchd,NA,2007,311872,3
+p869,13673,CulDSac,Single Family,Gable,CBlock,1140,GasA,Y,8,1,Attchd,NA,2007,143900,10
+p870,14364,Inside,Single Family,Gable,CBlock,1157,GasA,Y,7,1,Attchd,NA,2007,277000,5
+p871,9950,Inside,Single Family,Gable,PConc,1203,GasA,Y,9,1,Attchd,NA,2007,290000,2
+p872,12030,Inside,Single Family,Hip,PConc,1694,GasA,Y,7,0,Attchd,NA,2007,318000,10
+p873,3880,Inside,Single Family,Gable,CBlock,686,GasA,Y,4,0,NA,NA,2007,110500,1
+p874,11317,Inside,Single Family,Gable,PConc,840,GasA,Y,8,0,Attchd,NA,2007,180000,6
+p875,159000,CulDSac,Single Family,Gable,CBlock,1444,GasA,Y,7,2,Attchd,NA,2007,277000,6
+p876,4750,Inside,Townhouse,Hip,PConc,1573,GasA,Y,5,1,Attchd,NA,2007,235000,7
+p877,9350,Inside,Single Family,Hip,CBlock,1302,GasA,Y,7,0,Attchd,MnPrv,2007,158000,3
+p878,9588,Inside,Single Family,Gable,PConc,1482,GasA,Y,10,1,BuiltIn,NA,2007,276000,1
+p879,7917,Corner,Single Family,Hip,CBlock,1143,GasA,Y,6,1,Attchd,GdPrv,2007,148000,2
+p880,8314,Corner,Single Family,Gable,CBlock,816,GasA,Y,5,0,Attchd,NA,2007,124500,3
+p881,14450,Inside,Single Family,Gable,PConc,2121,GasA,Y,8,1,Attchd,NA,2007,415298,7
+p882,11287,Inside,Single Family,Gable,CBlock,807,GasA,Y,7,1,Attchd,NA,2007,228500,8
+p883,8012,Inside,Townhouse,Gable,PConc,1575,GasA,Y,5,0,Attchd,NA,2007,179200,9
+p884,4251,Inside,Townhouse,Gable,PConc,625,GasA,Y,5,0,Detchd,NA,2007,164700,9
+p885,8730,Inside,Single Family,Gable,BrkTil,698,GasA,Y,7,0,Detchd,NA,2007,153575,3
+p886,13710,Inside,Single Family,Gable,CBlock,910,GasA,Y,6,0,Attchd,MnPrv,2007,152000,8
+p887,7399,Inside,Single Family,Hip,PConc,975,GasA,Y,7,1,Detchd,NA,2007,239000,2
+p888,11700,Inside,Single Family,Mansard,CBlock,702,GasA,Y,7,1,Attchd,NA,2007,175000,3
+p889,16226,Inside,Single Family,Gable,PConc,1028,GasA,Y,9,1,BuiltIn,NA,2007,267000,5
+p890,10386,Inside,Single Family,Gable,PConc,2000,GasA,Y,8,0,Attchd,NA,2007,305900,4
+p891,13474,Inside,Single Family,Gable,CBlock,700,GasA,Y,8,1,Attchd,NA,2007,225000,3
+p892,9000,Inside,Single Family,Gable,PConc,1088,GasA,Y,8,1,Attchd,NA,2007,270000,9
+p893,12099,Inside,Single Family,Gable,PConc,1136,GasA,Y,10,1,BuiltIn,NA,2007,354000,2
+p894,10380,Inside,Single Family,Gable,CBlock,1502,GasA,Y,8,1,Attchd,MnPrv,2007,301000,1
+p895,5000,Inside,Single Family,Gable,CBlock,720,GasA,N,5,0,Detchd,NA,2007,87000,1
+p896,10624,Inside,Duplex,Gable,CBlock,1728,GasA,Y,10,0,Detchd,NA,2007,119000,9
+p897,8176,Inside,Single Family,Gable,CBlock,1056,GasA,Y,6,0,Attchd,NA,2007,139000,6
+p898,14157,Corner,Single Family,Hip,PConc,1922,GasA,Y,8,1,Attchd,NA,2007,377426,5
+p899,12772,CulDSac,Single Family,Hip,CBlock,958,GasA,Y,5,0,Attchd,NA,2007,151500,1
+p900,7820,Inside,Townhouse,Hip,PConc,1869,GasA,Y,6,1,Attchd,NA,2007,318061,1
+p901,11249,Inside,Single Family,Gable,PConc,1200,GasA,Y,6,0,Attchd,NA,2007,177500,7
+p902,4224,Inside,Townhouse,Gable,PConc,1142,GasA,Y,6,1,Attchd,MnPrv,2007,134000,2
+p903,7540,CulDSac,Single Family,Gable,CBlock,888,GasA,Y,5,1,Attchd,MnPrv,2007,156000,1
+p904,8200,Inside,Single Family,Gable,PConc,847,GasA,Y,8,1,BuiltIn,NA,2007,219500,10
+p905,11143,Corner,Single Family,Gable,PConc,1580,GasA,Y,8,1,Attchd,NA,2007,340000,4
+p906,9245,Inside,Single Family,Gable,PConc,939,GasA,Y,8,0,Attchd,NA,2007,213500,9
+p907,53107,Corner,Single Family,Gable,PConc,1580,GasA,Y,9,2,Attchd,NA,2007,240000,2
+p908,8339,Inside,Single Family,Gable,Slab,0,GasA,Y,5,0,Attchd,MnPrv,2007,106500,9
+p909,10134,Inside,Single Family,Gable,CBlock,735,GasA,Y,5,0,Detchd,NA,2007,109000,4
+p910,7590,Inside,Single Family,Gable,CBlock,864,GasA,Y,8,1,Attchd,NA,2007,169500,1
+p911,8967,Corner,Single Family,Gable,BrkTil,961,GasA,Y,6,0,Detchd,NA,2007,67000,3
+p912,10364,Inside,Single Family,Gable,PConc,806,GasA,Y,7,1,BuiltIn,NA,2007,168000,6
+p913,14154,Corner,Single Family,Gable,PConc,1063,GasA,Y,9,1,Attchd,NA,2007,280000,5
+p914,8899,Inside,Single Family,Gable,PConc,1340,GasA,Y,6,0,Attchd,NA,2007,181134,10
+p915,22420,Inside,Single Family,Hip,BrkTil,1370,GasW,N,10,1,Detchd,NA,2007,239000,6
+p916,8160,Inside,Single Family,Gable,BrkTil,756,GasA,N,7,0,Detchd,NA,2007,126000,5
+p917,6762,Inside,Single Family,Gable,PConc,1208,GasA,Y,6,0,Attchd,NA,2007,195400,10
+p918,1920,Inside,Townhouse,Gable,CBlock,765,GasA,Y,6,0,Detchd,NA,2007,122500,6
+p919,4280,Inside,Single Family,Gable,PConc,440,GasA,N,4,1,Detchd,MnPrv,2007,90350,8
+p920,3922,Inside,Townhouse,Gable,PConc,1258,GasA,Y,6,1,Attchd,NA,2007,172500,7
+p921,6000,Inside,Single Family,Gable,CBlock,649,GasA,Y,6,0,Detchd,NA,2007,120000,2
+p922,9303,Corner,Single Family,Hip,PConc,872,GasA,Y,7,0,Attchd,NA,2007,204000,6
+p923,9600,Inside,Single Family,Hip,CBlock,1242,GasA,Y,6,1,Attchd,NA,2007,175500,1
+p924,10628,Inside,Single Family,Flat,CBlock,1277,GasA,Y,5,1,Attchd,GdWo,2007,167000,2
+p925,9480,Inside,Single Family,Gable,CBlock,728,GasA,Y,7,2,Attchd,NA,2007,146500,3
+p926,11428,Inside,Single Family,Gable,PConc,1626,GasA,Y,7,1,Attchd,NA,2007,250000,1
+p927,11952,Inside,Single Family,Mansard,CBlock,808,GasA,Y,8,1,Attchd,NA,2007,190000,7
+p928,14977,Inside,Single Family,Gable,PConc,1976,GasA,Y,7,1,Attchd,NA,2007,440000,10
+p929,5330,Inside,Townhouse,Gable,PConc,1494,GasA,Y,6,0,Attchd,NA,2007,251000,1
+p930,8480,Corner,Single Family,Hip,CBlock,970,GasA,Y,5,0,Detchd,NA,2007,132500,5
+p931,13693,Inside,Single Family,Hip,PConc,2153,GasA,Y,9,1,BuiltIn,NA,2007,380000,8
+p932,5925,Inside,Single Family,Hip,BrkTil,907,GasA,Y,7,0,Detchd,MnPrv,2007,89471,5
+p933,7758,Corner,Single Family,Gable,CBlock,999,GasA,Y,6,0,Detchd,NA,2007,132500,4
+p934,10289,Inside,Single Family,Hip,CBlock,1073,GasA,Y,6,0,Attchd,NA,2007,156000,9
+p935,12243,Inside,Single Family,Gable,CBlock,1484,GasA,Y,7,1,Attchd,NA,2007,175000,9
+p936,12692,Inside,Single Family,Hip,PConc,3200,GasA,Y,10,1,Attchd,NA,2007,430000,7
+p937,7535,Inside,Single Family,Gable,CBlock,912,GasA,Y,5,0,Attchd,MnWw,2007,120000,10
+p938,1890,Inside,Townhouse,Gable,CBlock,672,GasA,Y,7,0,Detchd,NA,2007,113000,4
+p939,9170,Corner,Single Family,Hip,CBlock,1214,GasA,Y,6,0,Detchd,GdPrv,2007,140000,5
+p940,9187,Corner,Single Family,Gable,PConc,1084,GasA,Y,5,0,Attchd,NA,2007,134000,2
+p941,10594,Inside,Single Family,Gable,BrkTil,768,Grav,N,5,0,Detchd,MnPrv,2007,96500,7
+p942,9531,CulDSac,Single Family,Gable,PConc,794,GasA,Y,7,0,Attchd,MnPrv,2007,211000,2
+p943,11988,Corner,Single Family,Gable,CBlock,1244,GasA,Y,6,2,Attchd,NA,2007,150000,10
+p944,40094,Inside,Single Family,Hip,PConc,3138,GasA,Y,11,1,BuiltIn,NA,2007,184750,2
+p945,11787,Inside,Single Family,Gable,PConc,1379,GasA,Y,8,1,Attchd,NA,2007,315750,3
+p946,13300,Inside,Single Family,Hip,CBlock,928,GasA,Y,4,0,Attchd,NA,2007,132000,6
+p947,9098,Inside,Single Family,Gable,BrkTil,528,GasA,Y,5,0,NA,NA,2007,86000,9
+p948,32668,CulDSac,Single Family,Hip,PConc,2035,GasA,Y,9,2,Attchd,NA,2007,200624,4
+p949,5000,Inside,Single Family,Gable,Slab,0,GasA,N,2,0,NA,NA,2007,39300,1
+p950,11000,FR2,Single Family,Gable,PConc,969,GasA,Y,8,1,BuiltIn,NA,2007,248000,4
+p951,4058,Inside,Townhouse,Gable,PConc,723,GasA,Y,4,0,Attchd,NA,2007,133000,8
+p952,8737,Inside,Single Family,Gable,BrkTil,1065,GasA,Y,6,1,Detchd,NA,2007,210000,6
+p953,7244,Inside,Single Family,Gable,CBlock,768,GasA,Y,5,0,Detchd,NA,2007,129500,8
+p954,9967,Inside,Single Family,Gable,PConc,384,GasA,Y,8,1,BuiltIn,NA,2007,170000,1
+p955,10500,FR2,Single Family,Gambrel,CBlock,372,GasA,Y,5,0,BuiltIn,GdWo,2007,139000,8
+p956,14585,CulDSac,Single Family,Gable,CBlock,1144,GasA,Y,7,2,Attchd,NA,2007,181900,8
+p957,11841,Inside,Duplex,Gable,CBlock,816,GasA,Y,5,0,NA,NA,2007,118500,4
+p958,3922,Inside,Townhouse,Gable,PConc,1258,GasA,Y,7,1,Attchd,NA,2007,194201,5
+p959,9000,Inside,Single Family,Gable,PConc,780,GasA,Y,6,1,Detchd,NA,2007,141000,2
+p960,12168,Inside,Single Family,Gable,PConc,965,GasA,Y,10,2,Basment,NA,2007,359100,6
+p961,7943,Inside,Single Family,Gable,CBlock,1029,GasA,Y,5,0,Attchd,NA,2007,118500,9
+p962,10395,FR2,Single Family,Gable,CBlock,1032,GasA,Y,6,1,Attchd,MnPrv,2007,148000,10
+p963,8402,Inside,Single Family,Gable,PConc,1120,GasA,Y,6,0,NA,NA,2007,147000,6
+p964,11694,Inside,Single Family,Hip,PConc,1822,GasA,Y,9,1,Attchd,NA,2007,314813,8
+p965,2117,Inside,Townhouse,Gable,PConc,756,GasA,Y,4,1,Detchd,NA,2007,168500,6
+p966,12342,Inside,Single Family,Hip,CBlock,978,GasA,Y,6,1,Attchd,GdWo,2007,139900,3
+p967,11606,Inside,Single Family,Gable,PConc,1040,GasA,Y,9,2,Attchd,NA,2007,135000,5
+p968,4590,Inside,Townhouse,Gable,PConc,1554,GasA,Y,6,1,Attchd,NA,2007,209500,9
+p969,9250,Corner,Single Family,Gable,CBlock,1056,GasA,Y,6,0,Attchd,NA,2007,139400,9
+p970,10896,Inside,Condo,Hip,CBlock,1440,GasA,Y,14,0,NA,NA,2007,200000,7
+p971,7050,Inside,Single Family,Gable,PConc,1057,GasA,Y,7,1,Attchd,NA,2007,226000,8
+p972,10793,Inside,Single Family,Mansard,CBlock,780,GasA,Y,7,0,Attchd,GdWo,2007,152000,1
+p973,10530,Corner,Single Family,Hip,CBlock,981,GasA,Y,5,0,Detchd,NA,2007,143250,9
+p974,1936,Inside,Townhouse,Gable,CBlock,630,GasA,Y,3,0,NA,MnPrv,2007,84500,6
+p975,12384,CulDSac,Single Family,Gable,CBlock,793,GasA,Y,7,1,Attchd,NA,2007,197900,9
+p976,18450,Inside,Single Family,Flat,CBlock,1021,GasA,Y,7,1,CarPort,NA,2007,129000,4
+p977,14442,Inside,Single Family,Hip,PConc,1477,GasA,Y,7,2,Attchd,NA,2007,257500,7
+p978,9945,Inside,Single Family,Hip,CBlock,988,GasA,Y,5,0,Detchd,NA,2007,128500,8
+p979,11248,Corner,Single Family,Hip,PConc,1626,GasA,Y,7,1,Attchd,NA,2007,285000,2
+p980,5062,CulDSac,Townhouse,Gable,CBlock,1190,GasA,Y,6,1,Attchd,NA,2007,207500,6
+p981,10207,Inside,Single Family,Gable,PConc,874,GasA,Y,7,0,Attchd,NA,2007,227875,7
+p982,5105,FR2,Townhouse,Gable,PConc,551,GasA,Y,4,0,Detchd,NA,2007,148800,2
+p983,8089,Inside,Single Family,Gable,PConc,1419,GasA,Y,7,1,Attchd,NA,2007,392000,10
+p984,7577,Corner,Townhouse,Gable,PConc,1362,GasA,Y,6,1,Attchd,NA,2007,194700,1
+p985,21535,Corner,Single Family,Gable,PConc,2444,GasA,Y,10,2,Attchd,NA,2007,755000,4
+p986,115149,CulDSac,Single Family,Gable,CBlock,1643,GasA,Y,5,2,Attchd,NA,2007,302000,5
+p987,9018,Inside,Single Family,Hip,PConc,728,GasA,Y,8,1,Attchd,NA,2007,179540,10
+p988,10800,Inside,Single Family,Gable,BrkTil,718,GasA,Y,8,0,Detchd,NA,2007,159500,6
+p989,9590,Corner,Single Family,Gable,PConc,868,GasA,Y,6,1,Attchd,NA,2007,187500,1
+p990,8978,Corner,Single Family,Gable,PConc,948,GasA,Y,6,0,Attchd,NA,2007,108000,4
+p991,9600,Inside,Single Family,Gable,BrkTil,264,GasA,Y,7,0,Detchd,GdPrv,2007,132000,8
+p992,8450,Inside,Single Family,Gable,PConc,1349,GasA,Y,6,0,Attchd,GdPrv,2007,179000,5
+p993,7750,Inside,Single Family,Gable,PConc,660,GasA,Y,6,0,Attchd,NA,2007,162000,1
+p994,12257,Inside,Single Family,Gable,PConc,1318,GasA,Y,9,1,Attchd,NA,2007,290000,6
+p995,10150,Inside,Single Family,Gable,CBlock,912,GasA,Y,5,0,Attchd,NA,2007,114500,8
+p996,14226,Corner,Single Family,Hip,PConc,1935,GasA,Y,9,1,Attchd,NA,2007,395000,5
+p997,8400,Inside,Duplex,Gable,Slab,0,GasA,Y,10,2,Detchd,NA,2007,144000,2
+p998,7875,Inside,Single Family,Gable,PConc,1237,GasA,Y,6,1,Attchd,NA,2007,176000,2
+p999,12205,Inside,Single Family,Gable,CBlock,832,GasA,Y,9,0,Attchd,NA,2007,187500,9
+p1000,11333,Corner,Single Family,Gable,PConc,1029,GasA,Y,5,2,Attchd,NA,2007,146800,8
+p1001,9920,CulDSac,Single Family,Gable,PConc,1117,GasA,Y,8,1,Attchd,NA,2007,269790,5
+p1002,9158,Inside,Single Family,Gable,PConc,1496,GasA,Y,7,0,Attchd,NA,2007,225000,10
+p1003,8197,Inside,Single Family,Gable,CBlock,660,GasA,Y,7,1,Attchd,MnPrv,2007,143500,5
+p1004,7200,Corner,Single Family,Gable,BrkTil,731,GasA,Y,7,2,Detchd,MnPrv,2007,175000,6
+p1005,4800,Inside,Single Family,Gable,CBlock,1196,GasA,Y,5,0,Detchd,NA,2007,109900,3
+p1006,9750,Inside,Single Family,Gable,CBlock,1442,GasA,Y,7,0,Attchd,NA,2007,157900,7
+p1007,12394,Corner,Single Family,Gable,PConc,847,GasA,Y,7,1,BuiltIn,NA,2007,225000,2
+p1008,8100,Inside,Single Family,Gable,BrkTil,1559,GasA,Y,5,0,Detchd,GdWo,2007,153500,6
+p1009,8000,Corner,Duplex,Gable,CBlock,1800,GasA,N,10,0,NA,NA,2007,141000,3
+p1010,16647,CulDSac,Single Family,Gable,CBlock,1390,GasA,Y,6,2,Basment,NA,2007,171000,2
+p1011,9600,FR2,Single Family,Hip,CBlock,528,GasA,Y,7,1,Attchd,NA,2007,187000,1
+p1012,4435,Inside,Townhouse,Gable,PConc,848,GasA,Y,3,0,Attchd,NA,2007,131500,8
+p1013,7128,Inside,Single Family,Gable,CBlock,918,GasA,Y,7,2,Detchd,MnPrv,2007,164000,4
+p1014,7642,Corner,Single Family,Gable,BrkTil,912,GasA,Y,7,1,Detchd,GdPrv,2007,189950,9
+p1015,10656,Inside,Single Family,Gable,PConc,1638,GasA,Y,6,1,Attchd,NA,2007,248900,2
+p1016,6970,Corner,Single Family,Gable,CBlock,1040,GasA,Y,5,0,Attchd,NA,2007,129000,4
+p1017,9000,Inside,Single Family,Gable,PConc,1184,GasA,Y,11,1,BuiltIn,NA,2007,303477,8
+p1018,25286,Inside,Single Family,Gable,PConc,1064,GasA,Y,5,0,Attchd,NA,2007,132250,3
+p1019,7024,Inside,Single Family,Gable,PConc,1090,GasA,Y,5,0,Attchd,NA,2007,157000,10
+p1020,13758,CulDSac,Single Family,Gable,CBlock,1156,GasA,Y,7,1,Attchd,NA,2007,187500,6
+p1021,15865,Inside,Single Family,Flat,PConc,2217,GasA,Y,8,1,Attchd,NA,2007,268000,7
+p1022,8064,Corner,Single Family,Gable,CBlock,672,GasA,Y,6,1,Detchd,MnPrv,2007,122900,1
+p1023,7340,Inside,Single Family,Gable,CBlock,858,GasA,Y,4,0,Detchd,NA,2007,110000,6
+p1024,6173,Inside,Single Family,Gable,CBlock,876,GasA,Y,6,0,Attchd,MnPrv,2007,125500,3
+p1025,13501,Corner,Single Family,Gable,PConc,1623,GasA,Y,8,1,Attchd,NA,2007,255000,8
+p1026,6270,Inside,Duplex,Gable,CBlock,1001,GasA,N,8,0,2Types,NA,2007,145000,10
+p1027,2001,Inside,Townhouse,Gable,CBlock,546,GasA,Y,6,0,Attchd,NA,2007,75000,8
+p1028,13125,Corner,Single Family,Gable,PConc,1104,GasA,Y,8,1,Attchd,GdPrv,2007,238000,5
+p1029,8462,Inside,Single Family,Gable,PConc,928,GasA,Y,7,0,Attchd,NA,2007,201000,6
+p1030,11999,Inside,Single Family,Hip,PConc,1181,GasA,Y,10,1,BuiltIn,NA,2007,285000,2
+p1031,11670,Corner,Single Family,Hip,PConc,1905,GasA,Y,8,1,Attchd,NA,2007,320000,3
+p1032,7711,Inside,Duplex,Gable,PConc,1440,GasA,Y,8,0,NA,NA,2007,150000,7
+p1033,25000,Inside,Duplex,Gable,CBlock,1632,GasA,Y,8,0,Attchd,NA,2007,143000,4
+p1034,14536,Inside,Single Family,Hip,PConc,1616,GasA,Y,9,1,Attchd,NA,2007,270000,10
+p1035,7200,Inside,Single Family,Gable,CBlock,864,GasA,Y,5,0,Detchd,NA,2007,129000,10
+p1036,7136,Inside,Duplex,Gable,CBlock,979,GasA,N,8,0,Attchd,NA,2007,145000,8
+p1037,7420,Inside,Single Family,Hip,CBlock,1057,GasA,Y,6,0,Detchd,NA,2007,132000,2
+p1038,8450,Inside,Single Family,Gable,PConc,1337,GasA,Y,6,0,Attchd,NA,2007,185000,7
+p1039,2308,Corner,Townhouse,Gable,CBlock,804,GasA,Y,7,1,Detchd,NA,2007,155000,7
+p1040,10237,Inside,Single Family,Gable,PConc,783,GasA,Y,8,1,Attchd,NA,2007,178900,7
+p1041,4274,Inside,Townhouse,Gable,PConc,1241,GasA,Y,4,0,Attchd,NA,2007,199900,9
+p1042,9450,Inside,Single Family,Gable,CBlock,894,GasA,Y,5,0,Detchd,NA,2007,110000,8
+p1043,12046,Inside,Single Family,Gable,CBlock,848,GasA,Y,8,1,Attchd,NA,2007,195000,8
+p1044,9760,Inside,Single Family,Hip,CBlock,822,GasA,Y,7,1,Attchd,MnWw,2007,187000,10
+p1045,5400,Corner,Single Family,Gable,BrkTil,691,GasA,Y,4,0,Detchd,NA,2007,86000,8
+p1046,11500,Corner,Duplex,Gable,CBlock,1680,GasA,Y,8,0,Detchd,NA,2007,136905,10
+p1047,12155,Inside,Single Family,Gable,CBlock,1657,GasA,Y,7,1,Attchd,NA,2007,163500,10
+p1048,10592,Inside,Single Family,Hip,PConc,602,GasA,Y,7,2,Detchd,NA,2007,165000,8
+p1049,11664,Inside,Single Family,Gable,CBlock,1082,GasA,Y,5,1,Detchd,NA,2007,119200,9
+p1050,10784,FR2,Single Family,Gable,PConc,384,GasA,Y,7,1,Attchd,NA,2007,160000,2
+p1051,9439,Inside,Single Family,Gable,CBlock,912,GasA,Y,6,0,Detchd,NA,2007,87000,10
+p1052,7700,Corner,Single Family,Gable,CBlock,882,GasA,Y,5,0,Detchd,MnPrv,2007,112500,2
+p1053,9492,Inside,Single Family,Gable,CBlock,768,GasA,Y,6,1,Attchd,NA,2007,105000,10
+p1054,6305,Inside,Single Family,Gable,PConc,920,GasA,Y,5,1,Basment,MnPrv,2007,119750,4
+p1055,8993,Inside,Single Family,Gable,PConc,1302,GasA,Y,6,0,Attchd,NA,2007,176485,9
+p1056,11175,Corner,Single Family,Gable,PConc,1316,GasA,Y,6,1,Attchd,NA,2007,200141,1
+p1057,9500,Corner,Single Family,Gable,CBlock,816,GasA,Y,9,1,Attchd,GdPrv,2007,165000,4
+p1058,11275,Corner,Single Family,Gable,CBlock,854,GasA,Y,7,1,Detchd,NA,2007,220000,10
+p1059,13600,Inside,Condo,Gable,BrkTil,662,GasA,N,10,0,Detchd,NA,2007,90000,4
+p1060,9600,Inside,Single Family,Gable,CBlock,845,GasA,Y,4,0,Detchd,NA,2007,135000,10
+p1061,10152,Inside,Single Family,Hip,CBlock,1048,GasA,Y,6,0,Attchd,NA,2007,135000,8
+p1062,8556,Inside,Single Family,Gable,PConc,1240,GasA,Y,5,0,Attchd,NA,2007,194000,2
+p1063,13125,Inside,Single Family,Gable,CBlock,800,GasA,Y,6,2,Attchd,NA,2007,219500,8
+p1064,8775,Inside,Single Family,Gable,PConc,990,GasA,Y,5,0,Attchd,NA,2007,126000,4
+p1065,8749,Inside,Single Family,Gable,PConc,1459,GasA,Y,6,1,Attchd,NA,2007,192000,9
+p1066,9317,Inside,Single Family,Gable,PConc,1314,GasA,Y,6,1,Attchd,NA,2007,176432,10
+p1067,6882,Inside,Single Family,Gable,PConc,684,GasA,Y,7,0,NA,NA,2007,127000,4
+p1068,3696,Inside,Townhouse,Gable,CBlock,1074,GasA,Y,5,0,Attchd,NA,2007,170000,10
+p1069,9758,Inside,Single Family,Gable,CBlock,950,GasA,Y,5,0,Detchd,NA,2007,119500,7
+p1070,7000,Inside,Single Family,Gable,CBlock,1010,GasA,Y,6,0,Attchd,MnWw,2007,135000,4
+p1071,2016,Inside,Townhouse,Gable,CBlock,630,GasA,Y,6,0,Detchd,NA,2007,106000,3
+p1072,10357,Corner,Single Family,Hip,PConc,910,GasA,Y,6,1,Attchd,NA,2007,179900,1
+p1073,8063,Inside,Single Family,Gable,PConc,924,GasA,Y,7,1,Attchd,NA,2007,181000,10
+p1074,8923,Inside,Single Family,Gable,CBlock,1008,GasA,Y,6,0,Attchd,NA,2007,134500,5
+p1075,12085,Inside,Single Family,Hip,PConc,1734,GasA,Y,7,1,Attchd,NA,2007,318000,10
+p1076,8263,Inside,Single Family,Gable,BrkTil,1012,GasA,Y,6,1,Detchd,MnPrv,2007,118400,3
+p1077,9125,Inside,Single Family,Gable,PConc,384,GasA,Y,7,1,Attchd,NA,2007,163900,7
+p1078,14572,Corner,Single Family,Hip,PConc,1530,GasA,Y,7,1,Attchd,NA,2007,259000,1
+p1079,11796,Inside,Single Family,Gable,PConc,847,GasA,Y,8,1,BuiltIn,NA,2007,215000,1
+p1080,7200,Inside,Duplex,Gable,CBlock,936,GasA,Y,4,0,Detchd,NA,2007,140000,4
+p1081,10712,Inside,Single Family,Gable,PConc,974,GasA,Y,5,0,NA,MnPrv,2007,93500,9
+p1082,9900,Inside,Single Family,Gable,BrkTil,1008,GasW,Y,8,0,Detchd,NA,2007,117500,10
+p1083,8773,Inside,Single Family,Gable,PConc,916,GasA,Y,7,1,Attchd,NA,2007,169000,2
+p1084,6180,Corner,Single Family,Gable,BrkTil,960,GasA,N,5,1,Detchd,NA,2007,102000,9
+p1085,8731,Inside,Single Family,Gable,BrkTil,915,GasA,Y,6,1,Detchd,NA,2007,144000,10
+p1086,9965,Inside,Single Family,Hip,PConc,1466,GasA,Y,11,1,BuiltIn,NA,2007,424870,4
+p1087,8280,Inside,Single Family,Gable,CBlock,932,GasA,Y,4,1,Attchd,GdPrv,2007,124000,1
+p1088,10768,Corner,Single Family,Gable,CBlock,1437,GasA,Y,6,1,Attchd,NA,2007,218000,7
+p1089,8724,Inside,Single Family,Gable,CBlock,894,GasA,Y,5,1,Attchd,NA,2007,129000,9
+p1090,16157,FR2,Single Family,Gable,PConc,1360,GasA,Y,5,1,Attchd,NA,2007,194000,8
+p1091,18030,Inside,Single Family,Gable,CBlock,1598,GasA,Y,12,1,NA,MnPrv,2007,200500,6
+p1092,10678,Inside,Single Family,Hip,PConc,1683,GasA,Y,9,1,Attchd,NA,2007,285000,1
+p1093,15623,Corner,Single Family,Hip,PConc,2396,GasA,Y,10,2,Attchd,MnPrv,2007,745000,7
+p1094,35133,Inside,Single Family,Hip,CBlock,1572,GasA,Y,5,2,2Types,NA,2007,186700,8
+p1095,32463,Inside,Condo,Gable,CBlock,1249,GasA,Y,7,1,2Types,NA,2007,168000,5
+p1096,2645,Inside,Townhouse,Gable,PConc,776,GasA,Y,5,0,Detchd,NA,2007,174000,8
+p1097,9600,Inside,Single Family,Gambrel,PConc,702,GasA,Y,6,0,Detchd,GdWo,2007,125000,1
+p1098,7094,Inside,Single Family,Gable,CBlock,894,GasA,Y,5,0,Detchd,MnPrv,2007,125000,4
+p1099,10496,Inside,Single Family,Gable,CBlock,1040,GasA,Y,7,1,Attchd,GdWo,2007,143000,6
+p1100,10482,Inside,Single Family,Hip,CBlock,588,GasA,Y,6,0,Attchd,MnWw,2007,145000,3
+p1101,18890,Inside,Duplex,Shed,CBlock,1361,GasA,Y,12,1,BuiltIn,NA,2007,190000,6
+p1102,9842,FR2,Duplex,Gable,Slab,0,GasA,Y,6,0,CarPort,NA,2007,101800,3
+p1103,9037,Inside,Single Family,Hip,PConc,1476,GasA,Y,6,1,Attchd,NA,2007,265900,5
+p1104,9849,Inside,Single Family,Hip,PConc,1689,GasA,Y,7,0,Attchd,NA,2007,248328,7
+p1105,12090,Inside,Single Family,Hip,CBlock,585,GasA,Y,7,1,BuiltIn,NA,2007,178000,2
+p1106,7200,Inside,Single Family,Gable,CBlock,876,GasA,Y,6,0,Attchd,NA,2007,119000,2
+p1107,17542,Inside,Single Family,Gable,CBlock,1192,GasA,Y,9,2,Attchd,MnPrv,2007,294000,1
+p1108,6240,Inside,Single Family,Gable,BrkTil,884,GasA,Y,6,1,Detchd,NA,2007,127500,4
+p1109,13515,Inside,Single Family,Gambrel,PConc,764,GasA,Y,8,1,Detchd,GdPrv,2007,180500,2
+p1110,10120,Inside,Condo,Hip,CBlock,925,GasA,N,9,1,Detchd,MnPrv,2007,122000,7
+p1111,11344,Inside,Single Family,Gable,CBlock,874,GasW,Y,7,0,Attchd,GdWo,2007,144000,9
+p1112,5362,Corner,Single Family,Gable,PConc,661,GasA,Y,8,1,Detchd,NA,2007,139000,2
+p1113,11345,Corner,Duplex,Gable,CBlock,928,GasA,Y,10,0,Detchd,NA,2007,137000,9
+p1114,8814,Inside,Single Family,Gable,PConc,1274,GasA,Y,6,0,Attchd,NA,2007,203000,9
+p1115,9572,Inside,Single Family,Gable,PConc,1453,GasA,Y,9,1,Attchd,NA,2007,302000,1
+p1116,8190,Inside,Single Family,Hip,CBlock,948,GasA,Y,5,1,Detchd,NA,2007,119000,7
+p1117,4230,Corner,Townhouse,Gable,PConc,1352,GasA,Y,5,1,Attchd,NA,2007,208900,1
+p1118,10215,Inside,Single Family,Hip,PConc,864,GasA,Y,5,0,Attchd,NA,2007,111000,4
+p1119,9986,Inside,Single Family,Gable,PConc,1795,GasA,Y,7,1,Attchd,NA,2007,147000,3
+p1120,4270,Inside,Single Family,Gable,BrkTil,544,GasA,Y,6,0,NA,NA,2007,79000,5
+p1121,10000,Inside,Single Family,Hip,PConc,1588,GasA,Y,7,1,Attchd,NA,2007,227000,5
+p1122,8294,Inside,Single Family,Gable,CBlock,858,GasA,Y,5,0,Detchd,GdWo,2007,123000,2
+p1123,9375,Inside,Single Family,Gable,PConc,1284,GasA,Y,7,1,Attchd,NA,2007,228500,3
+p1124,11103,Corner,Single Family,Gable,PConc,728,GasA,Y,8,1,Attchd,NA,2007,155835,7
+p1125,6000,Inside,Single Family,Hip,PConc,960,GasA,Y,5,0,Detchd,NA,2007,108500,9
+p1126,15306,Corner,Single Family,Gable,PConc,1732,GasA,Y,7,1,Attchd,NA,2007,283463,9
+p1127,16196,Inside,Single Family,Gable,PConc,1482,GasA,Y,5,1,Attchd,NA,2007,215000,7
+p1128,8499,Inside,Single Family,Gable,PConc,616,GasA,Y,6,1,BuiltIn,NA,2007,156932,3
+p1129,11400,Inside,Single Family,Hip,PConc,2633,GasA,Y,8,2,Attchd,NA,2007,466500,3
+p1130,10991,Inside,Single Family,Gable,PConc,1571,GasA,Y,7,1,Attchd,NA,2007,239000,3
+p1131,25339,Inside,Single Family,Gable,BrkTil,816,GasA,Y,7,0,Attchd,NA,2007,112000,1
+p1132,8520,Inside,Single Family,Gable,BrkTil,714,GasW,N,10,1,Detchd,GdWo,2007,136000,7
+p1133,6000,Inside,Single Family,Gable,BrkTil,735,GasA,Y,6,1,Detchd,NA,2007,131000,3
+p1134,12665,Inside,Single Family,Hip,PConc,1094,GasA,Y,9,1,BuiltIn,NA,2007,281213,10
+p1135,6120,Inside,Single Family,Gable,BrkTil,939,GasA,Y,8,0,Detchd,NA,2007,137500,3
+p1136,15256,CulDSac,Single Family,Gable,PConc,1485,GasA,Y,6,0,Attchd,NA,2007,282922,7
+p1137,9503,Inside,Single Family,Hip,CBlock,1024,GasA,Y,6,1,Detchd,GdWo,2007,144000,4
+p1138,12546,Corner,Single Family,Gable,CBlock,1440,GasA,Y,7,1,Attchd,NA,2007,182900,10
+p1139,10800,Inside,Single Family,Gable,BrkTil,656,GasA,Y,5,0,Detchd,NA,2007,64500,10
+p1140,9000,FR2,Single Family,Gable,PConc,864,GasA,Y,5,0,Detchd,GdWo,2007,120500,5
+p1141,11584,Inside,Single Family,Hip,CBlock,539,GasA,Y,6,1,Attchd,NA,2007,197000,5
+p1142,8500,FR2,Single Family,Gable,PConc,1422,GasA,Y,7,0,Attchd,NA,2007,179600,1
+p1143,8400,Inside,Single Family,Gable,CBlock,814,GasA,Y,6,0,Detchd,NA,2007,129000,4
+p1144,10000,Inside,Single Family,Gable,PConc,1220,GasA,Y,8,1,Attchd,NA,2007,240000,3
+p1145,11767,Inside,Single Family,Gable,CBlock,560,GasA,N,6,0,Detchd,GdWo,2007,112000,4
+p1146,7917,Inside,Single Family,Gable,PConc,953,GasA,Y,7,1,Attchd,NA,2007,175000,5
+p1147,9550,Corner,Single Family,Gable,BrkTil,756,GasA,Y,7,1,Detchd,NA,2006,140000,2
+p1148,11924,Inside,Single Family,Hip,PConc,1175,GasA,Y,11,2,BuiltIn,NA,2006,345000,9
+p1149,10791,Inside,Duplex,Gable,Slab,0,GasA,Y,6,0,CarPort,NA,2006,90000,9
+p1150,14215,Corner,Single Family,Gable,PConc,1158,GasA,Y,9,1,BuiltIn,NA,2006,325300,4
+p1151,16321,CulDSac,Single Family,Gable,CBlock,1484,GasA,Y,6,2,Attchd,NA,2006,207500,9
+p1152,13418,Inside,Single Family,Gable,PConc,1117,GasA,Y,9,1,BuiltIn,NA,2006,309000,1
+p1153,8658,Inside,Single Family,Gable,CBlock,1088,GasA,Y,6,1,Attchd,GdWo,2006,160000,2
+p1154,7945,Inside,Single Family,Gable,CBlock,1150,GasA,Y,6,0,Attchd,NA,2006,141000,1
+p1155,6240,Inside,Single Family,Gable,PConc,816,GasA,Y,6,1,Detchd,MnPrv,2006,114500,8
+p1156,50271,Inside,Single Family,Gable,CBlock,1842,GasA,Y,5,1,Attchd,NA,2006,385000,1
+p1157,11645,Corner,Single Family,Gable,PConc,860,GasA,Y,7,0,Attchd,NA,2006,196500,9
+p1158,13682,CulDSac,Single Family,Hip,PConc,1410,GasA,Y,10,1,BuiltIn,NA,2006,438780,2
+p1159,13072,Inside,Single Family,Gable,PConc,1158,GasA,Y,5,0,Detchd,NA,2006,158000,2
+p1160,15593,Corner,Single Family,Gable,CBlock,1304,GasW,Y,7,1,Attchd,NA,2006,225000,9
+p1161,4500,FR2,Townhouse,Hip,PConc,1237,GasA,Y,5,0,Attchd,NA,2006,153500,9
+p1162,16059,Corner,Single Family,Hip,CBlock,1288,GasA,Y,9,1,Attchd,NA,2006,260000,2
+p1163,7200,Inside,Single Family,Gable,Slab,0,GasA,Y,4,0,Detchd,NA,2006,109900,4
+p1164,8500,Inside,Single Family,Hip,CBlock,1235,GasA,Y,6,0,Attchd,GdWo,2006,98600,2
+p1165,10264,Inside,Single Family,Gable,PConc,1588,GasA,Y,6,0,Attchd,NA,2006,214000,4
+p1166,9525,Inside,Single Family,Gable,CBlock,994,GasA,Y,7,0,Attchd,NA,2006,136900,7
+p1167,8461,Inside,Single Family,Gable,PConc,728,GasA,Y,8,1,Attchd,NA,2006,163990,8
+p1168,21453,CulDSac,Single Family,Flat,CBlock,938,GasA,Y,4,2,Attchd,NA,2006,180000,1
+p1169,6780,Inside,Condo,Gable,CBlock,520,GasA,N,5,0,NA,NA,2006,84500,3
+p1170,7590,Inside,Single Family,Gable,CBlock,660,GasA,Y,6,1,Attchd,NA,2006,155000,6
+p1171,8973,Inside,Single Family,Gable,CBlock,1008,GasA,Y,6,0,2Types,MnWw,2006,150000,10
+p1172,14200,Corner,Single Family,Gable,CBlock,924,GasA,Y,8,2,Attchd,GdPrv,2006,226000,2
+p1173,10335,Inside,Single Family,Gable,CBlock,1461,GasA,Y,7,1,Attchd,MnPrv,2006,180000,5
+p1174,11070,Inside,Duplex,Gable,CBlock,1907,GasA,Y,9,0,2Types,NA,2006,171000,5
+p1175,11645,Inside,Single Family,Gable,PConc,1734,GasA,Y,7,0,Attchd,NA,2006,260000,4
+p1176,9100,Inside,Duplex,Gable,CBlock,1728,GasA,Y,10,0,Detchd,NA,2006,125000,2
+p1177,2522,Inside,Townhouse,Gable,PConc,970,GasA,Y,7,0,Detchd,NA,2006,130000,9
+p1178,6240,Inside,Single Family,Gable,BrkTil,896,GasA,Y,7,0,Detchd,NA,2006,115000,8
+p1179,14803,CulDSac,Single Family,Gable,CBlock,825,GasA,Y,8,1,Attchd,GdWo,2006,190000,9
+p1180,11340,Corner,Single Family,Gable,BrkTil,1200,GasA,Y,7,0,Detchd,NA,2006,125000,3
+p1181,7200,Inside,Single Family,Hip,CBlock,0,GasA,Y,5,0,Detchd,NA,2006,109500,4
+p1182,19378,Corner,Single Family,Gable,PConc,1392,GasA,Y,9,1,Attchd,NA,2006,320000,5
+p1183,16669,Corner,Single Family,Hip,CBlock,1686,GasA,Y,6,1,Attchd,NA,2006,228000,7
+p1184,5306,Inside,Townhouse,Gable,PConc,1064,GasA,Y,5,1,Attchd,NA,2006,239000,5
+p1185,13650,Inside,Single Family,Gable,CBlock,1052,GasA,Y,8,1,Attchd,NA,2006,172500,5
+p1186,7588,Inside,Single Family,Gable,BrkTil,793,GasA,Y,9,1,Detchd,NA,2006,200100,6
+p1187,7438,Inside,Single Family,Gable,PConc,504,GasA,Y,5,0,Attchd,MnPrv,2006,127000,6
+p1188,22950,Inside,Single Family,Gable,BrkTil,1107,GasA,Y,12,2,Detchd,GdPrv,2006,475000,2
+p1189,2522,Inside,Townhouse,Gable,PConc,970,GasA,Y,7,0,Detchd,NA,2006,130000,4
+p1190,25419,Corner,Single Family,Gable,PConc,1360,GasA,Y,8,1,Detchd,GdPrv,2006,235000,8
+p1191,7000,Corner,Single Family,Gable,BrkTil,617,GasA,Y,6,0,Attchd,NA,2006,112000,9
+p1192,13568,CulDSac,Single Family,Gable,PConc,990,GasA,Y,5,0,Attchd,NA,2006,156000,4
+p1193,10011,Inside,Single Family,Gable,CBlock,1070,GasA,Y,6,1,Attchd,MnPrv,2006,134450,6
+p1194,9906,Inside,Single Family,Gable,CBlock,686,GasA,N,8,0,Detchd,NA,2006,107000,10
+p1195,3010,Inside,Townhouse,Gable,PConc,1248,GasA,Y,5,0,Attchd,NA,2006,167240,2
+p1196,8990,Inside,Single Family,Gable,PConc,1498,GasA,Y,5,0,Attchd,NA,2006,204900,10
+p1197,11475,Inside,Single Family,Gable,CBlock,713,GasA,Y,6,1,Attchd,MnPrv,2006,179900,6
+p1198,1680,Inside,Townhouse,Gable,CBlock,483,GasA,Y,5,1,Attchd,NA,2006,94500,6
+p1199,5000,Corner,Single Family,Gable,BrkTil,540,GasA,N,6,0,Attchd,NA,2006,79000,8
+p1200,10400,Inside,Single Family,Gable,CBlock,1845,GasA,Y,6,1,Attchd,NA,2006,241500,5
+p1201,9142,Inside,Condo,Gable,Stone,1020,GasA,N,9,0,Detchd,NA,2006,137000,5
+p1202,11310,Inside,Single Family,Hip,CBlock,1367,GasA,Y,5,1,Attchd,NA,2006,140000,5
+p1203,8738,Inside,Single Family,Gable,PConc,975,GasA,Y,8,1,BuiltIn,NA,2006,230000,7
+p1204,8471,Corner,Single Family,Gable,CBlock,506,GasA,Y,6,1,Attchd,GdWo,2006,151000,1
+p1205,11207,FR2,Single Family,Gable,PConc,802,GasA,Y,8,1,Attchd,NA,2006,185000,7
+p1206,10728,Inside,Single Family,Gable,PConc,1095,GasA,Y,8,1,Attchd,NA,2006,266000,7
+p1207,7200,Inside,Single Family,Gable,PConc,1262,GasA,Y,5,0,Attchd,NA,2006,185000,4
+p1208,9786,Inside,Single Family,Gable,CBlock,912,GasA,Y,7,1,Attchd,GdPrv,2006,159000,6
+p1209,8125,Corner,Single Family,Gable,CBlock,858,GasA,Y,5,0,NA,NA,2006,88000,2
+p1210,15611,Inside,Single Family,Gable,PConc,1079,GasA,Y,8,1,Attchd,NA,2006,233230,4
+p1211,16659,Corner,Single Family,Gable,CBlock,795,GasA,Y,9,1,Attchd,NA,2006,235000,8
+p1212,7937,CulDSac,Single Family,Gable,CBlock,1003,GasA,Y,6,0,Detchd,GdPrv,2006,142500,6
+p1213,15750,Corner,Condo,Hip,CBlock,1165,GasA,Y,5,2,Attchd,NA,2006,157000,1
+p1214,13704,Corner,Single Family,Gable,PConc,1541,GasA,Y,6,1,Attchd,NA,2006,205000,4
+p1215,9800,Corner,Single Family,Gable,PConc,894,GasA,Y,5,0,Attchd,GdWo,2006,149900,7
+p1216,12378,Inside,Single Family,Gable,PConc,1896,GasA,Y,8,3,Attchd,NA,2006,360000,4
+p1217,7685,Inside,Single Family,Gable,PConc,697,GasA,Y,6,1,Attchd,NA,2006,165600,8
+p1218,7800,Inside,Condo,Gable,CBlock,793,GasA,Y,5,1,Detchd,MnPrv,2006,119900,10
+p1219,9600,Inside,Single Family,Gable,BrkTil,728,GasA,Y,6,1,Detchd,NA,2006,178000,4
+p1220,16259,Corner,Single Family,Gable,PConc,1249,GasA,Y,9,0,Attchd,NA,2006,342643,3
+p1221,5820,Inside,Single Family,Gable,CBlock,1162,GasA,Y,6,0,Attchd,NA,2006,126175,1
+p1222,11600,Inside,Single Family,Hip,CBlock,1383,GasA,Y,7,0,Attchd,NA,2006,145250,5
+p1223,14145,Corner,Single Family,Gable,CBlock,1208,GasA,Y,8,0,Attchd,NA,2006,202500,9
+p1224,8544,Inside,Duplex,Gable,Slab,0,Wall,N,6,0,Detchd,NA,2006,87500,9
+p1225,6435,Inside,Single Family,Gable,BrkTil,972,GasA,Y,6,1,Detchd,NA,2006,140200,10
+p1226,20431,Inside,Single Family,Hip,PConc,1848,GasA,Y,10,2,Attchd,NA,2006,437154,5
+p1227,5271,Inside,Single Family,Gable,PConc,1453,GasA,Y,6,1,Attchd,NA,2006,190000,6
+p1228,8400,Inside,Single Family,Gable,CBlock,940,GasA,Y,6,2,Attchd,NA,2006,140000,6
+p1229,6930,Inside,Single Family,Hip,CBlock,1062,GasA,Y,6,0,BuiltIn,NA,2006,130000,10
+p1230,12011,CulDSac,Single Family,Gable,PConc,1086,GasA,Y,7,1,Attchd,NA,2006,280000,4
+p1231,18800,FR2,Single Family,Gable,PConc,796,GasA,Y,6,1,Attchd,NA,2006,190000,10
+p1232,8121,Inside,Single Family,Gable,PConc,953,GasA,Y,7,1,Attchd,NA,2006,172400,3
+p1233,8846,CulDSac,Single Family,Gable,PConc,870,GasA,Y,5,0,Detchd,NA,2006,148000,6
+p1234,7200,Inside,Single Family,Gable,PConc,1293,GasA,Y,5,1,Attchd,NA,2006,187750,10
+p1235,8410,FR2,Single Family,Gambrel,PConc,658,GasA,Y,8,0,NA,NA,2006,81000,5
+p1236,7446,Corner,Single Family,Gable,CBlock,788,GasA,Y,4,2,NA,GdWo,2006,100000,6
+p1237,8767,Inside,Single Family,Gable,PConc,1310,GasA,Y,6,1,Attchd,NA,2006,164990,2
+p1238,12090,Corner,Single Family,Hip,PConc,1141,GasA,Y,10,1,BuiltIn,NA,2006,258000,2
+p1239,34650,Inside,Condo,Hip,CBlock,1056,GasA,N,5,0,Attchd,NA,2006,145000,1
+p1240,7844,Inside,Single Family,Hip,CBlock,672,GasA,Y,6,1,Attchd,NA,2006,149500,10
+p1241,4400,Inside,Single Family,Gable,BrkTil,648,GasA,Y,6,0,Detchd,NA,2006,116000,10
+p1242,11214,Corner,Single Family,Gable,PConc,930,GasA,Y,10,1,Attchd,NA,2006,199900,6
+p1243,8600,Inside,Single Family,Gable,BrkTil,780,GasA,Y,7,1,Detchd,NA,2006,119500,5
+p1244,5684,Inside,Single Family,Hip,BrkTil,813,GasA,Y,5,0,Detchd,NA,2006,110000,5
+p1245,70761,Inside,Single Family,Gable,CBlock,1533,GasA,Y,5,2,Attchd,NA,2006,280000,2
+p1246,9297,Inside,Duplex,Gable,CBlock,1728,GasA,Y,8,0,Detchd,NA,2006,188000,2
+p1247,3072,Inside,Townhouse,Hip,PConc,1375,GasA,Y,6,1,Attchd,NA,2006,178740,3
+p1248,16033,FR2,Single Family,Hip,PConc,1833,GasA,Y,8,1,Attchd,NA,2006,326000,4
+p1249,11846,Inside,Single Family,Hip,PConc,1792,GasA,Y,6,1,Attchd,NA,2006,374000,1
+p1250,4500,FR2,Townhouse,Hip,PConc,1216,GasA,Y,5,0,Attchd,NA,2006,164000,5
+p1251,10800,Corner,Condo,Gable,CBlock,954,GasA,N,10,1,Attchd,NA,2006,160000,3
+p1252,9490,Inside,Single Family,Gable,CBlock,806,GasA,Y,5,2,Attchd,MnPrv,2006,133000,1
+p1253,15578,Corner,Single Family,Gable,PConc,728,GasA,Y,8,0,Attchd,NA,2006,172785,10
+p1254,9554,Inside,Single Family,Gable,PConc,777,GasA,Y,8,1,Attchd,NA,2006,215000,2
+p1255,6792,Inside,Townhouse,Gable,PConc,1368,GasA,Y,6,1,Attchd,NA,2006,202665,6
+p1256,9100,Corner,Single Family,Gable,CBlock,864,GasA,Y,5,0,Detchd,NA,2006,129900,1
+p1257,5000,Corner,Single Family,Gable,CBlock,1004,GasA,Y,7,2,Detchd,NA,2006,159000,5
+p1258,7500,Inside,Single Family,Gable,PConc,1257,GasA,Y,6,1,Attchd,NA,2006,176000,5
+p1259,9056,Inside,Single Family,Gable,PConc,707,GasA,Y,6,1,Attchd,NA,2006,178000,5
+p1260,11553,Inside,Single Family,Hip,CBlock,1051,GasA,Y,7,1,Attchd,NA,2006,158000,3
+p1261,17104,Inside,Single Family,Gable,PConc,654,GasA,Y,7,1,Attchd,NA,2006,179665,5
+p1262,13837,Corner,Single Family,Gable,PConc,1204,GasA,Y,9,0,Attchd,NA,2006,229000,4
+p1263,6380,Inside,Single Family,Gable,BrkTil,993,GasA,Y,5,1,Detchd,NA,2006,113000,7
+p1264,14850,Inside,Single Family,Gable,CBlock,1092,GasA,Y,6,1,Attchd,MnWw,2006,141000,10
+p1265,11040,Inside,Single Family,Gable,CBlock,637,GasA,Y,7,0,CarPort,NA,2006,108000,5
+p1266,3196,Inside,Townhouse,Gable,PConc,1374,GasA,Y,7,1,Attchd,NA,2006,234000,1
+p1267,10010,Inside,Single Family,Gable,CBlock,1389,GasA,Y,6,1,Attchd,NA,2006,170000,7
+p1268,13346,CulDSac,Single Family,Gable,PConc,1095,GasA,Y,9,1,Attchd,NA,2006,268000,6
+p1269,7032,Corner,Duplex,Gable,CBlock,943,GasA,Y,4,2,Detchd,NA,2006,135960,1
+p1270,7332,Inside,Single Family,Gable,CBlock,864,GasA,Y,4,0,Attchd,NA,2006,120000,7
+p1271,11777,Inside,Single Family,Gable,CBlock,1164,GasA,Y,6,2,Attchd,NA,2006,164500,9
+p1272,11443,Inside,Single Family,Hip,PConc,1868,GasA,Y,7,2,Attchd,NA,2006,369900,2
+p1273,11302,Inside,Single Family,Gable,PConc,1814,GasA,Y,7,1,Attchd,NA,2006,319000,6
+p1274,3600,Inside,Single Family,Gable,CBlock,684,GasA,N,7,0,Detchd,NA,2006,114504,9
+p1275,12984,Inside,Single Family,Gable,CBlock,1430,GasA,Y,7,1,Attchd,NA,2006,217500,8
+p1276,10927,Inside,Single Family,Gable,PConc,1058,GasA,Y,8,1,BuiltIn,NA,2006,275000,7
+p1277,10041,Inside,Single Family,Gable,PConc,908,GasA,Y,8,1,Attchd,NA,2006,220000,3
+p1278,7800,Inside,Single Family,Gable,CBlock,896,GasA,Y,8,0,Attchd,NA,2006,225000,2
+p1279,7861,Inside,Single Family,Gable,PConc,783,GasA,Y,7,1,Attchd,NA,2006,183200,9
+p1280,10400,Inside,Single Family,Gable,CBlock,732,GasA,Y,8,1,Attchd,NA,2006,165150,3
+p1281,9000,Corner,Single Family,Gable,BrkTil,636,GasA,Y,8,0,Detchd,MnPrv,2006,124000,2
+p1282,3982,Inside,Townhouse,Hip,PConc,1520,GasA,Y,7,1,Attchd,NA,2006,264561,10
+p1283,20896,CulDSac,Single Family,Gable,PConc,2077,GasA,Y,8,1,Attchd,NA,2006,423000,6
+p1284,11194,Corner,Single Family,Gable,PConc,1406,GasA,Y,7,1,Attchd,NA,2006,230500,10
+p1285,14175,Corner,Single Family,Gable,CBlock,1188,GasA,Y,6,1,Detchd,NA,2006,168000,4
+p1286,11600,Inside,Single Family,Gable,BrkTil,700,GasA,Y,5,1,Detchd,NA,2006,137500,7
+p1287,11250,Inside,Single Family,Gable,CBlock,1208,GasA,Y,6,1,Attchd,NA,2006,165000,2
+p1288,9600,Inside,Single Family,Gable,BrkTil,1095,GasW,N,8,0,2Types,NA,2006,87000,6
+p1289,26178,Inside,Single Family,Hip,PConc,1210,GasA,Y,9,2,Attchd,NA,2006,335000,7
+p1290,5400,Corner,Single Family,Gable,BrkTil,1073,GasA,Y,4,0,Detchd,NA,2006,108480,2
+p1291,13811,Inside,Single Family,Gable,CBlock,1112,GasA,Y,5,1,Attchd,NA,2006,176000,3
+p1292,6000,Inside,Single Family,Gable,CBlock,616,GasA,Y,4,0,Detchd,NA,2006,89000,3
+p1293,6420,Inside,Single Family,Gable,PConc,980,GasA,Y,6,0,Detchd,NA,2006,123500,6
+p1294,14331,Inside,Single Family,Hip,PConc,1800,GasA,Y,7,1,Attchd,NA,2006,312500,2
+p1295,9600,Inside,Single Family,Hip,CBlock,1164,GasA,Y,6,0,Attchd,NA,2006,140000,1
+p1296,12438,Inside,Single Family,Hip,PConc,1234,GasA,Y,10,1,BuiltIn,NA,2006,361919,9
+p1297,9873,Inside,Condo,Gable,CBlock,960,GasW,N,6,0,Detchd,NA,2006,129000,9
+p1298,9920,Inside,Single Family,Gable,CBlock,971,GasA,Y,5,1,Attchd,NA,2006,128500,1
+p1299,6563,CulDSac,Single Family,Gable,PConc,1742,GasA,Y,5,1,Attchd,NA,2006,275000,4
+p1300,10800,Inside,Single Family,Gable,BrkTil,880,GasW,N,6,2,Detchd,NA,2006,163000,6
+p1301,8544,Inside,Duplex,Gable,CBlock,0,GasA,N,6,0,Detchd,NA,2006,93500,7
+p1302,10463,CulDSac,Single Family,Gable,PConc,893,GasA,Y,8,1,Attchd,NA,2006,239900,7
+p1303,9236,Inside,Single Family,Gable,PConc,1479,GasA,Y,6,0,Attchd,NA,2006,217000,6
+p1304,10240,Inside,Single Family,Gable,PConc,1030,GasA,Y,8,1,Attchd,NA,2006,275500,10
+p1305,9549,CulDSac,Townhouse,Hip,PConc,1494,GasA,Y,6,1,Attchd,NA,2006,270000,9
+p1306,9100,Inside,Single Family,Hip,PConc,1860,GasA,Y,8,1,Attchd,NA,2006,216837,7
+p1307,8877,Inside,Single Family,Gable,CBlock,836,GasA,Y,6,0,Detchd,NA,2006,102000,5
+p1308,11210,Inside,Single Family,Gable,PConc,1614,GasA,Y,7,0,Attchd,NA,2006,221500,2
+p1309,13350,Inside,Single Family,Hip,CBlock,864,GasA,Y,5,1,Attchd,MnPrv,2006,142500,2
+p1310,10530,Inside,Duplex,Gable,CBlock,975,GasA,Y,4,0,Attchd,NA,2006,135000,4
+p1311,7153,Inside,Single Family,Gable,PConc,761,GasA,Y,7,0,Attchd,NA,2006,175900,1
+p1312,9000,Inside,Single Family,Gable,CBlock,936,GasA,Y,5,0,Attchd,GdWo,2006,118000,4
+p1313,9750,Inside,Single Family,Gable,PConc,980,GasA,Y,6,0,Attchd,NA,2006,135500,7
+p1314,13400,Inside,Single Family,Gable,CBlock,1024,GasA,Y,6,1,Attchd,GdWo,2006,159950,2
+p1315,10140,Inside,Single Family,Hip,CBlock,1040,GasA,Y,5,1,Attchd,GdPrv,2006,181000,10
+p1316,8248,Inside,Single Family,Gable,BrkTil,686,GasW,Y,7,0,Detchd,NA,2006,116000,2
+p1317,11425,Corner,Single Family,Gable,CBlock,1008,GasA,Y,4,1,Attchd,NA,2006,137000,5
+p1318,11216,Inside,Single Family,Gable,PConc,1489,GasA,Y,7,1,Attchd,NA,2006,232600,3
+p1319,2544,Inside,Townhouse,Gable,PConc,600,GasA,Y,4,0,Detchd,NA,2006,147400,2
+p1320,3180,Inside,Townhouse,Gable,PConc,600,GasA,Y,4,0,Detchd,NA,2006,151000,7
+p1321,3196,Inside,Townhouse,Gable,PConc,1273,GasA,Y,7,1,Attchd,NA,2006,215000,6
+p1322,17920,Inside,Single Family,Hip,CBlock,1763,GasA,Y,6,1,Attchd,NA,2006,170000,5
+p1323,11029,Corner,Single Family,Gable,CBlock,1054,GasA,Y,9,1,Attchd,NA,2006,250000,8
+p1324,14762,Corner,Single Family,Gable,Slab,0,GasA,Y,7,1,Attchd,NA,2006,169000,7
+p1325,6204,Inside,Single Family,Gable,PConc,795,GasA,N,10,0,Detchd,NA,2006,118500,6
+p1326,8393,Corner,Duplex,Gable,CBlock,1626,GasA,Y,8,0,Attchd,NA,2006,145000,3
+p1327,8414,Inside,Single Family,Hip,CBlock,1059,GasA,Y,6,0,Attchd,MnPrv,2006,154500,1
+p1328,8765,Inside,Single Family,Gable,BrkTil,951,GasA,N,6,0,Detchd,NA,2006,106500,9
+p1329,6993,Inside,Single Family,Gable,CBlock,912,GasA,Y,6,1,Attchd,NA,2006,135000,8
+p1330,7875,Inside,Single Family,Gable,PConc,783,GasA,Y,8,1,Attchd,NA,2006,180000,4
+p1331,14859,CulDSac,Single Family,Hip,PConc,1670,GasA,Y,7,1,Attchd,NA,2006,240000,4
+p1332,11500,Inside,Single Family,Gable,CBlock,1017,GasA,Y,6,1,Attchd,NA,2006,250000,9
+p1333,8885,Inside,Single Family,Gable,CBlock,864,GasA,Y,5,0,Attchd,MnPrv,2006,131000,6
+p1334,6120,Inside,Single Family,Gable,BrkTil,768,GasA,N,6,0,Detchd,MnPrv,2006,88000,4
+p1335,9000,Inside,Single Family,Gable,CBlock,480,GasA,N,4,0,Detchd,NA,2006,35311,9
+p1336,10237,Inside,Single Family,Gable,PConc,1316,GasA,Y,6,1,Attchd,NA,2006,169990,6
+p1337,10240,Inside,Single Family,Gable,CBlock,1686,GasA,Y,7,1,Attchd,NA,2006,207500,1
+p1338,13006,Corner,Single Family,Gable,PConc,964,GasA,Y,8,1,BuiltIn,NA,2006,222000,5
+p1339,5825,Inside,Single Family,Gable,PConc,600,GasA,Y,5,0,Detchd,NA,2006,79900,5
+p1340,8760,Inside,Single Family,Gable,PConc,1391,GasA,Y,7,0,Attchd,NA,2006,239799,6
+p1341,12640,Inside,Duplex,Gable,CBlock,1728,GasA,Y,8,0,Attchd,NA,2006,150900,2
+p1342,8163,Inside,Single Family,Gable,CBlock,1144,GasA,Y,6,1,Attchd,NA,2006,143000,3
+p1343,14006,Inside,Single Family,Gable,PConc,936,GasA,Y,7,1,Attchd,NA,2006,192500,2
+p1344,7800,Corner,Single Family,Gable,CBlock,828,GasA,Y,6,0,Detchd,MnPrv,2006,119900,4
+p1345,9400,CulDSac,Duplex,Flat,CBlock,945,GasA,Y,4,0,NA,NA,2006,127500,3
+p1346,10382,Inside,Condo,Hip,CBlock,588,GasA,Y,6,0,Attchd,NA,2006,140000,4
+p1347,10800,Inside,Single Family,Gable,CBlock,720,GasA,N,6,0,NA,NA,2006,135000,5
+p1348,2651,FR2,Townhouse,Gable,PConc,673,GasA,Y,6,0,Detchd,NA,2006,165000,6
+p1349,5900,Inside,Single Family,Gable,PConc,440,GasA,Y,4,0,NA,NA,2006,85500,6
+p1350,5310,Corner,Single Family,Hip,CBlock,485,GasA,Y,5,0,Attchd,NA,2006,117000,10
+p1351,8125,Inside,Single Family,Gable,PConc,770,GasA,Y,6,0,Attchd,NA,2006,197000,2
+p1352,9452,Inside,Single Family,Gable,PConc,1396,GasA,Y,7,1,Attchd,NA,2006,348000,1
+p1353,8846,Inside,Single Family,Gable,PConc,750,GasA,Y,6,0,Attchd,NA,2006,173900,5
+p1354,4712,Inside,Single Family,Gable,CBlock,747,GasA,Y,5,0,Detchd,MnPrv,2006,121600,4
+p1355,10659,Inside,Single Family,Hip,CBlock,1050,GasA,Y,6,0,Attchd,NA,2006,136500,7
+p1356,9786,Inside,Single Family,Hip,BrkTil,1007,GasA,N,6,1,Detchd,NA,2006,91000,10
+p1357,6000,Inside,Single Family,Gable,BrkTil,1008,GasA,Y,7,0,NA,NA,2006,102000,4
+p1358,3013,Inside,Townhouse,Gable,PConc,1362,GasA,Y,6,1,Attchd,NA,2006,213490,9
+p1359,7406,Inside,Single Family,Gable,PConc,1199,GasA,Y,6,0,Attchd,NA,2006,194000,2
+p1360,1680,Inside,Townhouse,Gable,CBlock,672,GasA,Y,7,0,Detchd,NA,2006,118000,1
+p1361,7082,Inside,Condo,Gable,PConc,686,GasA,Y,10,0,NA,NA,2006,160000,3
+p1362,14541,Corner,Single Family,Gable,PConc,1338,GasA,Y,10,1,Attchd,NA,2006,310000,8
+p1363,8125,Inside,Single Family,Gable,PConc,1654,GasA,Y,6,0,Attchd,NA,2006,230000,1
+p1364,13125,Corner,Single Family,Gable,CBlock,1134,GasA,Y,8,1,Attchd,GdPrv,2006,155000,10
+p1365,16056,Inside,Single Family,Hip,PConc,1992,GasA,Y,11,1,BuiltIn,NA,2006,556581,3
+p1366,11367,Corner,Single Family,Gable,PConc,1065,GasA,Y,7,1,Attchd,NA,2006,255000,10
+p1367,7052,Inside,Townhouse,Gable,PConc,1364,GasA,Y,6,1,Attchd,NA,2006,185850,5
+p1368,6000,Inside,Single Family,Gable,BrkTil,1103,GasA,Y,5,1,Detchd,MnPrv,2006,110500,8
+p1369,3964,Inside,Townhouse,Gable,CBlock,942,GasA,Y,10,1,Attchd,GdPrv,2006,151400,2
+p1370,7585,Inside,Single Family,Gable,CBlock,810,GasA,Y,7,1,Detchd,NA,2006,91500,1
+p1371,10800,Inside,Single Family,Gable,CBlock,796,GasA,Y,7,1,Attchd,NA,2006,170000,3
+p1372,15870,Corner,Single Family,Gable,CBlock,1096,GasA,Y,6,0,Attchd,NA,2006,138800,8
+p1373,4435,Inside,Townhouse,Gable,PConc,848,GasA,Y,3,1,Attchd,NA,2006,155900,4
+p1374,8800,Inside,Single Family,Hip,CBlock,1251,GasA,Y,6,2,Attchd,MnPrv,2006,160000,4
+p1375,13031,Corner,Single Family,Gable,PConc,691,GasA,Y,6,1,Attchd,NA,2006,187500,2
+p1376,2522,Inside,Townhouse,Gable,PConc,970,GasA,Y,7,0,Detchd,NA,2006,137500,4
+p1377,3316,Inside,Townhouse,Gable,PConc,1247,GasA,Y,4,1,Attchd,NA,2006,197000,2
+p1378,9230,Corner,Single Family,Hip,CBlock,864,GasA,Y,6,0,Detchd,MnPrv,2006,146000,4
+p1379,8910,Corner,Single Family,Hip,CBlock,655,GasA,Y,6,1,BuiltIn,NA,2006,159500,10
+p1380,23257,CulDSac,Single Family,Gable,PConc,868,GasA,Y,9,1,BuiltIn,NA,2006,274725,4
+p1381,7100,Corner,Single Family,Gable,CBlock,816,GasA,Y,5,0,Detchd,NA,2006,129900,8
+p1382,5400,Inside,Single Family,Gable,CBlock,833,GasA,Y,4,0,Detchd,MnPrv,2006,117000,8
+p1383,7560,Inside,Single Family,Gable,CBlock,1040,GasA,Y,6,0,Attchd,GdWo,2006,133700,6
+p1384,10084,Inside,Single Family,Gable,PConc,1552,GasA,Y,7,0,Attchd,NA,2006,212900,5
+p1385,6240,Inside,Single Family,Gable,BrkTil,1042,GasA,Y,8,1,Detchd,NA,2006,149000,2
+p1386,11200,Inside,Single Family,Gable,CBlock,1298,GasA,Y,5,1,Attchd,NA,2006,180000,8
+p1387,17755,Inside,Single Family,Gable,CBlock,1466,GasA,Y,6,2,Attchd,NA,2006,149900,3
+p1388,14115,Inside,Single Family,Gable,PConc,1073,GasA,Y,6,1,Attchd,NA,2006,230000,4
+p1389,10852,Inside,Single Family,Gable,PConc,959,GasA,Y,7,1,Attchd,NA,2006,173000,2
+p1390,35760,CulDSac,Single Family,Hip,PConc,1930,GasA,Y,10,1,Attchd,NA,2006,625000,5
+p1391,16560,Inside,Single Family,Gable,BrkTil,952,GasA,Y,9,1,Detchd,NA,2006,239000,4
+p1392,8335,Corner,Single Family,Gable,Slab,0,GasA,Y,5,1,NA,NA,2006,93000,3
+p1393,11170,Corner,Single Family,Gable,Wood,1216,GasA,Y,8,0,Attchd,GdPrv,2006,250000,4
+p1394,10800,Inside,Single Family,Hip,BrkTil,1120,GasA,Y,5,1,Detchd,NA,2006,120000,2
+p1395,9738,Inside,Single Family,Gable,BrkTil,784,GasA,Y,7,0,Attchd,NA,2006,104900,10
+p1396,12461,Corner,Single Family,Gable,PConc,1624,GasA,Y,5,1,Attchd,GdPrv,2006,262000,2
+p1397,14054,Inside,Single Family,Gable,PConc,879,GasA,Y,9,1,BuiltIn,NA,2006,219210,2
+p1398,8850,Corner,Single Family,Gable,BrkTil,815,GasA,Y,7,1,Detchd,NA,2006,144000,2
+p1399,11235,Inside,Single Family,Gable,CBlock,1051,GasA,Y,6,1,Attchd,NA,2006,148000,3
+p1400,9353,Inside,Single Family,Gable,CBlock,864,GasA,Y,5,0,Attchd,NA,2006,116050,6
+p1401,10140,Inside,Single Family,Gable,CBlock,1056,GasA,Y,6,0,Attchd,MnPrv,2006,153500,1
+p1402,8900,Inside,Single Family,Gable,CBlock,1056,GasA,Y,5,0,Detchd,MnPrv,2006,107000,8
+p1403,9135,Inside,Single Family,Gable,PConc,1682,GasA,Y,7,0,Attchd,NA,2006,200000,9
+p1404,10182,CulDSac,Single Family,Hip,PConc,1660,GasA,Y,8,1,Attchd,NA,2006,290000,8
+p1405,10246,CulDSac,Single Family,Gable,CBlock,648,GasA,Y,3,0,Attchd,NA,2006,145000,3
+p1406,10205,Inside,Single Family,Gable,CBlock,925,GasA,Y,6,0,Attchd,NA,2006,134500,1
+p1407,6240,Inside,Single Family,Gable,Slab,0,GasA,N,3,0,NA,NA,2006,80500,10
+p1408,1680,Inside,Townhouse,Gable,CBlock,672,GasA,Y,7,0,NA,NA,2006,91500,3
+p1409,7800,Inside,Single Family,Gable,CBlock,912,GasA,Y,5,0,Attchd,NA,2006,115000,2
+p1410,10680,Inside,Single Family,Hip,CBlock,2136,GasA,N,7,0,Detchd,MnPrv,2006,137900,2
+p1411,7728,Inside,Duplex,Hip,CBlock,1106,GasA,Y,6,0,Attchd,GdWo,2006,132500,9
+p1412,13132,Inside,Single Family,Gable,BrkTil,747,GasA,Y,9,0,Detchd,NA,2006,138887,10
+p1413,12393,FR2,Single Family,Gable,PConc,847,GasA,Y,8,1,BuiltIn,NA,2006,195000,2
+p1414,13072,Inside,Single Family,Gable,PConc,1141,GasA,Y,6,0,Detchd,NA,2006,142500,4
+p1415,13891,Inside,Single Family,Gable,PConc,2076,GasA,Y,7,1,Attchd,NA,2006,465000,10
+p1416,11435,Corner,Single Family,Gable,PConc,792,GasA,Y,7,2,Detchd,NA,2006,230000,2
+p1417,8125,Inside,Single Family,Gable,PConc,756,GasA,Y,6,0,Attchd,NA,2006,186500,7
+p1418,3136,Corner,Townhouse,Gable,PConc,1405,GasA,Y,6,1,Attchd,NA,2006,171750,2
+p1419,3735,FR3,Townhouse,Hip,PConc,691,GasA,Y,6,0,Detchd,NA,2006,183900,6
+p1420,13526,CulDSac,Single Family,Hip,CBlock,935,GasA,Y,5,0,Attchd,MnPrv,2006,137000,10
+p1421,8049,CulDSac,Single Family,Hip,CBlock,1309,GasA,Y,6,1,Attchd,NA,2006,180000,9
+p1422,36500,Inside,Single Family,Gable,CBlock,1624,GasA,Y,7,0,Attchd,NA,2006,190000,5
+p1423,11065,Inside,Single Family,Gable,PConc,1085,GasA,Y,8,1,BuiltIn,NA,2006,281000,9
+p1424,10140,Inside,Single Family,Gable,PConc,832,GasA,Y,8,1,Attchd,GdWo,2006,162900,3
+p1425,8172,Inside,Single Family,Hip,CBlock,864,GasA,Y,5,0,Detchd,NA,2006,115000,8
+p1426,8400,Inside,Single Family,Hip,CBlock,1052,GasA,Y,5,0,Attchd,GdWo,2006,138500,1
+p1427,3675,Inside,Townhouse,Gable,PConc,547,GasA,Y,5,0,Basment,NA,2006,140000,2
+p1428,10120,Inside,Single Family,Hip,PConc,1165,GasA,Y,8,1,Attchd,NA,2006,290000,2
+p1429,8688,Inside,Single Family,Gable,PConc,1616,GasA,Y,7,0,Attchd,NA,2006,232000,7
+p1430,3363,Inside,Townhouse,Gable,PConc,976,GasA,Y,7,0,Detchd,NA,2006,130000,6
+p1431,6955,Inside,Townhouse,Gable,PConc,1368,GasA,Y,6,1,Attchd,NA,2006,202500,10
+p1432,14781,CulDSac,Single Family,Hip,PConc,1753,GasA,Y,7,1,Attchd,NA,2006,275000,4
+p1433,9084,Inside,Single Family,Hip,PConc,935,GasA,Y,8,1,Attchd,NA,2006,176500,9
+p1434,10780,Inside,Single Family,Gable,CBlock,911,GasA,Y,6,0,Detchd,NA,2006,132500,10
+p1435,7200,Corner,Single Family,Gable,CBlock,803,GasA,Y,6,0,Detchd,MnPrv,2006,125500,6
+p1436,4118,Corner,Single Family,Gable,CBlock,693,Grav,N,4,0,NA,NA,2006,52500,10
+p1437,13450,Corner,Single Family,Gable,PConc,916,GasA,Y,8,0,BuiltIn,NA,2006,200000,7
+p1438,9560,Corner,Single Family,Hip,CBlock,864,GasA,Y,5,0,Attchd,NA,2006,128500,6
+p1439,20781,CulDSac,Single Family,Hip,CBlock,1568,GasA,Y,9,1,Attchd,NA,2006,262500,8
+p1440,10192,Inside,Single Family,Gable,CBlock,570,GasA,Y,8,1,Attchd,GdPrv,2006,170000,10
+p1441,16737,FR3,Single Family,Hip,PConc,1980,GasA,Y,8,1,Attchd,NA,2006,315000,3
+p1442,3180,Inside,Townhouse,Gable,PConc,600,GasA,Y,4,0,Detchd,NA,2006,144152,7
+p1443,2665,Inside,Townhouse,Gable,PConc,757,GasA,Y,6,1,Attchd,NA,2006,127000,9
+p1444,9750,Corner,Single Family,Gable,PConc,1108,GasA,Y,8,1,Detchd,NA,2006,274300,7
+p1445,1953,Inside,Townhouse,Gable,CBlock,483,GasA,Y,5,0,Detchd,NA,2006,83000,9
+p1446,7200,Corner,Single Family,Hip,BrkTil,596,GasA,Y,8,0,Detchd,NA,2006,157000,4
+p1447,16692,Inside,Single Family,Gable,CBlock,1392,GasA,Y,12,2,Attchd,MnPrv,2006,250000,2
+p1448,9100,Inside,Single Family,Gable,PConc,1525,GasA,Y,6,0,Attchd,NA,2006,235000,1
+p1449,7838,Inside,Single Family,Gable,CBlock,864,GasA,Y,6,1,Attchd,MnWw,2006,123000,2
+p1450,4045,Inside,Townhouse,Hip,PConc,1356,GasA,Y,6,1,Attchd,NA,2006,246578,6
+p1451,6762,Inside,Single Family,Gable,PConc,1286,GasA,Y,6,1,Attchd,NA,2006,193879,2
+p1452,10410,Corner,Single Family,Gable,PConc,672,GasA,Y,6,0,Detchd,MnPrv,2006,105000,8
+p1453,16381,Inside,Single Family,Gable,CBlock,1844,GasA,Y,7,1,Attchd,NA,2006,223000,3
+p1454,11700,Corner,Single Family,Gable,CBlock,708,GasA,Y,7,1,Attchd,NA,2006,179900,1
+p1455,19690,CulDSac,Single Family,Flat,CBlock,697,GasA,Y,8,1,Attchd,GdPrv,2006,274970,3
+p1456,21930,Inside,Single Family,Gable,PConc,732,GasA,Y,7,1,BuiltIn,NA,2006,192140,5
+p1457,17400,Inside,Single Family,Gable,CBlock,1126,GasA,Y,5,1,Attchd,NA,2006,160000,1
+p1458,1533,Inside,Townhouse,Gable,CBlock,630,GasA,Y,3,0,NA,NA,2006,92000,8
+p1459,3675,Inside,Townhouse,Gable,PConc,547,GasA,Y,5,0,Basment,NA,2006,145000,5
+p1460,17217,Inside,Single Family,Gable,PConc,1140,GasA,Y,6,0,NA,NA,2006,84500,8
