@@ -241,7 +241,7 @@ async def recieve_interaction(sid, data):
         "participant_id": pid,
         "interaction_type": interaction_type,
         "interacted_value": data["data"],
-        "group": data["group'],
+        "group": data["group"],
         "timestamp": data["interactionAt"]
     }
     try:
