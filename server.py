@@ -21,6 +21,7 @@ CLIENTS = {}  # entire data map of all client data
 CLIENT_PARTICIPANT_ID_SOCKET_ID_MAPPING = {}
 CLIENT_SOCKET_ID_PARTICIPANT_MAPPING = {}
 COMPUTE_BIAS_FOR_TYPES = [
+    "mouseover_item",
     "mouseout_item",
     "mouseout_group",
     "click_group",
@@ -108,11 +109,14 @@ async def on_save_logs(sid, data):
 
 @SIO.event
 async def on_interaction(sid, data):
+    print(f"[DEBUG] on_interaction received: {data}")
     app_mode = data["appMode"]  # The dataset that is being used, e.g. cars.csv
     app_type = data["appType"]  # CONTROL / AWARENESS / ADMIN
     app_level = data["appLevel"]  # live / practice
     pid = data["participantId"]
     interaction_type = data["interactionType"] # Interaction type - eg. hover, click
+
+    print(f"[DEBUG] Processing interaction: type={interaction_type}, participant={pid}, app_mode={app_mode}")
 
     # Let these get updated everytime an interaction occurs, to handle the
     #   worst case scenario of random restart of the server.
@@ -130,6 +134,7 @@ async def on_interaction(sid, data):
         CLIENTS[pid]["connected_at"] = bias_util.get_current_time()
         CLIENTS[pid]["bias_logs"] = []
         CLIENTS[pid]["response_list"] = []
+        print(f"[DEBUG] Created new client for participant {pid}")
 
     if app_mode != CLIENTS[pid]["app_mode"] or app_level != CLIENTS[pid]["app_level"]:
         # datasets have been switched => reset the logs array!
@@ -139,6 +144,7 @@ async def on_interaction(sid, data):
         CLIENTS[pid]["app_level"] = app_level
         CLIENTS[pid]["bias_logs"] = []
         CLIENTS[pid]["response_list"] = []
+        print(f"[DEBUG] Reset bias logs for participant {pid}")
 
     # record response to interaction
     response = {}
@@ -153,24 +159,44 @@ async def on_interaction(sid, data):
 
     # check whether to compute bias metrics or not
     if interaction_type in COMPUTE_BIAS_FOR_TYPES:
+        print(f"[DEBUG] Computing bias metrics for {interaction_type}")
         CLIENTS[pid]["bias_logs"].append(data)
+        print(f"[DEBUG] Added to bias logs. Total logs: {len(CLIENTS[pid]['bias_logs'])}")
+        
         metrics = bias.compute_metrics(app_mode, CLIENTS[pid]["bias_logs"])
         response["output_data"] = metrics
+        print(f"[DEBUG] Computed metrics: {metrics}")
         
-            # Create simplified interaction data
+        # Check if data_point_distribution exists in metrics
+        if "data_point_distribution" in metrics:
+            counts = metrics["data_point_distribution"][1]["counts"]
+            print(f"[DEBUG] timesVisited counts: {counts}")
+        else:
+            print(f"[DEBUG] No data_point_distribution in metrics")
+    else:
+        print(f"[DEBUG] Skipping bias computation for {interaction_type}")
+        
+    # Create simplified interaction data
     simplified_data = {
         "participant_id": pid,
         "interaction_type": interaction_type,
         "interacted_value": data["data"],
         "group": "socratic",
-        "timestamp": data["interactionAt"]
+        "timestamp": data.get("interactionAt", datetime.now().isoformat())
     }
     try:
         # Store in Firestore
         db.collection('interactions').add(simplified_data)
-        print(f"Stored interaction: {simplified_data}")
+        print(f"[DEBUG] Stored interaction in Firestore: {simplified_data}")
     except Exception as e:
-        print(f"Error storing interaction: {e}")
+        print(f"[DEBUG] Error storing interaction: {e}")
+
+    # save response
+    CLIENTS[pid]["response_list"].append(response)
+
+    await SIO.emit("log", response)  # send this to all
+    await SIO.emit("interaction_response", response, room=sid)
+    print(f"[DEBUG] Sent interaction_response to client")
 
 
 
@@ -234,6 +260,7 @@ async def on_insight(sid, data):
 
 @SIO.event
 async def recieve_interaction(sid, data):
+    print(f"[DEBUG] Received interaction data: {data}")
     interaction_type = data["interactionType"] # Interaction type - eg. hover, click
     pid = data["participantId"]
 
@@ -241,15 +268,15 @@ async def recieve_interaction(sid, data):
         "participant_id": pid,
         "interaction_type": interaction_type,
         "interacted_value": data["data"],
-        "group": data["group"],
-        "timestamp": data["interactionAt"]
+        "group": data.get("group", "socratic"),  # Use .get() with default value
+        "timestamp": data.get("interactionAt", datetime.now().isoformat())
     }
     try:
         # Store in Firestore
         db.collection('interactions').add(simplified_data)
-        print(f"Stored interaction: {simplified_data}")
+        print(f"[DEBUG] Stored interaction: {simplified_data}")
     except Exception as e:
-        print(f"Error storing interaction: {e}")
+        print(f"[DEBUG] Error storing interaction: {e}")
 
 if __name__ == "__main__":
     bias.precompute_distributions()
