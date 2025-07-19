@@ -1,0 +1,101 @@
+id,City mpg,Transmission,Driveline,Engine Type,Fuel Type,Height,Highway mpg,Horsepower,name,Length,Make,Model Year,Number of Forward Gears,Torque,Width,Year
+p01,18,Automatic transmission,All-wheel drive,Audi 3.2L 6 cylinder 250hp 236ft-lbs,Gasoline,140,25,250,2009 Audi A3 3.2,143,Audi,2009 Audi A3,6,236,202,2009
+p02,22,Automatic transmission,Front-wheel drive,Audi 2.0L 4 cylinder 200 hp 207 ft-lbs Turbo,Gasoline,140,28,200,2009 Audi A3 2.0 T AT,143,Audi,2009 Audi A3,6,207,202,2009
+p03,21,Manual transmission,Front-wheel drive,Audi 2.0L 4 cylinder 200 hp 207 ft-lbs Turbo,Gasoline,140,30,200,2009 Audi A3 2.0 T,143,Audi,2009 Audi A3,6,207,202,2009
+p04,21,Automatic transmission,All-wheel drive,Audi 2.0L 4 cylinder 200 hp 207 ft-lbs Turbo,Gasoline,140,28,200,2009 Audi A3 2.0 T Quattro,143,Audi,2009 Audi A3,6,207,202,2009
+p05,21,Automatic transmission,All-wheel drive,Audi 2.0L 4 cylinder 200 hp 207 ft-lbs Turbo,Gasoline,140,28,200,2009 Audi A3 2.0 T Quattro,143,Audi,2009 Audi A3,6,207,202,2009
+p06,16,Manual transmission,All-wheel drive,Audi 3.2L 6 cylinder 265hp 243 ft-lbs,Gasoline,91,27,265,2009 Audi A5 3.2,17,Audi,2009 Audi A5,6,243,62,2009
+p07,17,Automatic transmission,All-wheel drive,Audi 3.2L 6 cylinder 265hp 243 ft-lbs,Gasoline,91,26,265,2009 Audi A5 3.2 AT,17,Audi,2009 Audi A5,6,243,62,2009
+p08,13,Automatic transmission,All-wheel drive,Audi 4.2L 8 cylinder 350 hp 325 ft-lbs,Gasoline,201,18,350,2009 Audi Q7 4.2,221,Audi,2009 Audi Q7,6,325,191,2009
+p09,14,Automatic transmission,All-wheel drive,Audi 3.6L 6 cylinder 280hp 266 ft-lbs,Gasoline,201,20,280,2009 Audi Q7 3.6,221,Audi,2009 Audi Q7,6,266,191,2009
+p10,22,Manual transmission,All-wheel drive,Audi 2.0L 4 cylinder 211 hp 258 ft-lbs Turbo,Gasoline,147,30,211,2009 Audi A4 Sedan 2.0 T Quattro,96,Audi,2009 Audi A4 Sedan,6,258,34,2009
+p11,21,Automatic transmission,All-wheel drive,Audi 2.0L 4 cylinder 211 hp 258 ft-lbs Turbo,Gasoline,147,27,211,2009 Audi A4 Sedan 2.0 T Quattro AT,96,Audi,2009 Audi A4 Sedan,6,258,34,2009
+p12,17,Automatic transmission,All-wheel drive,Audi 3.2L 6 cylinder 265hp 243 ft-lbs,Gasoline,147,26,265,2009 Audi A4 Sedan 3.2,96,Audi,2009 Audi A4 Sedan,6,243,34,2009
+p13,20,Automatic transmission,Front-wheel drive,Acura 3.5L 6 Cylinder 280 hp 254 ft-lbs,Gasoline,172,29,280,2012 Acura TL,63,Acura,2012 Acura TL,6,254,87,2012
+p14,18,Automatic transmission,All-wheel drive,Acura 3.7L 6 Cylinder 305 hp 273 ft-lbs,Gasoline,172,26,305,2012 Acura TL SH-AWD,63,Acura,2012 Acura TL,6,273,87,2012
+p15,12,Automatic transmission,All-wheel drive,BMW 4.4L 8 cylinder 555hp 500 ft-lbs Turbo,Gasoline,226,17,555,2010 BMW X5 M SUV,243,BMW,2010 BMW X5,6,500,201,2010
+p16,12,Automatic transmission,All-wheel drive,BMW 4.4L 8 cylinder 555hp 500 ft-lbs Turbo,Gasoline,226,17,555,2011 BMW X5 M SUV,243,BMW,2011 BMW X5,6,500,201,2011
+p17,12,Automatic transmission,All-wheel drive,BMW 4.4L 8 cylinder 555hp 500 ft-lbs Turbo,Gasoline,148,17,555,2010 BMW X6 M,12,BMW,2010 BMW X6,6,500,191,2010
+p18,12,Automatic transmission,All-wheel drive,BMW 4.4L 8 cylinder 555hp 500 ft-lbs Turbo,Gasoline,148,17,555,2011 BMW X6 M,12,BMW,2011 BMW X6,6,500,191,2011
+p19,18,Manual transmission,Rear-wheel drive,Chevrolet 2.9L 4 Cylinder 185 hp 190 ft-lbs,Gasoline,112,25,185,2012 Chevrolet Colorado Work Truck,22,Chevrolet,2012 Chevrolet Colorado,5,190,181,2012
+p20,18,Manual transmission,Rear-wheel drive,Chevrolet 2.9L 4 Cylinder 185 hp 190 ft-lbs,Gasoline,112,25,185,2012 Chevrolet Colorado Extended Cab Work Truck,140,Chevrolet,2012 Chevrolet Colorado,5,190,181,2012
+p21,18,Automatic transmission,Rear-wheel drive,Chevrolet 2.9L 4 Cylinder 185 hp 190 ft-lbs,Gasoline,120,25,185,2012 Chevrolet Colorado Crew Cab 1LT,140,Chevrolet,2012 Chevrolet Colorado,4,190,181,2012
+p22,18,Manual transmission,Rear-wheel drive,Chevrolet 2.9L 4 Cylinder 185 hp 190 ft-lbs,Gasoline,112,25,185,2011 Chevrolet Colorado Work Truck,22,Chevrolet,2011 Chevrolet Colorado,5,190,181,2011
+p23,18,Manual transmission,Rear-wheel drive,Chevrolet 2.9L 4 Cylinder 185 hp 190 ft-lbs,Gasoline,112,25,185,2011 Chevrolet Colorado Extended Cab Work Truck,140,Chevrolet,2011 Chevrolet Colorado,5,190,181,2011
+p24,18,Automatic transmission,Rear-wheel drive,Chevrolet 2.9L 4 Cylinder 185 hp 190 ft-lbs,Gasoline,120,25,185,2011 Chevrolet Colorado Crew Cab 1LT,140,Chevrolet,2011 Chevrolet Colorado,4,190,181,2011
+p25,18,Manual transmission,Rear-wheel drive,Chevrolet 2.9L 4 Cylinder 185 hp 190 ft-lbs,Gasoline,112,25,185,2010 Chevrolet Colorado Work Truck,22,Chevrolet,2010 Chevrolet Colorado,5,190,181,2010
+p26,20,Manual transmission,Rear-wheel drive,Chevrolet 2.9L 4 Cylinder 185 hp 190 ft-lbs,Gasoline,112,26,185,2010 Chevrolet Colorado Extended Cab Work Truck,140,Chevrolet,2010 Chevrolet Colorado,5,190,181,2010
+p27,18,Automatic transmission,Rear-wheel drive,Chevrolet 2.9L 4 Cylinder 185 hp 190 ft-lbs,Gasoline,120,25,185,2010 Chevrolet Colorado Crew Cab LT1,140,Chevrolet,2010 Chevrolet Colorado,4,190,181,2010
+p28,13,Automatic transmission,Rear-wheel drive,Chevrolet 5.3L 8 Cylinder 310 hp 334 ft-lbs FFV,Gasoline,77,18,310,2012 Chevrolet Express LS 1500,60,Chevrolet,2012 Chevrolet Express,4,334,219,2012
+p29,9,Automatic transmission,All-wheel drive,Chevrolet 5.3L 8 Cylinder 310 hp 334 ft-lbs FFV,E85,77,12,310,2012 Chevrolet Express LS 1500 AWD,60,Chevrolet,2012 Chevrolet Express,4,334,219,2012
+p30,13,Automatic transmission,Rear-wheel drive,Chevrolet 5.3L 8 Cylinder 310 hp 334 ft-lbs FFV,Gasoline,77,17,310,2011 Chevrolet Express LS 1500,60,Chevrolet,2011 Chevrolet Express,4,334,219,2011
+p31,13,Automatic transmission,All-wheel drive,Chevrolet 5.3L 8 Cylinder 310 hp 334 ft-lbs FFV,Gasoline,77,17,310,2011 Chevrolet Express LS 1500 AWD,60,Chevrolet,2011 Chevrolet Express,4,334,219,2011
+p32,8,Automatic transmission,Rear-wheel drive,Chevrolet 4.8L 8 Cylinder 280 hp 295 ft-lbs FFV,E85,22,12,280,2011 Chevrolet Express LS 2500,60,Chevrolet,2011 Chevrolet Express,6,295,219,2011
+p33,8,Automatic transmission,Rear-wheel drive,Chevrolet 6.0L 8 Cylinder 324 hp 373 ft-lbs FFV,E85,22,12,324,2011 Chevrolet Express LS 2500 6.0L,60,Chevrolet,2011 Chevrolet Express,6,373,219,2011
+p34,10,Automatic transmission,Rear-wheel drive,Chevrolet 5.3L 8 Cylinder 310 hp 334 ft-lbs FFV,E85,24,13,310,2010 Chevrolet Express LS 1500,60,Chevrolet,2010 Chevrolet Express,4,334,224,2010
+p35,13,Automatic transmission,All-wheel drive,Chevrolet 5.3L 8 Cylinder 310 hp 334 ft-lbs FFV,Gasoline,24,17,310,2010 Chevrolet Express LS 1500 AWD,60,Chevrolet,2010 Chevrolet Express,4,334,224,2010
+p36,15,Automatic transmission,Rear-wheel drive,Chevrolet 4.3L 6 Cylinder 195 hp 260 ft-lbs,Gasoline,77,20,195,2011 Chevrolet Silverado 1500 Work Truck,102,Chevrolet,2011 Chevrolet Silverado 1500,4,260,237,2011
+p37,14,Automatic transmission,Rear-wheel drive,Chevrolet 4.8L 8 Cylinder 302 hp 305 ft-lbs FFV,Gasoline,82,19,302,2011 Chevrolet Silverado 1500 Crew Cab Work Truck,215,Chevrolet,2011 Chevrolet Silverado 1500,4,305,240,2011
+p38,15,Automatic transmission,Rear-wheel drive,Chevrolet 4.3L 6 Cylinder 195 hp 260 ft-lbs,Gasoline,85,20,195,2011 Chevrolet Silverado 1500 Extended Cab Work Truck,215,Chevrolet,2011 Chevrolet Silverado 1500,4,260,237,2011
+p39,15,Automatic transmission,Rear-wheel drive,Chevrolet 4.3L 6 Cylinder 195 hp 260 ft-lbs,Gasoline,85,20,195,2010 Chevrolet Silverado 1500 Extended Cab Work Truck,215,Chevrolet,2010 Chevrolet Silverado 1500,4,260,237,2010
+p40,15,Automatic transmission,Rear-wheel drive,Chevrolet 4.3L 6 Cylinder 195 hp 260 ft-lbs,Gasoline,77,20,195,2010 Chevrolet Silverado 1500 Work Truck,102,Chevrolet,2010 Chevrolet Silverado 1500,4,260,237,2010
+p41,14,Automatic transmission,Rear-wheel drive,Chevrolet 4.8L 8 Cylinder 302 hp 305 ft-lbs FFV,Gasoline,82,19,302,2010 Chevrolet Silverado 1500 Crew Cab Work Truck,215,Chevrolet,2010 Chevrolet Silverado 1500,4,305,240,2010
+p42,18,Manual transmission,Rear-wheel drive,Nissan 3.7L 6 Cylinder 350hp 276 ft-lbs,Gasoline,43,26,350,2011 Nissan 370Z NISMO,52,Nissan,2011 Nissan 370Z Coupe,6,276,52,2011
+p43,18,Manual transmission,Rear-wheel drive,Nissan 3.7L 6 Cylinder 350hp 276 ft-lbs,Gasoline,35,26,350,2010 Nissan 370Z NISMO,75,Nissan,2010 Nissan 370Z Coupe,6,276,52,2010
+p44,18,Manual transmission,Rear-wheel drive,Nissan 3.7L 6 Cylinder 350hp 276 ft-lbs,Gasoline,35,26,350,2009 Nissan 370Z NISMO,75,Nissan,2009 Nissan 370Z Coupe,6,276,52,2009
+p45,21,Manual transmission,Front-wheel drive,Volvo 2.5L 5 Cylinder 227 hp 236 ft-lbs Turbo,Gasoline,167,29,227,2011 Volvo C30 T5,168,Volvo,2011 Volvo C30,6,236,247,2011
+p46,21,Automatic transmission,Front-wheel drive,Volvo 2.5L 5 Cylinder 227 hp 236 ft-lbs Turbo,Gasoline,167,30,227,2011 Volvo C30 T5 AT,168,Volvo,2011 Volvo C30,5,236,247,2011
+p47,21,Automatic transmission,Front-wheel drive,Volvo 2.5L 5 Cylinder 227 hp 236 ft-lbs Turbo,Gasoline,167,30,227,2010 Volvo C30 T5 AT,155,Volvo,2010 Volvo C30,5,236,247,2010
+p48,21,Manual transmission,Front-wheel drive,Volvo 2.5L 5 Cylinder 227 hp 236 ft-lbs Turbo,Gasoline,167,29,227,2010 Volvo C30 T5,155,Volvo,2010 Volvo C30,6,236,247,2010
+p49,9,Automatic transmission,Rear-wheel drive,Bentley 6.8L 8 cylinder 530hp 774 ft-lbs Turbo,Gasoline,193,15,530,2010 Bentley Brooklands,34,Bentley,2010 Bentley Brooklands,6,774,107,2010
+p50,8,Automatic transmission,All-wheel drive,Bentley 6.0L 12 Cylinder 621 hp 590 ft-lbs FFV Turbo,E85,99,14,621,2012 Bentley Continental Supersports Convertible,195,Bentley,2012 Bentley Continental Supersports Convertible,6,590,153,2012
+p51,8,Automatic transmission,All-wheel drive,Bentley 6.0L 12 Cylinder 621 hp 590 ft-lbs FFV Turbo,E85,110,14,621,2012 Bentley Continental Supersports Coupe,199,Bentley,2012 Bentley Continental Supersports Coupe,6,590,153,2012
+p52,8,Automatic transmission,All-wheel drive,Bentley 6.0L 12 Cylinder 621 hp 590 ft-lbs FFV Turbo,E85,99,14,621,2011 Bentley Continental Supersports Convertible,195,Bentley,2011 Bentley Continental Supersports Convertible,6,590,153,2011
+p53,12,Automatic transmission,All-wheel drive,Bentley 6.0L 12 Cylinder 621 hp 590 ft-lbs FFV Turbo,Gasoline,99,19,621,2010 Bentley Continental Supersports,195,Bentley,2010 Bentley Continental Supersports,6,590,153,2010
+p54,8,Automatic transmission,All-wheel drive,Bentley 6.0L 12 Cylinder 552 hp 479 ft-lbs FFV Turbo,E85,118,13,552,2012 Bentley Continental Flying Spur,170,Bentley,2012 Bentley Continental Flying Spur,6,479,184,2012
+p55,11,Automatic transmission,All-wheel drive,Bentley 6.0L 12 Cylinder 600 hp 553 ft-lbs FFV Turbo,Gasoline,108,19,600,2012 Bentley Continental Flying Spur Speed,170,Bentley,2012 Bentley Continental Flying Spur,6,553,184,2012
+p56,10,Automatic transmission,All-wheel drive,Bentley 6.0L 12 Cylinder 600 hp 553 ft-lbs FFV Turbo,Gasoline,185,17,600,2011 Bentley Continental Flying Spur Speed,170,Bentley,2011 Bentley Continental Flying Spur,6,553,184,2011
+p57,10,Automatic transmission,All-wheel drive,Bentley 6.0L 12 cylinder 600hp 553 ft-lbs Turbo,Gasoline,185,17,600,2010 Bentley Continental Flying Spur Speed,170,Bentley,2010 Bentley Continental Flying Spur,6,553,184,2010
+p58,10,Automatic transmission,All-wheel drive,Bentley 6.0L 12 cylinder 552 hp 479 ft-lbs Turbo,Gasoline,195,17,552,2010 Bentley Continental Flying Spur,170,Bentley,2010 Bentley Continental Flying Spur,6,479,184,2010
+p59,19,Automatic transmission,Front-wheel drive,Volvo 2.5L 5 Cylinder 227 hp 236 ft-lbs Turbo,Gasoline,120,28,227,2011 Volvo C70 T5,7,Volvo,2011 Volvo C70,5,236,44,2011
+p60,20,Manual transmission,Front-wheel drive,Volvo 2.5L 5 Cylinder 227 hp 236 ft-lbs Turbo,Gasoline,119,28,227,2010 Volvo C70 T5,230,Volvo,2010 Volvo C70,6,236,44,2010
+p61,19,Automatic transmission,Front-wheel drive,Volvo 2.5L 5 Cylinder 227 hp 236 ft-lbs Turbo,Gasoline,119,28,227,2010 Volvo C70 T5 AT,230,Volvo,2010 Volvo C70,5,236,44,2010
+p62,21,Manual transmission,Front-wheel drive,Volvo 2.4L 5 Cylinder 168 hp 166 ft-lbs,Gasoline,172,29,168,2010 Volvo S40 2.4i,123,Volvo,2010 Volvo S40,5,170,234,2010
+p63,21,Automatic transmission,Front-wheel drive,Volvo 2.5L 5 Cylinder 227 hp 236 ft-lbs Turbo,Gasoline,172,30,227,2010 Volvo S40 R-Design,123,Volvo,2010 Volvo S40,5,236,234,2010
+p64,21,Automatic transmission,Front-wheel drive,Volvo 2.5L 5 Cylinder 227 hp 236 ft-lbs Turbo,Gasoline,172,30,227,2011 Volvo S40 T5,123,Volvo,2011 Volvo S40,5,236,234,2011
+p65,20,Manual transmission,All-wheel drive,Volvo 2.5L 5 Cylinder 227 hp 236 ft-lbs Turbo,Gasoline,190,27,227,2010 Volvo S40 R-Design AWD,123,Volvo,2010 Volvo S40,6,236,234,2010
+p66,20,Automatic transmission,Front-wheel drive,Volvo 2.5L 5 Cylinder 250 hp 266 ft-lbs Turbo,Gasoline,203,30,250,2012 Volvo S60 T5,19,Volvo,2012 Volvo S60,6,266,72,2012
+p67,18,Automatic transmission,All-wheel drive,Volvo 3.0 L 6 Cylinder 300 HP 325 ft-lbs Turbo,Gasoline,203,26,300,2012 Volvo S60 T6 AWD,19,Volvo,2012 Volvo S60,6,325,72,2012
+p68,18,Automatic transmission,All-wheel drive,Volvo 3.0 L 6 Cylinder 325 HP 354 ft-lbs Turbo,Gasoline,203,26,325,2012 Volvo S60 R-Design,19,Volvo,2012 Volvo S60,6,354,72,2012
+p69,18,Automatic transmission,All-wheel drive,Volvo 3.0 L 6 Cylinder 300 HP 325 ft-lbs Turbo,Gasoline,203,26,300,2011 Volvo S60 T6 AWD,14,Volvo,2011 Volvo S60,6,325,72,2011
+p70,19,Automatic transmission,Front-wheel drive,Volvo 3.2 L 6 cylinder 240 hp 236 ft-lbs,Gasoline,213,27,240,2011 Volvo S80 3.2,243,Volvo,2011 Volvo S80,6,236,69,2011
+p71,15,Automatic transmission,All-wheel drive,Volvo 4.4L 8 Cylinder 311 hp 325 ft-lbs,Gasoline,213,22,311,2010 Volvo S80 V8,243,Volvo,2010 Volvo S80,6,325,69,2010
+p72,16,Automatic transmission,All-wheel drive,Volvo 3.0L 6 Cylinder 281 hp 295 ft-lbs Turbo,Gasoline,213,24,281,2010 Volvo S80 T6 AWD,243,Volvo,2010 Volvo S80,6,295,69,2010
+p73,18,Automatic transmission,Front-wheel drive,Volvo 3.2L 6 Cylinder 235 hp 236 ft-lbs,Gasoline,213,27,235,2010 Volvo S80 3.2,243,Volvo,2010 Volvo S80,6,236,69,2010
+p74,21,Automatic transmission,Front-wheel drive,Volvo 2.5L 5 Cylinder 227 hp 236 ft-lbs Turbo,Gasoline,177,30,227,2011 Volvo V50 T5,169,Volvo,2011 Volvo V50,5,236,234,2011
+p75,20,Manual transmission,All-wheel drive,Volvo 2.5L 5 Cylinder 227 hp 236 ft-lbs Turbo,Gasoline,193,26,227,2010 Volvo V50 R-Design,169,Volvo,2010 Volvo V50,6,236,234,2010
+p76,20,Automatic transmission,Front-wheel drive,Volvo 2.4L 5 Cylinder 168 hp 166 ft-lbs,Gasoline,177,31,168,2010 Volvo V50 2.4i,169,Volvo,2010 Volvo V50,5,170,234,2010
+p77,17,Automatic transmission,All-wheel drive,Volvo 3.0 L 6 Cylinder 300 HP 325 ft-lbs Turbo,Gasoline,175,22,300,2011 Volvo XC60 T6 AWD,19,Volvo,2011 Volvo XC60,6,325,97,2011
+p78,18,Automatic transmission,Front-wheel drive,Volvo 3.2 L 6 cylinder 240 hp 236 ft-lbs,Gasoline,175,25,240,2011 Volvo XC60 3.2,19,Volvo,2011 Volvo XC60,6,236,97,2011
+p79,16,Automatic transmission,All-wheel drive,Volvo 3.0L 6 Cylinder 281 hp 295 ft-lbs Turbo,Gasoline,175,21,281,2010 Volvo XC60 T6 AWD,19,Volvo,2010 Volvo XC60,6,295,97,2010
+p80,18,Automatic transmission,Front-wheel drive,Volvo 3.2L 6 Cylinder 235 hp 236 ft-lbs,Gasoline,175,27,235,2010 Volvo XC60 3.2,19,Volvo,2010 Volvo XC60,6,236,97,2010
+p81,18,Automatic transmission,Front-wheel drive,Volvo 3.2 L 6 cylinder 240 hp 236 ft-lbs,Gasoline,66,25,240,2011 Volvo XC70 3.2,230,Volvo,2011 Volvo XC70,6,236,69,2011
+p82,17,Automatic transmission,All-wheel drive,Volvo 3.0 L 6 Cylinder 300 HP 325 ft-lbs Turbo,Gasoline,66,22,300,2011 Volvo XC70 T6 AWD,230,Volvo,2011 Volvo XC70,6,325,69,2011
+p83,16,Automatic transmission,All-wheel drive,Volvo 3.0L 6 Cylinder 281 hp 295 ft-lbs Turbo,Gasoline,66,21,281,2010 Volvo XC70 T6 AWD,230,Volvo,2010 Volvo XC70,6,295,69,2010
+p84,16,Automatic transmission,All-wheel drive,Volvo 3.2L 6 Cylinder 235 hp 236 ft-lbs,Gasoline,66,22,235,2010 Volvo XC70 3.2,230,Volvo,2010 Volvo XC70,6,236,69,2010
+p85,17,Automatic transmission,Rear-wheel drive,Toyota 4.0L 6 Cylinder 270 hp 278 ft-lbs,Gasoline,24,23,270,2011 Toyota 4Runner SR5,216,Toyota,2011 Toyota 4Runner,5,278,133,2011
+p86,17,Automatic transmission,Four-wheel drive,Toyota 4.0L 6 Cylinder 270 hp 278 ft-lbs,Gasoline,24,22,270,2011 Toyota 4Runner SR5 4WD,216,Toyota,2011 Toyota 4Runner,5,278,24,2011
+p87,17,Automatic transmission,Four-wheel drive,Toyota 4.0L 6 Cylinder 270 hp 278 ft-lbs,Gasoline,93,22,270,2011 Toyota 4Runner Trail,216,Toyota,2011 Toyota 4Runner,5,278,133,2011
+p88,17,Automatic transmission,Rear-wheel drive,Toyota 4.0L 6 Cylinder 270 hp 278 ft-lbs,Gasoline,24,23,270,2011 Toyota 4Runner Limited,216,Toyota,2011 Toyota 4Runner,5,278,133,2011
+p89,17,Automatic transmission,Four-wheel drive,Toyota 4.0L 6 Cylinder 270 hp 278 ft-lbs,Gasoline,24,22,270,2011 Toyota 4Runner  Limited 4WD,216,Toyota,2011 Toyota 4Runner,5,278,133,2011
+p90,16,Automatic transmission,Front-wheel drive,Volvo 3.2 L 6 cylinder 240 hp 236 ft-lbs,Gasoline,247,22,240,2011 Volvo XC90 3.2,200,Volvo,2011 Volvo XC90,6,236,105,2011
+p91,14,Automatic transmission,All-wheel drive,Volvo 4.4L 8 Cylinder 311 hp 325 ft-lbs,Gasoline,247,21,311,2011 Volvo XC90 V8,200,Volvo,2011 Volvo XC90,6,325,105,2011
+p92,15,Automatic transmission,Front-wheel drive,Volvo 3.2L 6 Cylinder 235 hp 236 ft-lbs,Gasoline,247,22,235,2010 Volvo XC90 3.2,200,Volvo,2010 Volvo XC90,6,236,105,2010
+p93,13,Automatic transmission,All-wheel drive,Volvo 4.4L 8 Cylinder 311 hp 325 ft-lbs,Gasoline,247,19,311,2010 Volvo XC90 V8,200,Volvo,2010 Volvo XC90,6,325,105,2010
+p94,18,Automatic transmission,Front-wheel drive,Volvo 3.2L 6 Cylinder 235 hp 236 ft-lbs,Gasoline,10,27,235,2010 Volvo V70 3.2,215,Volvo,2010 Volvo V70,6,236,69,2010
+p95,18,Automatic transmission,Rear-wheel drive,Toyota 2.7L 4 Cylinder 157 hp 178 ft-lbs,Gasoline,24,23,157,2010 Toyota 4Runner SR5,216,Toyota,2010 Toyota 4Runner,4,178,133,2010
+p96,17,Automatic transmission,Rear-wheel drive,Toyota 4.0L 6 Cylinder 270 hp 278 ft-lbs,Gasoline,24,23,270,2010 Toyota 4Runner SR5 V6,216,Toyota,2010 Toyota 4Runner,5,278,133,2010
+p97,17,Automatic transmission,Four-wheel drive,Toyota 4.0L 6 Cylinder 270 hp 278 ft-lbs,Gasoline,24,22,270,2010 Toyota 4Runner SR5 V6 4WD,216,Toyota,2010 Toyota 4Runner,5,278,133,2010
+p98,17,Automatic transmission,Four-wheel drive,Toyota 4.0L 6 Cylinder 270 hp 278 ft-lbs,Gasoline,93,22,270,2010 Toyota 4Runner Trail,216,Toyota,2010 Toyota 4Runner,5,278,133,2010
+p99,17,Automatic transmission,Rear-wheel drive,Toyota 4.0L 6 Cylinder 270 hp 278 ft-lbs,Gasoline,24,23,270,2010 Toyota 4Runner Limited,216,Toyota,2010 Toyota 4Runner,5,278,133,2010
+p100,17,Automatic transmission,Four-wheel drive,Toyota 4.0L 6 Cylinder 270 hp 278 ft-lbs,Gasoline,24,22,270,2010 Toyota 4Runner Limited 4WD,216,Toyota,2010 Toyota 4Runner,5,278,133,2010

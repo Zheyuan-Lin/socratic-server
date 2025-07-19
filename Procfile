@@ -1,0 +1,1 @@
+web: python -m pip install pandas && python server.py

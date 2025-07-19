@@ -1,0 +1,251 @@
+id,Age,Annual Income,Home Ownership Type,Employment Length,Loan Intent,Loan Amount,Loan Interest Rate,Default History,Credit History
+p01,26,30000,Mortgage,5.0,Home Improvement,2000,11.99,No,2
+p02,23,84000,Rent,3.0,Medical,15850,8.49,No,4
+p03,25,32000,Rent,3.0,Venture,10000,12.99,Yes,2
+p04,22,24240,Rent,3.0,Venture,3500,9.99,No,3
+p05,40,45600,Mortgage,20.0,Home Improvement,7000,6.62,No,17
+p06,27,76788,Mortgage,0.0,Debt Consolidation,17000,12.42,No,10
+p07,29,52800,Mortgage,7.0,Education,25475,16.29,Yes,7
+p08,22,75000,Rent,4.0,Personal,12000,11.49,No,3
+p09,31,43812,Rent,2.0,Medical,2400,14.35,No,5
+p10,25,36000,Rent,7.0,Medical,11325,12.69,No,4
+p11,26,57600,Rent,10.0,Debt Consolidation,2150,15.62,Yes,3
+p12,26,39000,Mortgage,10.0,Venture,9500,6.91,No,3
+p13,23,120000,Mortgage,7.0,Education,10000,7.51,No,3
+p14,23,50000,Mortgage,3.0,Personal,10000,10.99,No,3
+p15,23,55392,Rent,3.0,Medical,20000,15.2,Yes,4
+p16,22,19176,Rent,3.0,Venture,2000,14.22,Yes,2
+p17,32,48000,Rent,15.0,Venture,3600,6.92,No,6
+p18,26,60000,Rent,1.0,Home Improvement,4800,7.9,No,3
+p19,24,24000,Rent,1.0,Personal,8500,7.9,No,3
+p20,41,60000,Rent,7.0,Home Improvement,23800,6.91,No,15
+p21,26,117000,Mortgage,8.0,Home Improvement,6000,7.51,No,4
+p22,23,69000,Rent,7.0,Medical,4800,10.75,No,2
+p23,42,51000,Mortgage,5.0,Debt Consolidation,20000,8.49,No,14
+p24,29,40000,Rent,7.0,Personal,11450,8.49,No,5
+p25,22,62000,Rent,4.0,Education,2000,15.27,No,2
+p26,24,48000,Mortgage,5.0,Home Improvement,17000,6.91,No,4
+p27,25,50000,Mortgage,4.0,Debt Consolidation,9000,6.03,No,2
+p28,23,90000,Mortgage,7.0,Education,8000,10.36,No,3
+p29,23,105000,Rent,7.0,Medical,7200,11.71,No,2
+p30,38,65000,Rent,4.0,Home Improvement,4500,13.43,No,12
+p31,46,336000,Own,11.0,Venture,9000,11.49,No,13
+p32,29,54548,Mortgage,8.0,Venture,6000,7.14,No,9
+p33,21,26500,Mortgage,3.0,Medical,6000,14.46,Yes,4
+p34,33,35496,Rent,3.0,Personal,6000,13.72,Yes,8
+p35,22,72000,Own,1.0,Venture,15000,10.25,No,4
+p36,36,51996,Own,7.0,Home Improvement,8500,11.49,No,16
+p37,24,45000,Mortgage,2.0,Home Improvement,13000,10.62,No,2
+p38,23,64000,Rent,0.0,Medical,12000,13.16,Yes,4
+p39,39,77256,Mortgage,16.0,Home Improvement,10000,11.86,No,11
+p40,25,74800,Rent,2.0,Medical,25000,10.99,No,2
+p41,26,125000,Rent,3.0,Medical,12000,6.99,No,4
+p42,34,26400,Mortgage,0.0,Debt Consolidation,3600,9.88,No,5
+p43,26,34320,Rent,2.0,Education,9000,6.62,No,2
+p44,24,56000,Rent,3.0,Education,20000,14.61,Yes,4
+p45,24,44208,Mortgage,2.0,Venture,7000,7.51,No,3
+p46,23,96000,Mortgage,0.0,Venture,20000,11.11,No,2
+p47,35,78000,Mortgage,9.0,Home Improvement,9450,10.99,No,8
+p48,48,128000,Rent,0.0,Education,7500,17.49,Yes,11
+p49,22,75000,Mortgage,3.0,Education,9000,5.79,No,2
+p50,26,160000,Rent,6.0,Personal,25000,12.23,Yes,4
+p51,37,7200,Rent,0.0,Venture,1000,11.14,No,13
+p52,24,36000,Mortgage,8.0,Home Improvement,6000,7.14,No,4
+p53,28,33600,Mortgage,12.0,Medical,3000,5.42,No,5
+p54,22,60000,Rent,6.0,Personal,14000,6.03,No,2
+p55,33,10080,Own,11.0,Venture,7200,6.03,No,8
+p56,26,213000,Mortgage,6.0,Education,35000,10.65,No,2
+p57,22,33000,Rent,6.0,Personal,6000,13.85,No,4
+p58,25,32400,Mortgage,2.0,Debt Consolidation,4800,7.29,No,4
+p59,23,74000,Mortgage,4.0,Home Improvement,25000,12.18,No,2
+p60,24,28800,Rent,3.0,Debt Consolidation,9250,13.57,No,3
+p61,28,92000,Mortgage,8.0,Personal,7750,14.22,No,6
+p62,29,84000,Mortgage,9.0,Home Improvement,5900,7.66,No,9
+p63,24,74004,Mortgage,8.0,Debt Consolidation,8000,15.21,No,3
+p64,25,60000,Mortgage,5.0,Home Improvement,3000,14.59,Yes,3
+p65,23,37000,Mortgage,3.0,Personal,6400,11.71,No,3
+p66,24,41000,Rent,3.0,Education,6000,8.9,No,3
+p67,24,34000,Mortgage,0.0,Medical,10000,12.18,No,4
+p68,21,84000,Mortgage,5.0,Debt Consolidation,10000,12.53,No,4
+p69,26,68399,Mortgage,7.0,Personal,10500,6.91,No,3
+p70,23,55000,Rent,0.0,Personal,10200,12.73,Yes,2
+p71,25,43000,Own,5.0,Venture,8000,7.14,No,4
+p72,27,30000,Rent,2.0,Debt Consolidation,7000,10.37,No,7
+p73,25,154000,Mortgage,4.0,Personal,12225,7.49,No,4
+p74,22,51996,Rent,3.0,Home Improvement,14500,13.16,Yes,2
+p75,26,67000,Rent,9.0,Venture,8000,7.14,No,2
+p76,23,74800,Mortgage,4.0,Medical,8400,14.65,No,4
+p77,24,24000,Rent,0.0,Venture,7000,15.62,No,4
+p78,22,53000,Mortgage,6.0,Debt Consolidation,7750,7.14,No,4
+p79,37,46680,Mortgage,6.0,Venture,8000,15.21,No,15
+p80,22,110000,Mortgage,2.0,Venture,9000,11.11,No,4
+p81,34,52000,Rent,2.0,Venture,5000,13.99,Yes,8
+p82,26,68000,Rent,10.0,Education,20000,10.75,No,4
+p83,55,24543,Rent,3.0,Venture,4000,13.92,Yes,27
+p84,30,72000,Mortgage,13.0,Venture,12000,7.88,No,8
+p85,28,111000,Mortgage,12.0,Debt Consolidation,25000,19.79,No,5
+p86,39,49000,Rent,0.0,Debt Consolidation,15175,19.13,Yes,11
+p87,24,100000,Mortgage,0.0,Medical,10000,12.87,Yes,4
+p88,22,50000,Mortgage,3.0,Education,2500,7.51,No,4
+p89,34,140000,Mortgage,17.0,Venture,12000,15.21,Yes,10
+p90,36,53000,Mortgage,0.0,Debt Consolidation,2200,14.35,Yes,17
+p91,24,28800,Own,8.0,Venture,6000,10.74,No,2
+p92,29,97000,Own,3.0,Venture,12000,11.83,No,5
+p93,51,28000,Rent,3.0,Venture,8000,11.86,No,26
+p94,22,42500,Rent,2.0,Debt Consolidation,5000,12.42,No,4
+p95,24,24000,Rent,8.0,Debt Consolidation,4750,10.62,No,3
+p96,23,50400,Mortgage,7.0,Venture,2500,10.99,No,2
+p97,30,41600,Mortgage,2.0,Education,4500,6.76,No,9
+p98,24,30000,Rent,2.0,Debt Consolidation,14000,7.9,No,2
+p99,25,32400,Mortgage,9.0,Personal,10000,13.99,Yes,3
+p100,22,60000,Mortgage,6.0,Personal,12900,11.14,No,4
+p101,23,36000,Rent,0.0,Medical,3000,7.29,No,3
+p102,27,89700,Rent,1.0,Venture,6000,11.99,No,7
+p103,45,90000,Mortgage,3.0,Venture,2500,11.99,No,13
+p104,32,36000,Own,0.0,Medical,4900,13.22,No,10
+p105,23,35004,Rent,4.0,Medical,5000,14.72,Yes,3
+p106,25,30000,Rent,6.0,Medical,4000,9.76,No,3
+p107,25,51000,Mortgage,9.0,Debt Consolidation,5500,16.77,Yes,2
+p108,21,30000,Mortgage,0.0,Education,2400,11.71,No,3
+p109,36,103000,Rent,0.0,Debt Consolidation,20000,13.79,Yes,17
+p110,25,28800,Mortgage,9.0,Home Improvement,6250,10.25,No,2
+p111,23,103000,Mortgage,1.0,Personal,20000,17.04,No,2
+p112,22,50000,Rent,6.0,Education,10000,13.57,Yes,3
+p113,23,98000,Mortgage,7.0,Debt Consolidation,20000,13.57,No,4
+p114,34,62000,Rent,5.0,Venture,12000,10.99,No,6
+p115,25,55315,Rent,3.0,Education,15000,10.74,No,2
+p116,22,42000,Mortgage,3.0,Venture,7000,14.84,No,3
+p117,22,50000,Mortgage,6.0,Education,13000,10.65,No,3
+p118,28,75000,Rent,13.0,Home Improvement,20000,13.16,No,9
+p119,23,17004,Rent,3.0,Medical,5000,6.54,No,2
+p120,24,51000,Own,6.0,Venture,6000,10.75,No,2
+p121,25,35000,Mortgage,1.0,Home Improvement,5400,12.17,No,4
+p122,30,65000,Rent,14.0,Debt Consolidation,7000,13.49,No,8
+p123,50,35880,Rent,0.0,Medical,4600,12.23,Yes,13
+p124,36,48000,Rent,8.0,Medical,15000,13.98,No,15
+p125,21,30000,Rent,3.0,Education,5600,13.61,Yes,2
+p126,27,70000,Rent,3.0,Education,3000,7.68,No,10
+p127,26,65000,Rent,1.0,Personal,10000,7.66,No,3
+p128,26,45000,Rent,10.0,Debt Consolidation,15000,7.29,No,4
+p129,30,98000,Rent,14.0,Personal,8525,10.78,No,9
+p130,22,53000,Rent,3.0,Medical,10000,9.99,No,4
+p131,21,12120,Rent,0.0,Debt Consolidation,3600,8.32,No,2
+p132,24,35004,Other,6.0,Medical,18225,9.63,No,3
+p133,26,75000,Mortgage,9.0,Medical,4000,12.99,Yes,2
+p134,44,37000,Rent,0.0,Personal,3500,12.87,No,13
+p135,30,45000,Rent,0.0,Personal,6000,12.69,No,8
+p136,26,45900,Rent,0.0,Personal,12000,10.39,No,3
+p137,24,75744,Mortgage,2.0,Personal,15000,10.38,No,2
+p138,28,73008,Mortgage,2.0,Education,14000,12.73,Yes,6
+p139,22,27376,Rent,0.0,Education,10000,10.28,No,3
+p140,24,36000,Rent,5.0,Venture,4500,7.14,No,4
+p141,35,48000,Own,6.0,Home Improvement,4200,13.61,No,7
+p142,24,22000,Rent,8.0,Education,11000,7.51,No,2
+p143,26,75000,Mortgage,10.0,Debt Consolidation,10000,8.94,No,2
+p144,26,41004,Mortgage,5.0,Venture,16000,10.95,No,3
+p145,38,53712,Mortgage,7.0,Venture,4000,13.43,Yes,12
+p146,34,120000,Own,4.0,Venture,7800,10.99,No,9
+p147,23,46800,Rent,4.0,Education,14000,10.37,No,3
+p148,28,85000,Rent,8.0,Education,8000,11.71,No,6
+p149,22,8000,Rent,0.0,Venture,5400,7.75,No,4
+p150,27,48000,Mortgage,0.0,Home Improvement,8000,10.59,No,9
+p151,40,136000,Mortgage,5.0,Education,21000,9.99,No,13
+p152,24,55000,Mortgage,2.0,Home Improvement,8000,8.0,No,2
+p153,32,80000,Rent,6.0,Debt Consolidation,9600,11.14,No,5
+p154,30,64600,Mortgage,8.0,Medical,8000,15.99,Yes,6
+p155,26,144000,Rent,0.0,Debt Consolidation,5800,7.29,No,3
+p156,22,29100,Rent,2.0,Personal,6250,16.07,Yes,3
+p157,21,37740,Rent,0.0,Debt Consolidation,9600,13.11,Yes,4
+p158,28,64049,Mortgage,7.0,Education,20000,12.69,No,7
+p159,24,28500,Rent,3.0,Debt Consolidation,2500,11.36,No,4
+p160,24,46500,Mortgage,0.0,Home Improvement,16000,12.53,Yes,3
+p161,23,66000,Rent,3.0,Education,3000,5.99,No,2
+p162,37,68000,Own,20.0,Venture,7000,7.29,No,11
+p163,22,75000,Mortgage,6.0,Medical,25000,9.25,No,2
+p164,23,52692,Rent,4.0,Medical,3500,12.23,Yes,4
+p165,22,22000,Mortgage,6.0,Education,7000,11.71,No,2
+p166,24,33996,Rent,2.0,Home Improvement,5000,14.96,No,2
+p167,24,26400,Own,8.0,Venture,3000,10.59,No,2
+p168,22,70000,Rent,3.0,Venture,9000,13.49,Yes,2
+p169,26,33996,Rent,10.0,Venture,7000,8.0,No,2
+p170,25,72000,Mortgage,9.0,Education,14000,12.42,No,2
+p171,29,162480,Mortgage,2.0,Personal,25000,12.42,No,10
+p172,25,133900,Mortgage,9.0,Venture,7500,13.49,Yes,2
+p173,27,26000,Rent,6.0,Personal,6000,10.75,No,10
+p174,23,12000,Rent,2.0,Personal,3075,10.37,No,2
+p175,22,61000,Mortgage,6.0,Medical,12000,13.49,No,4
+p176,34,135600,Mortgage,10.0,Education,1000,5.42,No,7
+p177,33,55920,Mortgage,9.0,Education,22000,7.88,No,6
+p178,29,72000,Mortgage,3.0,Medical,12000,11.49,No,5
+p179,34,220000,Mortgage,13.0,Debt Consolidation,11275,12.99,Yes,8
+p180,23,50000,Rent,0.0,Education,19400,12.69,No,2
+p181,41,250000,Mortgage,14.0,Debt Consolidation,4200,13.11,No,14
+p182,21,192000,Mortgage,123.0,Venture,20000,6.54,No,4
+p183,24,156000,Mortgage,8.0,Personal,15000,10.25,No,2
+p184,33,51996,Mortgage,3.0,Debt Consolidation,14000,8.88,No,9
+p185,27,65000,Mortgage,8.0,Medical,3000,12.42,No,10
+p186,29,115000,Mortgage,3.0,Debt Consolidation,4000,13.48,No,10
+p187,24,75000,Rent,0.0,Debt Consolidation,17000,12.53,No,2
+p188,25,62000,Mortgage,9.0,Venture,8500,10.99,No,2
+p189,34,120000,Mortgage,4.0,Medical,16800,6.91,No,6
+p190,23,38400,Own,7.0,Personal,6000,13.24,Yes,3
+p191,22,35500,Mortgage,0.0,Education,4000,12.53,No,2
+p192,23,33000,Own,5.0,Venture,3600,11.58,No,4
+p193,26,75000,Mortgage,4.0,Debt Consolidation,21000,11.48,No,4
+p194,25,32000,Mortgage,1.0,Debt Consolidation,8000,13.16,No,2
+p195,22,60000,Rent,0.0,Medical,5500,7.88,No,2
+p196,28,101000,Mortgage,4.0,Education,5000,9.91,No,5
+p197,21,42000,Rent,5.0,Venture,11200,16.77,No,4
+p198,30,98000,Mortgage,14.0,Education,9000,11.49,No,5
+p199,27,75800,Rent,0.0,Education,2475,6.54,No,8
+p200,42,52800,Rent,3.0,Education,5600,10.99,No,14
+p201,22,100000,Rent,3.0,Education,6000,12.98,Yes,2
+p202,53,28000,Rent,2.0,Debt Consolidation,7000,6.0,No,26
+p203,30,58000,Own,7.0,Personal,6000,5.79,No,5
+p204,22,42000,Rent,6.0,Debt Consolidation,7000,12.68,No,2
+p205,24,28900,Mortgage,2.0,Debt Consolidation,5500,12.98,Yes,2
+p206,24,70000,Own,4.0,Venture,8000,15.95,Yes,2
+p207,26,99996,Rent,7.0,Personal,8000,16.32,Yes,3
+p208,30,144000,Mortgage,7.0,Medical,6000,8.49,No,8
+p209,33,84000,Mortgage,17.0,Venture,20000,5.99,No,8
+p210,31,91000,Rent,12.0,Education,4000,7.66,No,6
+p211,24,33660,Rent,3.0,Personal,1800,7.51,No,4
+p212,27,71738,Mortgage,4.0,Education,11500,9.63,No,9
+p213,29,60000,Mortgage,2.0,Home Improvement,1500,6.03,No,9
+p214,22,70800,Rent,6.0,Education,10000,12.61,No,2
+p215,28,80000,Mortgage,13.0,Education,21000,11.36,No,10
+p216,26,40000,Rent,11.0,Personal,5000,9.91,No,3
+p217,32,288000,Mortgage,8.0,Debt Consolidation,25000,14.83,Yes,10
+p218,24,50000,Mortgage,7.0,Home Improvement,6000,13.99,Yes,4
+p219,26,60996,Rent,6.0,Home Improvement,3000,12.22,Yes,4
+p220,29,45204,Rent,8.0,Medical,4000,11.48,No,7
+p221,31,100000,Mortgage,0.0,Home Improvement,15000,9.63,No,5
+p222,49,95000,Mortgage,2.0,Home Improvement,3000,5.42,No,12
+p223,29,61455,Mortgage,1.0,Medical,10000,18.09,No,9
+p224,25,63300,Mortgage,0.0,Education,17600,12.53,Yes,4
+p225,22,50004,Rent,2.0,Education,4000,6.92,No,4
+p226,21,58951,Mortgage,5.0,Medical,3000,7.51,No,4
+p227,21,81000,Own,0.0,Education,8400,12.53,Yes,3
+p228,25,35000,Rent,9.0,Medical,7200,8.9,No,3
+p229,24,44000,Rent,1.0,Education,4000,8.7,No,2
+p230,50,30000,Rent,8.0,Venture,5000,12.84,Yes,15
+p231,25,30004,Rent,3.0,Debt Consolidation,3800,14.84,No,2
+p232,27,36000,Mortgage,5.0,Home Improvement,5500,10.36,No,5
+p233,29,88055,Mortgage,6.0,Debt Consolidation,21600,12.42,No,8
+p234,35,48000,Rent,0.0,Debt Consolidation,3400,13.06,No,9
+p235,53,24000,Rent,5.0,Medical,4400,12.42,No,23
+p236,28,110000,Mortgage,0.0,Venture,15000,16.32,Yes,5
+p237,32,37440,Own,0.0,Medical,5000,15.37,No,5
+p238,38,125000,Rent,0.0,Education,12000,7.66,No,14
+p239,25,54000,Mortgage,2.0,Personal,4000,11.11,No,3
+p240,32,99996,Mortgage,16.0,Home Improvement,7000,7.14,No,9
+p241,22,63211,Rent,7.0,Debt Consolidation,6500,11.86,No,2
+p242,28,77500,Own,3.0,Education,8000,8.49,No,7
+p243,23,72000,Mortgage,5.0,Medical,16000,7.4,No,3
+p244,31,50000,Mortgage,8.0,Debt Consolidation,6000,13.49,Yes,9
+p245,23,27000,Rent,6.0,Medical,10000,10.65,No,3
+p246,26,60000,Mortgage,5.0,Education,6000,11.83,No,2
+p247,33,43200,Mortgage,2.0,Debt Consolidation,5000,7.51,No,8
+p248,24,67500,Mortgage,3.0,Personal,3000,7.88,No,4
+p249,21,21600,Rent,0.0,Medical,2000,11.71,No,4
+p250,25,55000,Rent,9.0,Home Improvement,14000,6.62,No,2
